@@ -1,0 +1,54 @@
+Compilation
+===
+
+Load this into Eclipse as an existing Java Project.
+
+If you get build errors:
+
+  Project -> Properties -> Java Build Path -> Libraries (tab)
+  Make sure all jar files in lib/ directory have been added.
+
+  Project -> Properties -> Java Build Path -> Order and Export (tab)
+  Move "xml-apis.jar" to bottom of list (below JRE system library)
+
+To run a program with a main() method:
+
+  Right click on class in Package Explorer -> Run as -> Java Application
+
+
+Main Contents
+===  
+
+nlp.nicta.filters: stop word checker, stemmer, other filters
+
+search: examples of Lucene tools to build indices and do various searches,
+        main classes of interest:
+        
+  FileIndexBuilder: builds a fielded Lucene index from all files in a directory 
+                    with a given file extension (DocAdder builds the fields)
+                    
+  SimpleSearchRanker: exhibits Lucene query parser and query processing
+                    functionality (see main() for more details)
+                    
+  CustomSimilarity: to modify default similarity function of lucene, you need to 
+  					extend DefaultSimilarity class as given. 
+  
+  DocAdder: add documents into index
+  FileFinder: find files from pointed folder. switch recursive search and type of file expected.
+  IndexDisplay: show created index
+  
+  					
+  					
+Step by Step instruction
+===
+1, import lucene-demo as a project into Eclipse
+2, Run FileIndexBuilder to create structured file storage for testing files in "/src/search/documents"
+3, display the created index by running IndexDisplay.java to make sure your index is generated
+(Note: you also can create index in memory by running MemoryIndexBuilder.java)
+4, Run SimpleSearchRanker.java to see the search results of built-in queries
+5, Test the search engine on testing data in "/lab1-q1-test" 
+6, Test the search engine on data collection "government" which you can download from github
+7, modify _analyzer in FileIndexBuilder to improve search performance
+8, You can also modify similarity function to further improve performance
+
+
