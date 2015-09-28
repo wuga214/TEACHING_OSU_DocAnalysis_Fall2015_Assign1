@@ -1,5 +1,9 @@
 # OSU_DocAnalysis_Fall2015_Assign1
 
+<b>Submit your assignment on Canvas(only for assignment 1)</b><br />
+https://oregonstate.instructure.com/courses/1577985<br />
+
+
 Step by Step instruction
 ===
 1, import lucene-demo as a project into Eclipse<br />
