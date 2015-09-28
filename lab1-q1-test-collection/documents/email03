@@ -1,0 +1,482 @@
+Received: from act-MTAout3.csiro.au (150.229.7.39) by
+ EXNSW-HTCA02.nexus.csiro.au (130.155.117.127) with Microsoft SMTP Server
+ (TLS) id 8.1.393.1; Sat, 23 Jan 2010 04:12:04 +1100
+Received: from anumail9.anu.edu.au ([130.56.64.135])  by
+ act-ironport-ldap.csiro.au with ESMTP/TLS/DHE-RSA-AES256-SHA; 23 Jan 2010
+ 04:12:04 +1100
+Received: from mailin2.anu.edu.au (mailin2.anu.edu.au [130.56.64.229])	by
+ anumail9.anu.edu.au (8.14.3/8.14.3) with ESMTP id o0MHC3fe016904	for
+ <paul.thomas@anu.edu.au>; Sat, 23 Jan 2010 04:12:03 +1100 (EST)
+Received: from mailin2.anu.edu.au (localhost.localdomain [127.0.0.1])	by
+ localhost (Postfix) with SMTP id B45CE9685F4	for <paul.thomas@anu.edu.au>;
+ Sat, 23 Jan 2010 04:12:03 +1100 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [128.103.96.254])	by
+ mailin2.anu.edu.au (Postfix) with ESMTP id 397DA9685EA	for
+ <paul.thomas@anu.edu.au>; Sat, 23 Jan 2010 04:12:02 +1100 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [127.0.0.1])	by
+ chem.harvard.edu (Postfix) with ESMTP id 337F9113E3D;	Fri, 22 Jan 2010
+ 12:00:00 -0500 (EST)
+Received: from qmta12.westchester.pa.mail.comcast.net
+	(qmta12.westchester.pa.mail.comcast.net [76.96.59.227])	by chem.harvard.edu
+ (Postfix) with ESMTP id 78C8B113CEE	for <mini-air@air.harvard.edu>; Fri, 22
+ Jan 2010 11:58:33 -0500 (EST)
+Received: from omta22.westchester.pa.mail.comcast.net ([76.96.62.73])	by
+ qmta12.westchester.pa.mail.comcast.net with comcast	id
+ Yef51d0051ap0As5CgyaNN; Fri, 22 Jan 2010 16:58:34 +0000
+Received: from [192.168.1.101] ([76.24.16.62])	by
+ omta22.westchester.pa.mail.comcast.net with comcast	id
+ Ygyr1d0081LLZwU3igyr0N; Fri, 22 Jan 2010 16:58:52 +0000
+From: Marc Abrahams <marca@chem2.harvard.edu>
+To: "mini-air@chem.harvard.edu" <mini-air@chem.harvard.edu>
+CC: Marc Abrahams <marca@improbable.com>
+Sender: "mini-air-bounces@chem.harvard.edu"
+	<mini-air-bounces@chem.harvard.edu>
+Date: Sat, 23 Jan 2010 03:58:32 +1100
+Subject: [Mini-air] January mini-AIR: Club for bald scientists,	Do dogs do
+ calculus?, etc.
+Thread-Topic: [Mini-air] January mini-AIR: Club for bald scientists,	Do dogs
+ do calculus?, etc.
+Thread-Index: AcqbhgVMqGZ60S8uS/asZsm+GAzN7Q==
+Message-ID: <F084F7DE-7834-4557-8CC9-AB67FBD6D1D7@chem2.harvard.edu>
+List-Help: <mailto:mini-air-request@air.harvard.edu?subject=help>
+List-Subscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=subscribe>
+List-Unsubscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=unsubscribe>
+Accept-Language: en-NZ, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: EXNSW-HTCA02.nexus.csiro.au
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-TNEF-Correlator:
+x-ironport-av: E=Sophos;i="4.49,324,1262523600";    d="scan'208";a="46293654"
+x-sbrs: 4.5
+x-ironport-anti-spam-filtered: true
+x-ironport-anti-spam-result:
+ AooAAGtrWUuCOECHkWdsb2JhbACWcYU4AQEBAQkLCgcTBaxpgWgBCYUIh2SCKAUfUoEeBIk+AYQZ
+received-spf: None identity=helo; client-ip=130.56.64.135;
+  receiver=act-ironport-ldap.csiro.au;
+  envelope-from="mini-air-bounces@chem.harvard.edu";
+  x-sender="postmaster@anumail9.anu.edu.au";  x-conformance=sidf_compatible
+authentication-results: act-ironport-ldap.csiro.au; dkim=neutral (message
+ not signed) header.i=none
+delivered-to: mini-air@air.harvard.edu
+x-pmx-version: 5.5.9.388399, Antispam-Engine: 2.7.2.376379, Antispam-Data:
+ 2010.1.22.165716 external
+list-archive: <http://chem.harvard.edu/pipermail/mini-air>
+list-id: The mini-Annals of Improbable Research <mini-air.air.harvard.edu>
+list-post: <mailto:mini-air@air.harvard.edu>
+errors-to: mini-air-bounces@chem.harvard.edu
+x-mailman-version: 2.1.8
+x-beenthere: mini-air@air.harvard.edu
+x-original-to: mini-air@air.harvard.edu
+x-perlmx-spam: Gauge=X, Probability=10%, Report=' TO_IN_SUBJECT 0.5,
+ KNOWN_FREEWEB_URI 0.05, BODY_SIZE_10000_PLUS 0, TO_NO_NAME 0,
+ __CP_MEDIA_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0,
+ __FRAUD_VIPS 0, __FRAUD_WINNER 0, __HAS_LIST_HEADER 0, __HAS_LIST_HELP 0,
+ __HAS_LIST_SUBSCRIBE 0, __HAS_LIST_UNSUBSCRIBE 0, __HAS_MSGID 0,
+ __HAS_X_MAILER 0, __KNOWN_FREEWEB_URI2 0, __LINES_OF_YELLING 0,
+ __MIME_TEXT_ONLY 0, __MIME_VERSION 0, __MIME_VERSION_APPLEMAIL 0,
+ __MSGID_APPLEMAIL 0, __SANE_MSGID 0, __STOCK_PHRASE_6 0, __TO_MALFORMED_2 0,
+ __URI_NS , __USER_AGENT_APPLEMAIL 0, __X_MAILER_APPLEMAIL 0'
+Content-Type: text/plain;
+  charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Length: 31634
+X-UID: 32818
+Status: R
+X-Status: N
+X-KMail-EncryptionState:  
+X-KMail-SignatureState:  
+X-KMail-MDN-Sent:  
+
+PLEASE FORWARD/POST AS APPROPRIATE
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+The mini-Annals of Improbable Research ("mini-AIR")
+January 2010, issue number 2010-01. ISSN 1076-500X.
+----------------------------------------------------------
+Monthly mini update/alert from the Annals of Improbable Research
+        This issue is at
+        <http://www.improbable.com/airchives/miniair/2010/mini2010-01.htm>
+        Archive at <http://improbable.com/airchives/miniair/>
+Key words: improbable research, science humor, Ig Nobel, AIR, the
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+
+2010-01-01 TABLE OF CONTENTS
+
+2010-01-02 Imminent Events
+2010-01-03 The Magazine: Delayed Issue, Imminent Planes
+2010-01-04 The Club for Bald Scientists
+2010-01-05 Nature Loves a Mystery
+2010-01-06 Ig in San Diego Feb 19
+2010-01-07 Blog Burgeoning
+2010-01-08 RESEARCH SPOTLIGHT: Mediocrity in the Hedges
+2010-01-09 Mad Honey Sex Poet
+2010-01-10 Four-Horodecki Entanglement Competition
+2010-01-11 Big Bank Theory and the Big Bank Opera
+2010-01-12 MORE IMPROBABLE: Potheads, Gaga, Combs, & Epithets
+2010-01-13 MAY WE RECOMMEND: Do Dogs Do Calculus?
+2010-01-14 Improbable Research Events
+2010-01-15 -- How to Subscribe to AIR (*)
+2010-01-16 -- Our Address (*)
+2010-01-17 -- Please Forward/Post This Issue! (*)
+2010-01-18 -- How to Receive mini-AIR, etc. (*)
+
+        Items marked (*) are reprinted in every issue.
+
+        mini-AIR is
+        but a wee monthly *supplement*
+        to the bi-monthly magazine Annals of Improbable Research
+
+
+----------------------------------------------------------
+2010-01-02 Imminent Events
+
+        AAAS, San Diego                 Feb 19, 2010
+
+        UK Tour                         Mar 12-21, 2010
+        Newcastle, Dundee, Portsmouth, London
+        DETAILS: <http://bit.ly/8lKeHd>
+        If your institution, too, would like to host a show,
+        please get in touch with us ASAP!
+
+        Complete events schedule: <http://bit.ly/6SGDcA>
+
+
+----------------------------------------------------------
+2010-01-03 The Magazine: Delayed Issue, Imminent Planes
+
+The special Ig Nobel issue of the magazine got stuck at the
+printer. Something went very wrong there. We've been told the
+magazine finally did go into the mail yesterday. US subscribers
+should be receiving it over the next few days, subscribers
+elsewhere after a lilting snail-mail delay.
+
+We apologize for this delay. We and the printer will work hard to
+keep such a thing from happening again. The Jan/Feb issue, the
+special Beards & Bagels & Paper Airplanes issue, should be making
+its way into the world, more timely-ly a few weeks from now.
+
+Read many back issues online at:
+<http://www.improbable.com/magazine/>.
+
+
+----------------------------------------------------------
+2010-01-04 The Club for Bald Scientists
+
+Bald scientists now have a place of their own.
+
+The Luxuriant Former Hair Club for Scientists (LFHCfS) is a club
+for scientists who have a luxuriant head of former hair.
+
+LFHCfS is a conjoined-twin organization to the Luxuriant Flowing
+Hair Club for Scientists (LFHCfS). The two clubs share their
+acronym, in heady exhilaration.
+
+Henceforth, scientists who have lots of hair and scientists who
+had lots of hair can rejoice together, and bask in universal
+admiration.
+
+Mitch Dushay become the first member of the Luxuriant Former Hair
+Club for Scientists. See Mitch and his head at
+<http://improbable.com/2010/01/10/mitch-dushay-joins-lfhcfs>
+
+And see new Luxuriant Flowing Hair Club for Scientists member
+Joanne Manaster and her hair at
+<http://improbable.com/2010/01/13/joanne-manaster-joins-jfhcfs>
+
+Want to join LFHCfS? Here's how:
+<http://improbable.com/projects/hair/#HowToJoin>
+
+
+----------------------------------------------------------
+2010-01-05 Nature Loves a Mystery
+
+Nature magazine (in the person of Katharine Sanderson) has joined
+us (and gone beyond us) in trying to solve the mystery of
+Scientific Research Publishing, a journals publisher that
+presents old studies as if they are new. Here's Nature's report
+(which requires a subscription):
+<http://www.nature.com/news/2010/100113/full/463148a.html>
+
+For background, see
+<http://improbable.com/2010/01/07/strange-journals-scam-update-2>
+
+
+----------------------------------------------------------
+2010-01-06 Ig in San Diego Feb 19
+
+Two new Ig Nobel Prize winners and two past Ig winners will
+headline the show at the AAAS Annual Meeting next month.
+
+Topics include: invention of the emergency bra/facemask; 60 years
+of knuckle-cracking; string inevitably tangling itself into
+knots; romantic love being biochemically indistinguishable from
+obsessive-compulsive disorder; a Ph.D dancing her dissertation;
+the history of how Murphy's Law got its name; and a physician's
+appreciation of objects found in her patients' rectums.
+
+The show is at the San Diego Marriott Hotel and Marina, in the
+Seaview Room, Friday night, Feb 19, starting at 8:00. This event
+(unlike most of the AAAS meeting) will be open to the public,
+free. Bring friends, and get there early. It always overflows.
+
+See the lineup at <http://improbable.com/improbable-research-shows/complete=
+-schedule/>
+
+
+----------------------------------------------------------
+2010-01-07 Blog Burgeoning
+
+You can now write comments on the Improbable blog
+<http://improbable.com>. Thanks to the many of you who patiently
+(and in a few cases not so patiently) suggested it.
+
+And we're posting more items every day.
+
+And some impressively new Improbable bloggers are joining the
+mix, beginning with Martin Gardiner. Martin is the founder of
+Really Magazine; he is also our Buenos Aires Desk Chief. Other
+Improbable bloggers will be leaping in soon.
+
+
+----------------------------------------------------------
+2010-01-08 RESEARCH SPOTLIGHT: Mediocrity in the Hedges
+
+This month's specially selected study is:
+
+"How Smart Are the Smart Guys? A Unique View from Hedge Fund
+Stock Holdings," John M. Griffin and Jin Xu, SSRN research
+924242, March 2007. <http://bit.ly/74Isy2> The authors, at the
+University of Texas at Austin, report:
+
+"We provide the first comprehensive examination of hedge funds'
+long-equity positions and the performance of these stock
+holdings.... Overall, our study raises serious questions about
+the proficiency of hedge fund managers."
+
+
+----------------------------------------------------------
+2010-01-09 Mad Honey Sex Poet
+
+The judges have chosen a winner in the Mad Honey Sex Limerick
+Competition, which asked for a limerick to honor the study "Mad
+Honey Sex: Therapeutic Misadventures From an Ancient Biological
+Weapon," Ahmet Demircan, et al., Annals of Emergency Medicine,
+2009. <http://bit.ly/7OgfWn>
+
+The winner is INVESTIGATOR LESLIE ROSENBLOOD, who wrote:
+
+Alternative "doctors" use honey
+To part middle aged men from their money.
+   "It's not poison," they say,
+   "You'll have sex every day!"
+As though fainting and barfing were funny.
+
+Here's the offering from LIMERICK LAUREATE MARTIN EIGER:
+
+It wasn't for love or for money,
+I had me some badass mad honey.
+   The sex was fantastic,
+   Orgasmic and spastic.
+The symptoms thereafter? Not funny.
+
+The judges note that the honey/money/funny troika figured in more
+than half the submitted entries. See some of the runners-up at
+<http://improbable.com/2010/01/21/mad-honey-runners-up>
+
+
+----------------------------------------------------------
+2010-01-10 Four-Horodecki Entanglement Competition
+
+Quantum entanglement and four Horodeckis inspire this month's
+limerick competition. To enter, compose an original limerick that
+illuminates the nature of this report (suggested by investigators
+David F. Austin and David Pendlebury):
+
+"Quantum Entanglement," Ryszard Horodecki, Pawel Horodecki,
+Michal Horodecki and Karol Horodecki, Reviews of Modern Physics,
+vol. 81, no. 2, 2009, pp. 865-942. <http://bit.ly/4ENWEo> The
+authors, at the University of Gdansk, Poland, report:
+
+"All our former experience with application of quantum theory
+seems to say that what is predicted by quantum formalism must
+occur in the laboratory.... However, it appears that this new
+resource is complex and difficult to detect.... The basic role of
+entanglement witnesses in detection of entanglement is
+emphasized."
+
+RULES: Please make sure that: (1) your rhymes actually do; and
+(2) your poem is in classic, trills-off-the-tongue limerick form.
+
+PRIZE: The winning poet will receive (if we manage to send it to
+the correct address) a free, perhaps entangled, high-res PDF
+issue of the Annals of Improbable Research. Send entries (one
+entry per entrant) to:
+
+        FOUR-HORODECKI ENTANGLEMENT LIMERICK COMPETITION
+        c/o <marca AT chem2.harvard.edu>
+
+
+----------------------------------------------------------
+2010-01-11 Big Bank Theory and the Big Bank Opera
+
+We've made a nicely edited (and captioned) video version of "The
+Big Bank Opera." The 4-act mini-opera premiered at the recent Ig
+Nobel Prize ceremony. (Act 3 is the epic song "The Big Bank
+Theory.")
+
+The opera stars Maria Ferrante, Ben Sears, and Branden Grimmett.
+
+Supporting cast, in non-singing roles, includes: Benoit
+Mandelbrot, Stephen Wolfram, John Barrett, Wade Adams;  Nobel
+laureates Rich Roberts, Wolfgang Ketterle, Dudley Herschbach,
+Paul Krugman, Roy Glauber, Frank Wilczek, Martin Chalfie, Orhan
+Pamuk, and William Lipscomb; and many Ig Nobel Prize winners.
+
+Watch it at <http://improbable.com/2010/01/08/the-big-bank-opera-video>
+
+
+----------------------------------------------------------
+2010-01-12 MORE IMPROBABLE: Potheads, Gaga, Combs & Epithets
+
+BLOG <http://improbable.com/>
+<> Teapots of human heads
+<> Downside of coffee enemas
+<> Thanotourism
+<> 2 equations: GA GA & Lady Gaga
+And many more...
+
+NEWSPAPER <http://improbable.com/category/newspaper-column>
+<> Expletives of lower working-class women
+<> Ministry of clowns
+<> Forceful hair-combing measured
+<> He watches hands not being washed
+
+
+-----------------------------------------------------------
+2010-01-13 MAY WE RECOMMEND: Do Dogs Do Calculus?
+
+"Do Dogs Know Calculus?" Timothy J. Pennings, College Mathematics
+Journal, vol. 34, no. 3, May 2003, pp. 178-82.
+<http://bit.ly/8oA0e9>
+
+"Dogs Don't Need Calculus," Michael Bolt and Daniel C. Isaksen,
+College Mathematics Journal, Volume 41, Number 1, January 2010,
+pp. 10-16. <http://bit.ly/6ORX8o>
+
+
+------------------------------------------------------------
+2010-01-14 Improbable Research Events
+
+For details and additional events, see
+<http://improbable.com/improbable-research-shows/complete-schedule>
+
+AAAS, San Diego                                 - Feb 19, 2010
+
+UK Tour                                         - Mar 2010
+
+UKSG, Edinburgh                                 - Apr 14, 2010
+
+Edinburgh Science Festival                      - Apr 17, 2010
+
+Ig Nobel Sweden/Denmark Tour                    - Apr 2010
+
+Cambridge (MA) Science Festival         - date TBA
+
+Ig Nobel Prize ceremony                         - Sep 30, 2010
+
+Ig Informal Lectures                            - Oct 2, 2010
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+2010-01-15 -- How to Subscribe to AIR (*)
+
+The Annals of Improbable Research is a 6-issues-per-year
+magazine. (It's bigger and better than the little bits of
+overflow material you've been reading in this newsletter).
+
+To subscribe to the paper-and-ink version, go to
+<http://improbable.com/subscribe/> or send in this form:
+..........................................................
+Name:
+Address:
+Address:
+City and State:
+Zip or postal code:
+Country
+Phone:          FAX:                    E-mail:
+.........................................................
+SUBSCRIPTIONS (6 issues per year):
+USA                     1 yr/$37                2 yrs/$69
+Canada/Mexico   1 yr/$46 US     2 yrs/$86 US
+Overseas                1 yr/$59 US     2 yrs/$109 US
+.........................................................
+Send payment (US bank check, or international money order, or
+Visa, Mastercard or Discover info) to:
+        Annals of Improbable Research (AIR)
+        PO Box 380853, Cambridge, MA 02238 USA
+        617-491-4437 FAX:617-661-0927 <air AT improbable.com>
+
+
+-----------------------------------------------------
+2010-01-16 -- Our Address (*)
+
+Annals of Improbable Research (AIR)
+PO Box 380853, Cambridge, MA 02238 USA
+617-491-4437 FAX:617-661-0927
+
+EDITORIAL: marca AT chem2.harvard.edu
+SUBSCRIPTIONS: subscriptions AT improbable.com
+WEB SITE: <http://www.improbable.com>
+
+
+-----------------------------------------------------
+2010-01-17 -- Please Forward/Post This Issue! (*)
+
+Please distribute copies of mini-AIR (or excerpts!) wherever
+appropriate. The only limitations are: A) Please indicate that
+the material comes from mini-AIR. B) You may NOT distribute mini-
+AIR for commercial purposes.
+
+        ------------- mini-AIRheads -------------
+EDITOR: Marc Abrahams
+MINI-PROOFREADER AND PICKER OF NITS (before we introduce the last
+few at the last moment): Wendy Mattson
+COMMUTATIVE EDITOR: Stanley Eigen
+ASSOCIATIVE EDITOR: Mark Dionne
+PSYCHOLOGY EDITOR: Robin Abrahams
+CO-CONSPIRATORS: Alice Shirrell Kaswell, Gary Dryfoos, Ernest
+Ersatz, S. Drew
+MAITRE DE COMPUTATION: Jerry Lotto
+AUTHORITY FIGURES: Nobel Laureates Dudley Herschbach, Sheldon
+Glashow, William Lipscomb, Richard Roberts
+
+(c) copyright 2010, Annals of Improbable Research
+
+
+-----------------------------------------------------
+2010-01-18 -- How to Receive mini-AIR, etc. (*)
+
+What you are reading right now is mini-AIR. Mini-AIR is a (free!)
+tiny monthly *supplement* to the bi-monthly print magazine.
+                ----------------------------
+To subscribe or unsubscribe, please visit
+<http://chem.harvard.edu/mailman/listinfo/mini-air>
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+
+
+_______________________________________________
+Mini-air mailing list
+Mini-air@air.harvard.edu
+http://chem.harvard.edu/mailman/listinfo/mini-air

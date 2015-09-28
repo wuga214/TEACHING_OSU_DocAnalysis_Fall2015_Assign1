@@ -1,0 +1,510 @@
+Received: from act-MTAout4.csiro.au (150.229.7.41) by
+ EXNSW-HTCA02.nexus.csiro.au (130.155.117.127) with Microsoft SMTP Server
+ (TLS) id 8.1.358.0; Thu, 28 May 2009 12:27:28 +1000
+Received: from anumail8.anu.edu.au ([130.56.64.134])  by
+ act-ironport-ldap.csiro.au with ESMTP/TLS/DHE-RSA-AES256-SHA; 28 May 2009
+ 12:27:28 +1000
+Received: from mailin4.anu.edu.au (mailin4.anu.edu.au [130.56.64.231])	by
+ anumail8.anu.edu.au (8.14.3/8.14.3) with ESMTP id n4S2RR2n006703	for
+ <paul.thomas@anu.edu.au>; Thu, 28 May 2009 12:27:27 +1000 (EST)
+Received: from mailin4.anu.edu.au (localhost.localdomain [127.0.0.1])	by
+ localhost (Postfix) with SMTP id 2A5964B0640	for <paul.thomas@anu.edu.au>;
+ Thu, 28 May 2009 12:27:27 +1000 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [128.103.96.254])	by
+ mailin4.anu.edu.au (Postfix) with ESMTP id 16BDF4B0559	for
+ <paul.thomas@anu.edu.au>; Thu, 28 May 2009 12:27:25 +1000 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [127.0.0.1])	by
+ chem.harvard.edu (Postfix) with ESMTP id 9741B113FFC;	Wed, 27 May 2009
+ 22:15:43 -0400 (EDT)
+Received: from mail-qy0-f110.google.com (mail-qy0-f110.google.com
+	[209.85.221.110])	by chem.harvard.edu (Postfix) with ESMTP id BEF5A113D36	for
+ <mini-air@air.harvard.edu>; Wed, 27 May 2009 22:14:35 -0400 (EDT)
+Received: by qyk8 with SMTP id 8so7759872qyk.27	for
+ <mini-air@air.harvard.edu>; Wed, 27 May 2009 19:14:35 -0700 (PDT)
+Received: by 10.224.67.213 with SMTP id s21mr897107qai.151.1243476875411;	Wed,
+ 27 May 2009 19:14:35 -0700 (PDT)
+Received: from ?192.168.1.102? (c-66-31-45-12.hsd1.ma.comcast.net
+	[66.31.45.12])	by mx.google.com with ESMTPS id
+ 8sm1021599qwj.51.2009.05.27.19.14.33	(version=TLSv1/SSLv3 cipher=RC4-MD5);
+	Wed, 27 May 2009 19:14:34 -0700 (PDT)
+From: Marc Abrahams <marca@chem2.harvard.edu>
+To: "mini-air@chem.harvard.edu" <mini-air@chem.harvard.edu>
+Sender: "mini-air-bounces@chem.harvard.edu"
+	<mini-air-bounces@chem.harvard.edu>
+Date: Thu, 28 May 2009 12:14:32 +1000
+Subject: [Mini-air] May mini-AIR: things shot in the air, horseface loach
+Thread-Topic: [Mini-air] May mini-AIR: things shot in the air, horseface
+ loach
+Thread-Index: AcnfO9i5UWeCkY8FT7OmKuyUYy9HhQ==
+Message-ID: <35B4DFDF-44E1-4906-ACF9-8BB5D6554F7A@chem2.harvard.edu>
+List-Help: <mailto:mini-air-request@air.harvard.edu?subject=help>
+List-Subscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=subscribe>
+List-Unsubscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=unsubscribe>
+Accept-Language: en-NZ, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: EXNSW-HTCA02.nexus.csiro.au
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-TNEF-Correlator:
+x-ironport-av: E=Sophos;i="4.41,262,1241359200";    d="scan'208";a="27518047"
+x-sbrs: 4.8
+x-ironport-anti-spam-filtered: true
+x-ironport-anti-spam-result:
+ An4BAJuTHUqCOECGlGdsb2JhbACXQz8BAQEBCQsICREFpF4BCYcmiE6CMwcdRnAFiDw
+received-spf: None identity=helo; client-ip=130.56.64.134;
+  receiver=act-ironport-ldap.csiro.au;
+  envelope-from="mini-air-bounces@chem.harvard.edu";
+  x-sender="postmaster@anumail8.anu.edu.au";  x-conformance=sidf_compatible
+authentication-results: act-ironport-ldap.csiro.au; dkim=neutral (message
+ not signed) header.i=none
+delivered-to: mini-air@air.harvard.edu
+x-pmx-version: 5.5.5.374460, Antispam-Engine: 2.7.1.369594, Antispam-Data:
+ 2009.5.28.21629 external
+list-archive: <http://chem.harvard.edu/pipermail/mini-air>
+list-id: The mini-Annals of Improbable Research <mini-air.air.harvard.edu>
+list-post: <mailto:mini-air@air.harvard.edu>
+errors-to: mini-air-bounces@chem.harvard.edu
+x-mailman-version: 2.1.8
+x-beenthere: mini-air@air.harvard.edu
+x-original-to: mini-air@air.harvard.edu
+x-perlmx-spam: Gauge=IIIIIIII, Probability=8%, Report=' KNOWN_FREEWEB_URI
+ 0.05, BODY_SIZE_10000_PLUS 0, TO_NO_NAME 0, __CP_URI_IN_BODY 0, __CT 0,
+ __CTE 0, __CT_TEXT_PLAIN 0, __HAS_LIST_HEADER 0, __HAS_LIST_HELP 0,
+ __HAS_LIST_SUBSCRIBE 0, __HAS_LIST_UNSUBSCRIBE 0, __HAS_MSGID 0,
+ __HAS_X_MAILER 0, __KNOWN_FREEWEB_URI2 0, __LINES_OF_YELLING 0,
+ __MIME_TEXT_ONLY 0, __MIME_VERSION 0, __MSGID_APPLEMAIL 0, __SANE_MSGID 0,
+ __TO_MALFORMED_2 0'
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Length: 34676
+X-UID: 21726
+Status: R
+X-Status: N
+X-KMail-EncryptionState:  
+X-KMail-SignatureState:  
+X-KMail-MDN-Sent:  
+
+PLEASE FORWARD/POST AS APPROPRIATE
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+The mini-Annals of Improbable Research ("mini-AIR")
+May 2009, Issue number 2009-05. ISSN 1076-500X.
+----------------------------------------------------------
+A free online supplement to the Annals of Improbable Research
+      This issue is at
+      <http://www.improbable.com/airchives/miniair/2009/mini2009-05.htm>
+      Archive at <http://improbable.com/airchives/miniair/>
+Key words: improbable research, science humor, Ig Nobel, AIR, the
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+
+
+2009-05-01 TABLE OF CONTENTS
+
+2009-05-02 Imminent Events
+2009-05-03 In the Magazine: Accounting Research Extravaganza
+2009-05-04 RESEARCH SPOTLIGHT: He Shot a Bullet in the Air...
+2009-05-05 He Was Shot by an Arrow in the Air
+2009-05-06 They Saw an Arrow in the Mucous Membrane
+2009-05-07 Banana Fish vs. Horseface Loach
+2009-05-08 Dead Duck Day
+2009-05-09 Three Laus on the Flu
+2009-05-10 Bored Piles Poet
+2009-05-11 Apple-Braining Competition
+2009-05-12 OTHER IMPROBABILITIES: Belgian Dopes, Feline Intent
+2009-05-13 MAY WE RECOMMEND: Hit the Nail & Be Sarcastic
+2009-05-14 Improbable Research Events
+2009-05-15 -- How to Subscribe to AIR (*)
+2009-05-16 -- Our Address (*)
+2009-05-17 -- Please Forward/Post This Issue! (*)
+2009-05-18 -- How to Receive mini-AIR, etc. (*)
+
+      Items marked (*) are reprinted in every issue.
+
+      mini-AIR is
+      but a wee monthly *supplement*
+      to the bi-monthly magazine Annals of Improbable Research
+
+----------------------------------------------------------
+2009-05-02 Imminent Events
+
+June 5, Dead Duck Day, Rotterdam
+      Details, see section 2009-05-08 below.
+
+      Full events schedule at <http://tinyurl.com/k87xs>
+
+
+----------------------------------------------------------
+2009-05-03 In the Magazine: Accounting Research Extravaganza
+
+The special Accounting issue (vol. 15, no. 3) of the Annals of
+Improbable Research has just gone to the printer, from where it
+will emerge, wrapped in giddiness, in just a few short weeks.
+Highlights include:
+
+<> The Fingers of Fabulous Financial Traders
+
+<> The Blood of Fabulous Financial Traders
+
+<> The Genes of Fabulous Financial Traders
+
+In the meantime, the special Navel Lint issue (vol. 15, no. 2) is
+online at
+<http://improbable.com/airchives/paperair/volume15/v15i2/v15i2.html>.
+Download a free low-res PDF, or get a spiffy hi-res PDF, or
+of you are a subscriber to the comfy paper edition, hunker down
+and derive from it some comfort and linty knowledge.
+
+Many other back issues, too, are online at
+<http://www.improbable.com/magazine/>
+
+
+----------------------------------------------------------
+2009-05-04 RESEARCH SPOTLIGHT: He Shot a Bullet in the Air...
+
+The beloved poem "I shot an arrow in the air / It fell to earth I
+know not where..." is the subject, metaphorically, of this
+month's specially recommended monograph:
+
+"Can a Falling Bullet Be Lethal at Terminal Velocity? Cardiac
+Injury Caused by a Celebratory Bullet," Angelo N. Incorvaia,
+Despina M. Poulos, Robert N. Jones and James M. Tschirhart,
+Annals of Thoracic Surgery, vol. 83, no. 1, January 2007, pp.
+283-4. (Thanks to Ben Kronos for bringing this to our attention.)
+<http://tinyurl.com/r9mmmu> The authors, at Synergy Medical
+Education Alliance in East Lansing, Michigan, explain:
+
+"This is a case report of rare cardiac and abdominal organ
+injuries sustained by an innocent bystander from a New Year's Eve
+celebratory gun shooting. The force and velocity of a projectile
+fired into the air as it ascends and returns to earth, along with
+its potential for bodily injury will be reviewed."
+
+
+----------------------------------------------------------
+2009-05-05 He Was Shot by an Arrow in the Air
+
+A less metaphorical case occurred in Turkey:
+
+"Transcranial Arrow Injury: A Case Report," G=F6khan Kurt, Alp
+O=E5nzgu_n B=F6rcek, O=E5nzgu_r Kardefi, =D6zgen Aydincak, Necdet =C7eviker=
+,
+Ulusal Travma ve Acil Cerrahi Dergisi, vol. 13, no. 3, July 2007,
+pp. 241-3. <http://tinyurl.com/r84syw> The authors, at Gazi
+University, Ankara, Turkey, explain:
+
+"In this report, a 37 year-old male patient, who was shot by an
+'arrow' accidentally, was evaluated regarding clinical
+presentation, treatment and clinical progress.... CONCLUSION:
+Management of such cases are still beyond the textbooks and
+guidelines and it is depending on the surgeon's skill and
+experience in general neurosurgery."
+
+
+----------------------------------------------------------
+2009-05-06 They Saw an Arrow in the Mucous Membrane
+
+A puzzling-to-the-layperson, not necessarily related, case
+occurred in Russia:
+
+"The 'Air Arrow' Symptom in the Diagnosis of Injuries of the
+Mucous Membrane of the Cervical Segment of the Esophagus"
+[article in Russian], Ia.A. Fastovskii and B.N. Nevskii,
+Sovetskaia Meditsina, vol. 26, March 1963, pp. 69-71.
+
+
+----------------------------------------------------------
+2009-05-07 Banana Fish vs. Horseface Loach
+
+The banana fish controversy, which erupted (ever so slightly)
+following an event last month on the Ig Nobel Tour of Denmark,
+simmers noisily.
+
+Investigator Ivar Kjelling writes:
+
+"Why are there so few published studies about the banana fish,
+Acantopsis choirorhynchos, also known as the 'horseface loach'? I
+say it's because so many of my fellow ichthyologists detest the
+name 'horseface loach'.
+
+Investigator Berenice Mokte writes:
+"Many of my colleagues find it jarring that the two best-known
+names for Acantopsis choirorhynchos are so opposite in allure.
+'Banana fish' sounds cute and charming. 'Horseface loach' sounds
+anything but. I wonder which other species (fish or anything
+else) suffer from this disturbing duality - having two common
+names that are so at odds with each other in charmingness?"
+
+Investigator Clayton Weil writes:
+"J.D. Salinger would never have written a short story called 'A
+Perfect Day for Horseface Loach.'"
+
+
+----------------------------------------------------------
+2009-05-08 Dead Duck Day
+
+Our European Bureau Chief, Kees Moeliker, invites you to come
+celebrate Dead Duck Day. He writes:
+
+                *    *    *
+
+Every June 5, at 17.55h sharp, a small number of staff members of
+the Natural History Museum Rotterdam silently celebrated what
+they call "Dead Duck Day", to commemorate the sudden and dramatic
+death on June 5th, 1995 of the mallard (Anas platyrhynchos) that
+entered the scientific literature as the first victim of
+homosexual necrophilia in this species. In 2003, the incident was
+also commemorated with the awarding of the Ig Nobel Biology
+Prize.
+
+This year (like last year) the 14th annual Dead Duck Day is open
+to the public. The Natural History Museum Rotterdam and the
+European Bureau of Improbable Research invite duck enthusiasts
+and other people to come to the lawn next to the glass pavilion
+of the museum - the site where the duck met its fate - and join
+the short open-air ceremony. Participants are asked to discuss
+measures preventing window-related deaths of ducks and other
+birds. Afterwards there is the traditional six-course duck dinner
+at Tai Wu (Mauritsweg 24-25, Rotterdam).
+
+                *    *    *
+
+For a fond look back at last year (2008)'s Dead Duck Day, see:
+<http://improbable.com/2008/06/06/yesterday-was-dead-duck-day/>
+
+If you cannot make it to the museum for Dead Duck Day, we hope
+you will celebrate, with colleagues and friends, in an
+appropriate way.
+
+
+----------------------------------------------------------
+2009-05-09 Three Laus on the Flu
+
+Investigator Pierre-Yves Boelle alerts us to a new triple-Lau
+publication:
+
+"Prevalence and Correlates of Influenza Vaccination Among Non-
+Institutionalized Elderly People: An Exploratory Cross-Sectional
+Survey," Lam Lau, Ying Lau, and Ying Hon Lau, International
+Journal of Nursing Studies, vol. 46, no. 6, June 2009, pp. 768-
+77. <http://tinyurl.com/qbz5ua>
+
+
+----------------------------------------------------------
+2009-05-10 Bored Piles Poet
+
+The judges have chosen a winner in the Bored Piles Limerick
+Competition, which asked for a limerick to honor the study "Test
+Study on the Characteristics of Mudcakes and in Situ Soils Around
+Bored Piles," _Zhong-Miao Zhang, Jun Yu, Guang-Xing Zhang, and
+Xin-Min Zhou, Canadian Geotechnical Journal, vol. 46, no. 3,
+March 2009, pp. 241-255. <http://tinyurl.com/c76nmf>
+
+The winner is INVESTIGATOR STEVEN HARDY, who wrote:
+
+Piles may be bored. But not me.
+    I've read the report, so I see
+    That Zhang, Zhang, and Zhou
+Did expertly to show
+Why grouting your mudcakes is key.
+
+Here's the offering from LIMERICK LAUREATE MARTIN EIGER:
+
+The authors hereof figure out,
+And the reader is left with no doubt:
+    When driving a pile
+    The wise gal or guy'll
+Produce stronger mudcake with grout.
+
+
+----------------------------------------------------------
+2009-05-11 Apple-Braining Competition
+
+Apple-braining is the subject of this month's limerick
+competition. To enter, compose an original limerick that
+illuminates the nature of this report, which was unearthed by
+investigator Charles Lessup:
+
+"Automatic Effects of Brand Exposure on Motivated Behavior: How
+Apple Makes You 'Think Different,'" Gr=E1inne M. Fitzsimons, Tanya
+l. Chartrand, Gavan j. Fitzsimons, Journal of Consumer Behavior,
+vol. 35, no. 1, June 2008, pp. 21-35. <http://tinyurl.com/pvw38y>
+The authors, who are variously at the University of Waterloo and
+at Duke University, report:
+
+"This manuscript first examines whether brand exposure elicits
+automatic behavioral effects as does exposure to social primes.
+Results support the translation of these effects: Participants
+primed with Apple logos behave more creatively than IBM-primed
+and controls; Disney-primed participants behave more honestly
+than E!-primed and controls."
+
+RULES: Please make sure that: (1) your rhymes actually do; and
+(2) your poem is in classic, trills-off-the-tongue limerick form.
+
+PRIZE: The winning poet will receive (if we manage to send it to
+the correct address) a free, possibly branded, high-res PDF issue
+of the Annals of Improbable Research. Send entries (one entry per
+entrant) to:
+
+      APPLE-BRAINING LIMERICK COMPETITION
+      c/o <marca AT chem2.harvard.edu>
+
+
+----------------------------------------------------------
+2009-05-12 OTHER IMPROBABILITIES: Belgian Dopes, Feline Intent
+
+Blog Items:
+      <http://improbable.com/>
+<> Belgian doping excellence, now and then
+<> Ig winners comment on "Mega Shark vs. Giant Octopus"
+<> Legal poser: feline intent
+<> Mosquito device will greet Tokyo youths
+<> The Case of the Oleaginous Inlet
+And many more...
+
+Newspaper Columns:
+      <http://tinyurl.com/6o348d>
+<> The Paper Clip and the Law
+<> Essence of typical diet (and then some), bottled
+<> The textbook Cocker
+<> The untied-shoelace experiment
+<> The quill is a mighty (painful) sword
+
+
+-----------------------------------------------------------
+2009-05-13 MAY WE RECOMMEND: Hit the Nail & Be Sarcastic
+
+CUTESILY ICKY: HITTING THE NAIL ON THE HEAD
+"Attempted Suicide or Hitting the Nail on the Head. Case Report,"
+A.S Spears, Journal of the Florida Medical Association., vol. 81,
+no. 12, December 1994, pp. 822-3. (Thanks to Sarna Ollress for
+bringing this to our attention.) The authors at H. Lee Moffitt
+Cancer Center & Research Institute, Tampa, Florida, report:
+
+"A case is reported of attempted suicide by hammering nails
+through the skull into the brain. This unique attempt at self-
+destruction was unsuccessful and the treatment, initially by an
+untrained first-aider and then by a neurosurgeon, was
+surprisingly simple."
+
+AUTHORITY'S BACKROOM SARCASM
+"Ambiguous Ends: The Use of Sarcasm by Adults in School Staff
+Meetings" B.D. Harger and T. Hallet, paper presented at the
+annual meeting of the American Sociological Association, August
+2006,Montreal Convention Center, Montreal, Quebec, Canada.
+<http://tinyurl.com/r8crfb>
+
+
+------------------------------------------------------------
+2009-05-14 Improbable Research Events
+
+For details and additional events, see
+<http://improbable.com/improbable-research-shows/complete-schedule>
+
+Dead Duck Day, Rotterdam            - Jun 5, 2009
+
+Ig Nobel Ceremony Tickets go on sale     - Aug 1, 2009
+
+Ig Nobel Prize Ceremony, Harvard Univ    - Oct 1, 2009
+
+Ig Informal Lectures, MIT           - Oct 3, 2009
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+2009-05-15 -- How to Subscribe to AIR (*)
+
+The Annals of Improbable Research is a 6-issues-per-year
+magazine. (It's bigger and better than the little bits of
+overflow material you've been reading in this newsletter). The
+online version is at <http://www.improbable.com/magazine/>.
+
+To subscribe to the paper-and-ink version, go to
+<http://improbable.com/subscribe/> or send in this form:
+..........................................................
+Name:
+Address:
+Address:
+City and State:
+Zip or postal code:
+Country
+Phone:         FAX:           E-mail:
+.........................................................
+SUBSCRIPTIONS (6 issues per year):
+USA            1 yr/$35       2 yrs/$63
+Canada/Mexico  1 yr/$42 US    2 yrs/$72 US
+Overseas       1 yr/$53 US    2 yrs/$97 US
+.........................................................
+BACK ISSUES are available, too:
+<http://www.improbable.com/airchives/paperair/stale.htm>
+.........................................................
+Send payment (US bank check, or international money order, or
+Visa, Mastercard or Discover info) to:
+      Annals of Improbable Research (AIR)
+      PO Box 380853, Cambridge, MA 02238 USA
+      617-491-4437 FAX:617-661-0927 <air AT improbable.com>
+
+
+-----------------------------------------------------
+2009-05-16 -- Our Address (*)
+
+Annals of Improbable Research (AIR)
+PO Box 380853, Cambridge, MA 02238 USA
+617-491-4437 FAX:617-661-0927
+
+EDITORIAL: marca AT chem2.harvard.edu
+SUBSCRIPTIONS: subscriptions AT improbable.com
+WEB SITE: <http://www.improbable.com>
+
+
+-----------------------------------------------------
+2009-05-17 -- Please Forward/Post This Issue! (*)
+
+Please distribute copies of mini-AIR (or excerpts!) wherever
+appropriate. The only limitations are: A) Please indicate that
+the material comes from mini-AIR. B) You may NOT distribute mini-
+AIR for commercial purposes.
+
+      ------------- mini-AIRheads -------------
+EDITOR: Marc Abrahams
+MINI-PROOFREADER AND PICKER OF NITS (before we introduce the last
+few at the last moment): Wendy Mattson
+COMMUTATIVE EDITOR: Stanley Eigen
+ASSOCIATIVE EDITOR: Mark Dionne
+PSYCHOLOGY EDITOR: Robin Abrahams
+CO-CONSPIRATORS: Alice Shirrell Kaswell, Gary Dryfoos, Ernest
+Ersatz, S. Drew
+MAITRE DE COMPUTATION: Jerry Lotto
+AUTHORITY FIGURES: Nobel Laureates Dudley Herschbach, Sheldon
+Glashow, William Lipscomb, Richard Roberts
+
+(c) copyright 2009, Annals of Improbable Research
+
+
+-----------------------------------------------------
+2009-05-18 -- How to Receive mini-AIR, etc. (*)
+
+What you are reading right now is mini-AIR. Mini-AIR is a (free!)
+tiny monthly *supplement* to the bi-monthly print magazine.
+           ----------------------------
+To subscribe or unsubscribe, please visit
+<http://chem.harvard.edu/mailman/listinfo/mini-air>
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+
+
+
+_______________________________________________
+Mini-air mailing list
+Mini-air@air.harvard.edu
+http://chem.harvard.edu/mailman/listinfo/mini-air

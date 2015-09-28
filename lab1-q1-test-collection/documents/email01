@@ -1,0 +1,494 @@
+Received: from exvic-htca02.nexus.csiro.au (138.194.81.127) by
+ EXNSW-HTCA01.nexus.csiro.au (130.155.117.126) with Microsoft SMTP Server
+ (TLS) id 8.1.393.1; Fri, 4 Dec 2009 07:51:20 +1100
+Received: from act-MTAout1.csiro.au (150.229.7.37) by
+ exvic-htca02.nexus.csiro.au (138.194.81.127) with Microsoft SMTP Server (TLS)
+ id 8.1.393.1; Fri, 4 Dec 2009 07:51:20 +1100
+Received: from anumail8.anu.edu.au ([130.56.64.134])  by
+ act-ironport-ldap.csiro.au with ESMTP/TLS/DHE-RSA-AES256-SHA; 04 Dec 2009
+ 07:51:19 +1100
+Received: from mailin3.anu.edu.au (mailin3.anu.edu.au [130.56.64.230])	by
+ anumail8.anu.edu.au (8.14.3/8.14.3) with ESMTP id nB3KpHxi006632	for
+ <paul.thomas@anu.edu.au>; Fri, 4 Dec 2009 07:51:17 +1100 (EST)
+Received: from mailin3.anu.edu.au (localhost.localdomain [127.0.0.1])	by
+ localhost (Postfix) with SMTP id 74D7311585E0	for <paul.thomas@anu.edu.au>;
+ Fri,  4 Dec 2009 07:51:17 +1100 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [128.103.96.254])	by
+ mailin3.anu.edu.au (Postfix) with ESMTP id 5BD1D11585DF	for
+ <paul.thomas@anu.edu.au>; Fri,  4 Dec 2009 07:51:15 +1100 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [127.0.0.1])	by
+ chem.harvard.edu (Postfix) with ESMTP id 66E451141AF;	Thu,  3 Dec 2009
+ 15:40:41 -0500 (EST)
+Received: from QMTA07.westchester.pa.mail.comcast.net
+	(qmta07.westchester.pa.mail.comcast.net [76.96.62.64])	by chem.harvard.edu
+ (Postfix) with ESMTP id 3A6901140C4	for <mini-air@air.harvard.edu>; Thu,  3
+ Dec 2009 15:39:49 -0500 (EST)
+Received: from OMTA15.westchester.pa.mail.comcast.net ([76.96.62.87])	by
+ QMTA07.westchester.pa.mail.comcast.net with comcast	id
+ CbZF1d0021swQuc57kfqHt; Thu, 03 Dec 2009 20:39:50 +0000
+Received: from [192.168.1.128] ([76.24.16.62])	by
+ OMTA15.westchester.pa.mail.comcast.net with comcast	id
+ Ckfx1d00S1LLZwU3bkfxFi; Thu, 03 Dec 2009 20:39:58 +0000
+From: Marc Abrahams <marca@chem2.harvard.edu>
+To: "mini-air@chem.harvard.edu" <mini-air@chem.harvard.edu>
+Sender: "mini-air-bounces@chem.harvard.edu"
+	<mini-air-bounces@chem.harvard.edu>
+Date: Fri, 4 Dec 2009 07:39:48 +1100
+Subject: [Mini-air] December mini-AIR: Memorize the human genome,	Santa
+ disappoints again, etc.
+Thread-Topic: [Mini-air] December mini-AIR: Memorize the human genome,	Santa
+ disappoints again, etc.
+Thread-Index: Acp0Wl5BUk78s6HnQ0egpa6URNkwRQ==
+Message-ID: <0F60B965-D827-4B79-880E-CBDF83052907@chem2.harvard.edu>
+List-Help: <mailto:mini-air-request@air.harvard.edu?subject=help>
+List-Subscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=subscribe>
+List-Unsubscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=unsubscribe>
+Accept-Language: en-NZ, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: exvic-htca02.nexus.csiro.au
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-TNEF-Correlator:
+x-ironport-av: E=Sophos;i="4.47,337,1257080400";    d="scan'208";a="43071827"
+x-sbrs: 4.5
+x-ironport-anti-spam-filtered: true
+x-ironport-anti-spam-result:
+ AjIBAPuzF0uCOECGkWdsb2JhbACWToU1AQEBAQkLCgcTBasOgVgBCYV1iE2CJgUfT4EZBIFnhzABhAQ
+received-spf: None identity=helo; client-ip=130.56.64.134;
+  receiver=act-ironport-ldap.csiro.au;
+  envelope-from="mini-air-bounces@chem.harvard.edu";
+  x-sender="postmaster@anumail8.anu.edu.au";  x-conformance=sidf_compatible
+authentication-results: act-ironport-ldap.csiro.au; dkim=neutral (message
+ not signed) header.i=none
+delivered-to: mini-air@air.harvard.edu
+x-pmx-version: 5.5.9.388399, Antispam-Engine: 2.7.2.376379, Antispam-Data:
+ 2009.12.3.203918 external
+list-archive: <http://chem.harvard.edu/pipermail/mini-air>
+list-id: The mini-Annals of Improbable Research <mini-air.air.harvard.edu>
+list-post: <mailto:mini-air@air.harvard.edu>
+errors-to: mini-air-bounces@chem.harvard.edu
+x-mailman-version: 2.1.8
+x-beenthere: mini-air@air.harvard.edu
+x-original-to: mini-air@air.harvard.edu
+x-perlmx-spam: Gauge=XIII, Probability=13%, Report=' LINES_OF_YELLING_3
+ 0.671, TO_IN_SUBJECT 0.5, KNOWN_FREEWEB_URI 0.05, BODY_SIZE_10000_PLUS 0,
+ CHILD_EX_X3 0, TO_NO_NAME 0, __CP_MEDIA_BODY 0, __CP_NAME_BODY 0,
+ __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_419_WINNER
+ 0, __HAS_LIST_HEADER 0, __HAS_LIST_HELP 0, __HAS_LIST_SUBSCRIBE 0,
+ __HAS_LIST_UNSUBSCRIBE 0, __HAS_MSGID 0, __HAS_X_MAILER 0,
+ __KNOWN_FREEWEB_URI2 0, __LINES_OF_YELLING 0, __MIME_TEXT_ONLY 0,
+ __MIME_VERSION 0, __MIME_VERSION_APPLEMAIL 0, __MSGID_APPLEMAIL 0,
+ __SANE_MSGID 0, __TO_MALFORMED_2 0, __URI_NS , __USER_AGENT_APPLEMAIL 0,
+ __X_MAILER_APPLEMAIL 0'
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Length: 32380
+X-UID: 30963
+Status: R
+X-Status: N
+X-KMail-EncryptionState:  
+X-KMail-SignatureState:  
+X-KMail-MDN-Sent:  
+
+PLEASE FORWARD/POST AS APPROPRIATE
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+The mini-Annals of Improbable Research ("mini-AIR")
+December 2009, issue number 2009-12. ISSN 1076-500X.
+----------------------------------------------------------
+Monthly mini update/alert from the Annals of Improbable Research
+        This issue is at
+        <http://www.improbable.com/airchives/miniair/2009/mini2009-12.htm>
+        Archive at <http://improbable.com/airchives/miniair/>
+Key words: improbable research, science humor, Ig Nobel, AIR, the
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+
+
+2009-12-01 TABLE OF CONTENTS
+
+2009-11-02 Imminent Events
+2009-12-03 The Magazine: Ig
+2009-12-04 Horrors Over Trinkaus Sanitizer Discovery
+2009-12-05 Challenge: Memorize the Human Genome
+2009-12-06 Ig Video, at Last
+2009-12-08 Please Stop. I'm Bored. In a Cup.
+2009-12-08 RESEARCH SPOTLIGHT: Santa Disappoints, Again
+2009-12-09 Plasma Blobs Poet
+2009-12-10 Mad Honey Sex Competition
+2009-12-11 AIRhead Project 2000 - Ten Years Later
+2009-12-12 MORE IMPROBABLE: Dances, Whistles, Rat-Catchers
+2009-12-13 MAY WE RECOMMEND: Buttons, Fear, and Love
+2009-12-14 Improbable Research Events
+2009-12-15 -- How to Subscribe to AIR (*)
+2009-12-16 -- Our Address (*)
+2009-12-17 -- Please Forward/Post This Issue! (*)
+2009-12-18 -- How to Receive mini-AIR, etc. (*)
+
+        Items marked (*) are reprinted in every issue.
+
+        mini-AIR is
+        but a wee monthly *supplement*
+        to the bi-monthly magazine Annals of Improbable Research
+
+
+----------------------------------------------------------
+2009-11-02 Imminent Events
+
+        AAAS, San Diego                 Feb 2010
+
+        UK Tour                                 Mar 2010
+        If your institution would like to host a UK show,
+        please get in touch with us ASAP!
+        DETAILS: <http://bit.ly/8lKeHd>
+
+        Complete events schedule: <http://bit.ly/6SGDcA>
+
+----------------------------------------------------------
+2009-12-03 The Magazine: Ig
+
+The next issue (vol. 15, no. 6) of the Annals of Improbable
+Research is the special Ig Nobel issue, chock full o' photos and
+info. It will emerge late this month.
+
+Many back issues are online at
+<http://www.improbable.com/magazine/>.
+
+GIVE THE GIFT OF IMPROBABLE RESEARCH:
+a subscription to the magazine (six issues a year!) creates
+a moving experience for anyone who like to read in the loo.
+<http://improbable.com/subscribe>
+
+
+----------------------------------------------------------
+2009-12-04 Horrors Over Trinkaus Sanitizer Discovery
+
+An outfit called GOJO, which says it is the inventor of Purell
+hand sanitizer, rings alarm bells with its announcement that
+"hand hygiene compliance is a critical safety issue that's vital
+for accreditation, reputation and financial health."
+<http://bit.ly/7HVCSq>
+
+That warning renders John Trinkaus's discovery all the more
+disturbing. As reported here last month, Professor Trinkaus, an
+Ig Nobel Prize winner who is easily annoyed, examined the hand-
+sanitizing behavior of patients and medical professionals who
+entered a New York-area medical building.
+
+His study is about to appear in AIR 16:6.
+See a preprint (PDF) at <http://bit.ly/51IHNl>
+
+
+----------------------------------------------------------
+2009-12-05 Challenge: Memorize the Human Genome
+
+Biologists, rise to the challenge! You count, too!
+
+The publication of the human genome makes it possible for
+biologists to breast-beatingly compete with mathematicians.
+
+Loads of people vie to memorize the most digits of the number pi
+(the ratio of a circle's circumference to its diameter). Several
+people boast of reciting, from memory, in the correct order, tens
+upon thousands of digits. For a list of record-claimers, see
+<http://bit.ly/74GUgK>.
+
+Biologists, arise! Pi is of infinite length, true, but the human
+genome has about three billion base pairs. It will be a while
+before the pi spouters reach that neighborhood.
+
+And true, one person's genome is a little different from
+another's, but that's just a technicality.
+(One way to the problem: Specify that genome pioneer Craig
+Ventor's genome is the only one that counts. No one else's genome
+is the subject of a tribute song. See <http://bit.ly/6HMuA5>.)
+
+This wonderfully pointless exercise - reciting the human base
+pairs, from memory - can delight persons of a certain personality
+type. Acclaim is something they count on.
+
+
+----------------------------------------------------------
+2009-12-06 Ig Video, at Last
+
+After several exciting false starts, video of the 2009 Ig Nobel
+Prize ceremony is now online, in four parts:
+
+Part 1: Pre-show Risk Cabaret Concert by The Penny-wise Guys, and
+the very, very beginning of the ceremony.
+
+Part 2: Lots of introductions. Several past winners return.
+Benoit Mandelbrot's keynote address.
+
+Part 3: Awarding of several prizes. First two acts of the mini-
+opera. The 24/7 Lectures.
+
+Part 4: [which will appear after we solve one last glitch]:
+Awarding of the rest of the prizes. Win-a-Date contest. Thrilling
+conclusion of the mini-opera.
+
+See part 1 (and links to the others) at
+<http://vimeo.com/7911519/>
+
+
+----------------------------------------------------------
+2009-12-07 Please Stop. I'm Bored. In a Cup.
+
+By popular request, in honor of Miss Sweety Poo, we have created
+a "Please stop / I'm bored" mug: <http://bit.ly/6HitLl>
+
+
+----------------------------------------------------------
+2009-12-08 RESEARCH SPOTLIGHT: Santa Disappoints, Again
+
+This month's specially selected study is:
+
+"Visiting Santa: A Supplemental View," John Trinkaus,
+Psychological Reports, vol. 103, no. 3, December 2008, pp. 691-4.
+<http://bit.ly/4Cwl9X> The 2003 Ig Nobel literature Prize winner
+gives yet another in his series of studies on this topic:
+
+"Four recent informal successive yearly enquiries of the emotions
+of 1,050 children (total) immediately before their visit with
+Santa Claus at a shopping mall suggested that about 80% displayed
+facial expressions, judged by an observer, as indicating
+indifference. To investigate possible change in emotions of
+children immediately after their visit with Santa, this study was
+conducted in 2007. Of the 280 exiting children observed, about
+60% appeared to be indifferent."
+
+
+----------------------------------------------------------
+2009-12-09 Plasma Blobs Poet
+
+The judges have chosen a winner in the Colliding Plasma Blobs
+Limerick Competition, which asked for a limerick to honor the
+study "Cusp Compression of Colliding Plasma Blobs," T. K. Allen,
+K. Doble, T. J. L. Jones, R. M. Payne, and I. J. Spalding,
+Physics of Fluids, vol. 9, July 1966, pp. 1394-.
+<http://bit.ly/5MXKRT>
+
+The winner is INVESTIGATOR DANIEL STERMAN, who wrote:
+
+"Two plasmas do one plasma yield
+When compressed by a rising cusp field.
+   But the hole they contain
+   We cannot yet explain,"
+Messrs Allen and Doble revealed.
+
+Commendation goes to INVESTIGATOR STEVEN HALL, who says:
+
+That Spalding, Payne, Jones, Allen, Doble
+Discovered a squeezed plasma blob 'll
+   Give quite a surprise,
+   Because the hole size
+Is fixed by the charge or shield wobble.
+
+Here's the offering from LIMERICK LAUREATE MARTIN EIGER:
+
+What happens when plasmas collide?
+A new plasma blob is espied.
+   The data suggest
+   It's hot and compressed.
+This paper explains what's inside.
+
+----------------------------------------------------------
+2009-12-10 Mad Honey Sex Competition
+
+Mad honey sex inspires this month's limerick competition. To
+enter, compose an original limerick that illuminates the nature
+of this report (suggested by investigator Sally Shelton):
+
+"Mad Honey Sex: Therapeutic Misadventures From an Ancient
+Biological Weapon," Ahmet Demircan, Ayfer Kele_, Fikret Bildik,
+G=FClbin Aygencel, N.=D6zg=FCr Do_an, Hern=E1n F. G=F3mez, Annals of
+Emergency Medicine, 2009. <http://bit.ly/7OgfWn> The authors,
+some in Turkey, some in the US, report:
+
+"'Mad honey' poisoning occurs from ingestion of honey produced
+from grayanotoxin-containing nectar, often in the setting of use
+as an alternative medicine. This study is designed to assess the
+clinical effects, demographics, and rationale behind self-induced
+mad honey poisoning.... We identified 21 cases. Patients were
+overwhelmingly men. Local beekeepers ranked sexual performance
+enhancement as the most common reason for therapeutic mad honey
+consumption in men aged 41 through 60 years. Symptoms began 1.0
+hour after ingestion and included dizziness, nausea, vomiting,
+and syncope."
+
+RULES: Please make sure that: (1) your rhymes actually do; and
+(2) your poem is in classic, trills-off-the-tongue limerick form.
+
+PRIZE: The winning poet will receive (if we manage to send it to
+the correct address) a free, honey-free, high-res PDF issue of
+the Annals of Improbable Research. Send entries (one entry per
+entrant) to:
+
+        MAD HONEY SEX LIMERICK COMPETITION
+        c/o <marca AT chem2.harvard.edu>
+
+
+----------------------------------------------------------
+2009-12-11 AIRhead Project 2000 - Ten Years Later
+
+Ten years ago, people quivered as the year 2000 approached. Let's
+look back, perhaps fondly, at Project AIRhead 2000. Announced in
+the June 1994 issue of mini-AIR, the project celebrated every
+item, project or concept that had the number 2000 tacked onto its
+name in giddy anticipation of the coming millennium
+
+See the first of these tributes, celebrating the "Biomek 2000
+Laboratory Automation Workstation", and "Lever 2000 soap", and
+"2000 Flushes automatic toilet bowl cleaner", at
+<http://bit.ly/6YSXzK>
+
+If you have a special, special favorite, sent it in and we will,
+maybe, commemorate it.
+
+
+----------------------------------------------------------
+2009-12-12 MORE IMPROBABLE: Dances, Whistles, Rat-Catchers
+
+BLOG <http://improbable.com/>
+<> Lap dance research officer sought
+<> Lamentable deer-whistle findings
+<> Uranium on the cheap
+And many more...
+
+NEWSPAPER <http://improbable.com/category/newspaper-column>
+<> Early strokes of genius
+<> The rat-catcher's art
+
+
+-----------------------------------------------------------
+2009-12-13 MAY WE RECOMMEND: Buttons, Fear, and Love
+
+FASCINATING FASTENER FEAR
+"Case Study: Disgust and a Specific Phobia of Buttons," Lissette
+M. Saavedra and Wendy  K. Silverman, Journal of the American
+Academy of Child and Adolescent Psychiatry, vol. 41, no .11,
+2002,  pp. 1376-9 . <http://bit.ly/6Ls6Px> (Thanks to Susanne
+Elvidge for bringing this to our attention.)
+
+BIG LOVE WAVES
+"Large-Amplitude Love Waves," E. Rodrigues Ferreira, Ph.
+Boulanger and M. Destrade, Quarterly Journal of Mechanics and
+Applied Mathematics, vol. 61, no. 3, 2008, pp. 353-71.
+<http://bit.ly/5QldQV> (Thanks to Stig Wedel for bringing this to
+our attention.) The authors are at Universit=E9 Libre de Bruxelles,
+Belgium and at Universit=E9 Pierre et Marie Curie, Paris, France.
+
+
+------------------------------------------------------------
+2009-12-14 Improbable Research Events
+
+For details and additional events, see
+<http://improbable.com/improbable-research-shows/complete-schedule>
+
+AAAS, San Diego                                 - Feb 2010
+
+UK Tour                                                 - Mar 2010
+
+UKSG, Edinburgh                                 - Apr 14, 2010
+
+Edinburgh Science Festival                      - Apr 17, 2010
+
+Ig Nobel European Tour                          - Apr 2010
+
+Ig Nobel Prize ceremony                         - Sep 30, 2010
+
+Ig Informal Lectures                            - Oct 2, 2010
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+2009-12-15 -- How to Subscribe to AIR (*)
+
+The Annals of Improbable Research is a 6-issues-per-year
+magazine. (It's bigger and better than the little bits of
+overflow material you've been reading in this newsletter).
+
+To subscribe to the paper-and-ink version, go to
+<http://improbable.com/subscribe/> or send in this form:
+..........................................................
+Name:
+Address:
+Address:
+City and State:
+Zip or postal code:
+Country
+Phone:          FAX:                    E-mail:
+.........................................................
+SUBSCRIPTIONS (6 issues per year):
+USA                     1 yr/$37                2 yrs/$69
+Canada/Mexico   1 yr/$46 US     2 yrs/$86 US
+Overseas                1 yr/$59 US     2 yrs/$109 US
+.........................................................
+Send payment (US bank check, or international money order, or
+Visa, Mastercard or Discover info) to:
+        Annals of Improbable Research (AIR)
+        PO Box 380853, Cambridge, MA 02238 USA
+        617-491-4437 FAX:617-661-0927 <air AT improbable.com>
+
+
+-----------------------------------------------------
+2009-12-16 -- Our Address (*)
+
+Annals of Improbable Research (AIR)
+PO Box 380853, Cambridge, MA 02238 USA
+617-491-4437 FAX:617-661-0927
+
+EDITORIAL: marca AT chem2.harvard.edu
+SUBSCRIPTIONS: subscriptions AT improbable.com
+WEB SITE: <http://www.improbable.com>
+
+
+-----------------------------------------------------
+2009-12-17 -- Please Forward/Post This Issue! (*)
+
+Please distribute copies of mini-AIR (or excerpts!) wherever
+appropriate. The only limitations are: A) Please indicate that
+the material comes from mini-AIR. B) You may NOT distribute mini-
+AIR for commercial purposes.
+
+        ------------- mini-AIRheads -------------
+EDITOR: Marc Abrahams
+MINI-PROOFREADER AND PICKER OF NITS (before we introduce the last
+few at the last moment): Wendy Mattson
+COMMUTATIVE EDITOR: Stanley Eigen
+ASSOCIATIVE EDITOR: Mark Dionne
+PSYCHOLOGY EDITOR: Robin Abrahams
+CO-CONSPIRATORS: Alice Shirrell Kaswell, Gary Dryfoos, Ernest
+Ersatz, S. Drew
+MAITRE DE COMPUTATION: Jerry Lotto
+AUTHORITY FIGURES: Nobel Laureates Dudley Herschbach, Sheldon
+Glashow, William Lipscomb, Richard Roberts
+
+(c) copyright 2009, Annals of Improbable Research
+
+
+-----------------------------------------------------
+2009-12-18 -- How to Receive mini-AIR, etc. (*)
+
+What you are reading right now is mini-AIR. Mini-AIR is a (free!)
+tiny monthly *supplement* to the bi-monthly print magazine.
+                ----------------------------
+To subscribe or unsubscribe, please visit
+<http://chem.harvard.edu/mailman/listinfo/mini-air>
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+
+
+_______________________________________________
+Mini-air mailing list
+Mini-air@air.harvard.edu
+http://chem.harvard.edu/mailman/listinfo/mini-air

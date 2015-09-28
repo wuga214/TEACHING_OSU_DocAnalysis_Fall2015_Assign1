@@ -1,0 +1,540 @@
+Received: from anumail7.anu.edu.au ([130.56.64.133])
+ by messaging2.anu.edu.au (Sun Java System Messaging Server 6.2-8.04 (built Feb
+ 28 2007)) with ESMTP id <0JM200IP186Y9O90@messaging2.anu.edu.au> for
+ u4161360@anumail.anu.edu.au; Wed, 01 Aug 2007 06:13:46 +1000 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [128.103.96.254])
+ by anumail7.anu.edu.au (8.13.8/8.13.8) with ESMTP id l6VKDc2C029706	for
+ <paul.thomas@anu.edu.au>; Wed, 01 Aug 2007 06:13:43 +1000
+Received: from chem.harvard.edu (chem.harvard.edu [127.0.0.1])
+ by chem.harvard.edu (Postfix) with ESMTP id E8361113D68; Tue,
+ 31 Jul 2007 15:59:39 -0400 (EDT)
+Received: from rwcrmhc14.comcast.net (rwcrmhc14.comcast.net [216.148.227.154])
+ by chem.harvard.edu (Postfix) with ESMTP id 57DAA113CBA	for
+ <mini-air@air.harvard.edu>; Tue, 31 Jul 2007 15:58:35 -0400 (EDT)
+Received: from [192.168.1.100]
+ (c-24-61-40-221.hsd1.ma.comcast.net[24.61.40.221])	by comcast.net (rwcrmhc14)
+ with SMTP	id <20070731195833m140020l6te>; Tue, 31 Jul 2007 19:58:34 +0000
+Date: Tue, 31 Jul 2007 15:57:57 -0400
+From: Marc Abrahams <marca@chem2.harvard.edu>
+Subject: [Mini-air] mini-AIR Aug 2007 - An Apology to Professor Lester / Hot	in
+ Shoes
+Sender: mini-air-bounces@chem.harvard.edu
+To: mini-air@chem.harvard.edu
+Errors-to: mini-air-bounces@chem.harvard.edu
+Message-id: <2A0A14C9-3AB9-4F90-B490-AF60CBFA43AE@chem2.harvard.edu>
+MIME-version: 1.0 (Apple Message framework v752.3)
+X-Mailer: Apple Mail (2.752.3)
+Content-type: text/plain;
+  charset=windows-1252
+Content-transfer-encoding: quoted-printable
+Precedence: list
+X-BeenThere: mini-air@air.harvard.edu
+Delivered-to: mini-air@air.harvard.edu
+X-Original-To: mini-air@air.harvard.edu
+X-PMX-Version: 5.3.3.310218, Antispam-Engine: 2.5.1.298604,
+ Antispam-Data: 2007.7.31.124732 external
+X-Mailman-Version: 2.1.8
+List-Post: <mailto:mini-air@air.harvard.edu>
+List-Subscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+ <mailto:mini-air-request@air.harvard.edu?subject=subscribe>
+List-Unsubscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+ <mailto:mini-air-request@air.harvard.edu?subject=unsubscribe>
+List-Archive: <http://chem.harvard.edu/pipermail/mini-air>
+List-Help: <mailto:mini-air-request@air.harvard.edu?subject=help>
+List-Id: The mini-Annals of Improbable Research <mini-air.air.harvard.edu>
+X-Perlmx-Spam: Gauge=X, Probability=10%, Report='LINES_OF_YELLING_3 0.671,
+ __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __HAS_MSGID 0,
+ __HAS_X_MAILER 0, __LINES_OF_YELLING 0, __MEDS_PLAIN_MEDICATION 0,
+ __MIME_TEXT_ONLY 0, __MIME_VERSION 0, __SANE_MSGID 0'
+X-Length: 20373
+Status: R
+X-Status: N
+X-Keywords:                 
+X-UID: 2
+X-KMail-EncryptionState:  
+X-KMail-SignatureState:  
+X-KMail-MDN-Sent:  
+
+PLEASE FORWARD/POST AS APPROPRIATE
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+The mini-Annals of Improbable Research ("mini-AIR")
+Issue number 2007-07
+July 2007
+ISSN 1076-500X
+Key words: improbable research, science humor, Ig Nobel, AIR, the
+----------------------------------------------------------
+A free newsletter of tidbits too tiny to fit in
+Annals of Improbable Research (AIR)
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+
+-----------------------------
+2007-07-01 TABLE OF CONTENTS
+
+2007-07-02 Imminent Events
+2007-07-03 What's New in the Magazine
+2007-07-04 A Fly Based on a Theory
+2007-07-05 Apology to Professor Lester
+2007-07-06 Many Say "Mono"
+2007-07-07 A Computer Science Approach to the Problem
+2007-07-08 Ant-Crowding Poets
+2007-07-09 Self-Compatible Daffodil Competition
+2007-07-10 Newest Noted Researchers
+2007-07-11 RESEARCH SPOTLIGHT: What's Hot in Shoes
+2007-07-12 BLOGLIGHTS: Octopus faith, dirty elections
+2007-07-13 MAY WE RECOMMEND: Snake and rice (and sweet itch)
+2007-07-14 Improbable Research Events
+2007-07-15 How to Subscribe to AIR (*)
+2007-07-16 Our Address (*)
+2007-07-17 Please Forward/Post This Issue! (*)
+2007-07-18 How to Receive mini-AIR, etc. (*)
+
+Items marked (*) are reprinted in every issue.
+
+mini-AIR is
+a free monthly *e-supplement* to the print magazine
+Annals of Improbable Research
+
+
+----------------------------------------------------------
+2007-07-02 Imminent Events
+
+IG NOBEL TIX:
+Tickets for the Ig Nobel Prize Ceremony go on sale
+August 1, from the Harvard Box Office.
+<http://www.boxoffice.harvard.edu/>
+
+AUSTRALIA TOUR:
+The Improbable Australia tour, Aug 20-29, will include
+events in Hobart, Launceston, Smithton and Sydney.
+Details will be posted soon at
+<http://improbable.com/improbable-research-shows/complete-schedule/>
+
+
+----------------------------------------------------------
+2007-07-03 What's New in the Magazine
+
+The July/August issue (vol. 13, no. 4) of the Annals of
+Improbable Research will be the special What's in Your Head
+issue. It will appear on subscribers doorsteps any day or week
+now. Highlights include:
+
+<> "A Rivalry is Joined: Lester vs. Voracek," by Alice Shirell
+Kaswell. ABSTRACT: Professor David Lester (of The Richard
+Stockton College of New Jersey), who has published almost 2000
+scholarly reports, many of them about suicide and most of them
+brief, now has a young rival. He is Martin Voracek of the
+University of Vienna.
+
+<> Against Ipecac* --Alice Shirell Kaswell. ABSTRACT: Among
+doctors, ipecac-the medication with the most enjoyable name to
+say aloud-has fallen from favor. Here are two reports describing
+what happened.
+
+<> POEM: "The Fruit Fly (Genotype: nevermore)," by Jennifer
+Sosnowski. ABSTRACT: This is a poem based on Edgar Allen Poe's
+original. Unlike Poe's, it ideals with fruit flies and research
+grants. Like Poe's, it is surprisingly long.
+
+The table of contents is at <http://tinyurl.com/2nkbrf>
+
+To subscribe (6 paper issues per year) go to
+<http://improbable.com/subscribe>
+or see info at bottom of this newsletter.
+
+----------------------------------------------------------
+2007-07-04 A Fly Based on a Theory
+
+Investigators Sally Shelton passes on news from investigator
+Robin Leech, who passes on news from an entomologists'
+discussion:
+
+"Neil Evenhuis described a new species of bee fly (Bombyliidae)
+from the US Southwest. It is named Phthiria relativitae, n.sp.
+pronounced Theory O' Relativity."
+
+Dr. Evenhuis is past president of the International Commission on
+Zoological Nomenclature. This naming is, we are told, unrelated
+to his no longer being president. Further info about the naming
+(and a subsequent de-naming) appears in Discover magazine
+<http://tinyurl.com/yon2rp>.
+
+
+----------------------------------------------------------
+2007-07-05 Apology to Professor Lester
+
+We apologize to Professor David Lester of The Richard Stockton
+College of New Jersey. Professor Lester and his voluminous work
+were the subject of the magazine's special Rivalry issue (vol.
+13, no. 3, May/June 2007). Also see <http://tinyurl.com/2nkbrf>
+and <http://tinyurl.com/2gp77d>. We described him as the author
+of "approximately 1500 published studies."
+
+This week we received a note from Professor Lester. It reads:
+
+You have to stop "short-changing" me.
+1,000 articles!!!!!!
+I'm over 2200 articles, chapters and books.
+
+Best wishes,
+David Lester
+
+Hereafter we will try, in our ongoing coverage of Professor
+Lester's work, to be more accurate. Professor Lester kindly
+included a list of all his more than 2200 publications. We are
+trying to find a way to fit this list into a future issue of the
+magazine. Some reduction in font size may be necessary.
+
+
+----------------------------------------------------------
+2007-07-06 Many Say "Mono"
+
+Sturm and bombast dominated the voting for what, officially, to
+call the category of professors who have only one name.
+
+Inspired by the MIT professor named Arvind, the vote offered a
+choice of these three:
+
+(A) mono-professor
+(B) uni-professor
+(C) just plain professor-professor
+
+Voters pointed out a problem with (B) uni-professor: the title
+already exists in many places, usually as an abbreviation for
+"university professor." Few voted for (C) just plain professor-
+professor. The winner, now the official name for the breed, is
+(A) mono-professor. Mono-professors will be listed on the same
+web page as the professor-professors.
+
+Thus Professor Arvind becomes the first officially recognized
+mono-professor.
+
+The second is Professor Professor Kinshuk, of whom we learned in
+the following note:
+
+INVESTIGATOR SALLY JO CUNNINGHAM:
+I'd like to point out a known mono-prof, Professor Kinshuk
+(http://infosys.massey.ac.nz/~kinshuk/), formerly in New Zealand,
+now in Canada.  Kinshuk genuinely has only the one name, which
+causes no end of trouble in filling out forms.  A friend was once
+privileged to fly with him on Air New Zealand, and has a
+wonderful routine describing Kinshuk's interactions with the
+AirNZ woman as she attempted to fathom that he is Kinshuk, no
+other name.  Then my friend, Masood Masoodian, stepped up to get
+his ticket...
+
+Harrumphing in from London came this note from the Poet
+Hirschorn:
+
+INVESTIGATOR NORBERT HIRSCHHORN:
+Mono Professor Caveat: Indonesians mostly have only one name, and
+so expect a flood of nominees. I vote against the whole self-
+serving idea.
+
+
+----------------------------------------------------------
+2007-07-07 A Computer Science Approach to the Problem
+
+Complexity can arise almost anywhere. The following note is an
+example. INVESTIGATOR FREDRIK VIKLAND writes:
+
+Borrowing terms and ideas from name resolution in the C++
+programming language, the term "professor professor" can be seen
+as a shorthand declaration of a professor constructor. The
+twofold "professor" can be  seen as type specifiers declaring
+that the two following names are both of the type "professor".
+
+A statement such as "professor professor Fawzy Fawzy" thus tells
+our brain that there is a professor having Fawzy both as his
+first and his last name. After this statement, our brain can
+refer to that professor as "Fawzy", "professor Fawzy", "professor
+Fawzy Fawzy" or "professor professor Fawzy Fawzy" as appropriate
+from the context. The closer you are to the professor, and the
+more professor Fawzys you have to keep in mind at the same time,
+the more specific you have to be.
+
+Thus, the correct way of naming a single named professor
+professor, such as Arvind, is:
+
+"professor professor Arvind (void)" or "professor professor
+(void) Arvind" depending on if you are required to call him by
+first or last name. Fortunately this only has to be done the
+first time. The following times, he may be referenced to as
+"professor Arvind."
+
+The length of the above discussion may give a hint to why
+computer scientists for a long time have had a relaxed attitued
+about naming, declaring and calling professors. This is also
+supported by the fact that Arvind is a professor of Computer
+Science and Engineering.
+
+
+----------------------------------------------------------
+2007-07-08 Ant-Crowding Poets
+
+The judges have chosen a winner for last month's Ant-Crowding
+Competition Limerick Competition, which asked for a limerick to
+honor the following study:
+
+"Optimal Traffic Organization in Ants
+Under Crowded Conditions,"
+A. Dussutour, V. Fourcassi=E9, D. Helbing and
+J.-L. Deneubourg, Nature, 2004, vol. 428, pp. 70=963.
+
+The winner is INVESTIGATOR TONY HARKER, who created a rare
+limerick about dyslexic ants:
+
+To scientists we just say "scram."
+We can't move but don't give a damn.
+    There is a cure for it (*)
+    But we all ingore it,
+For all know that ants love a jam.
+
+(*) see the report "Optimal Traffic Organization
+in Ants Under Crowded Conditions"
+
+And here is the latest from Limerick Laureate MARTIN EIGER:
+
+Guys from Germany, Belgium, and France
+Study traffic congestion with ants.
+    Their conclusions provide
+    That ants need to collide --
+Only then can the traffic advance.
+
+Some of the runner-up limericks are posted at
+<http://improbable.com/2007/07/31/three-ant-crowding-limericks/>
+
+
+----------------------------------------------------------
+2007-07-09 Self-Compatible Daffodil Competition
+
+A self-compatible daffodil is the subject of this month's
+limerick competition. To enter, compose an original limerick that
+illuminates the nature of this report:
+
+"Herkogamy and Mating Patterns in the Self-Compatible
+Daffodil Narcissus longispathus," M=F3nica Medrano,
+Carlos M. Herrera and Spencer C.H. Barrett, Annals of
+Botany, vol. 95, no. 7, 2005, pp. 2005, pp. 1105-11.
+<http://aob.oxfordjournals.org/cgi/content/full/95/7/1105>
+
+RULES: Please make sure your rhymes actually do, and that your
+poem is in classic, trips-off-the-tongue limerick form.
+
+PRIZE: The winning poet will receive a (if we manage to send it
+to the correct address) a free, possibly rhomboid issue of the
+Annals of Improbable Research. Send entries (one entry per
+entrant) to:
+
+SELF-COMPATIBLE DAFFODIL COMPETITION
+c/o <marca AT chem2.harvard.edu>
+
+
+----------------------------------------------------------
+2007-07-10 Newest Noted Researchers
+
+New members of The Luxuriant Flowing Hair Club for Scientists
+(LFHCfS):
+BETH SNOW
+CARLISLE LANDEL
+
+See them and the other members at:
+<http://improbable.com/category/lfhcfs-hair-club/>
+
+New professor-professors:
+ELSAYED A. ELSAYED, Rutgers University
+OSHITA O. OSHITA, Institute for Peace and Conflict
+Resolution
+   (IPCR), Abuja, Nigeria.
+
+New mono-professors:
+ARVIND, Massachusetts Institute of Technology.
+KINSHUK, Athabasca University.
+SUNWOLF, Santa Clara University.
+
+See them and the full list at:
+<http://improbable.com/2006/02/09/prof-profs/>
+
+
+----------------------------------------------------------
+2007-07-11 RESEARCH SPOTLIGHT: What's Hot in Shoes
+
+Each month we select for your special attention a research report
+that seems particularly worth a close read. This month's pick:
+
+"Effect of Shoe Color on Shoe Temperature and Potential Solar
+Injury to the Insensate Foot," P.A. DeLuca, W.P. Goforth, Journal
+of the American Podiatric Medical Association, vol. 88, no. 7,
+July 1998, pp. 344-8. The authors, who are at Scott and White
+Clinic and Memorial Hospital, Temple, Texas, explain what they
+did:
+
+"The authors compared shoes of different colors in terms of the
+amount by which their temperature increased when subjected to
+radiant heat. Three trials of temperature measurements were
+performed for white and black leather walking shoes. A balloon
+filled with water was placed in the shoe and the surface
+temperature of the balloon was measured at baseline and after the
+shoe had been exposed to an infrared heat lamp for 15- and 30-
+minute periods. The results were significant: The mean increase
+in temperature after 15 minutes of exposure was between 4.0
+degrees F and 8.8 degrees F greater in the black shoe than in the
+white shoe."
+
+
+----------------------------------------------------------
+2007-07-12 BLOGLIGHTS: Octopus faith, dirty elections
+
+Here are some recent topics in our blog:
+
+<> Octopus faith
+<> A hard look in quasi-darkness
+<> Why you should hire a psychopath
+<> LSD as a treatment for autism
+<> Dirty old math books hold clue to dirty elections
+<> Another hiccup victim goes untreated
+
+and some from the newspaper column in The Guardian:
+
+<> Research: Why does the chicken cross the road?
+<> Leaping lizards (feeble-footed variety)
+<> Will they, will they, will they accept?
+
+... and others
+
+Read the blog
+every day at <http://www.improbable.com>
+
+
+-----------------------------------------------------------
+2007-07-13 MAY WE RECOMMEND: Snake and rice (and sweet itch)
+
+MEETING CONSUMER DEMAND
+"A Smaller Sleeping Bag for a Baby Snake," J. Hstad, S. Linusson,
+and J. Wastlund, Discrete and Computational Geometry, vol. 26,
+2001, pp 173-81. (Thanks to David Molnar for bringing this to our
+attention.)
+
+ELECTRONASAL RICE OPTIMIZATION
+"Evaluation of the Optimal Cooking Time of Rice by Using FT-NIR
+Spectroscopy and an Electronic Nose," N. Sinelli, S. Benedetti,
+G. Bottega, M. Riva and S. Buratti, Journal of Cereal Science,
+September 2006, vol. 44, no. 2, pp. 137=9643. (Thanks to Homer
+Seywerd for bringing this to our attention.)
+
+SWEET ITCH: WHAT'S NEW (2000)?
+"Sweet Itch Research Project," A.D. Wilson and M.J. Day,
+Veterinary Record, vol. 146, no. 26, June 2000, p. 768. (Thanks
+to Elizabeth R. Billingham for bringing this to our attention.)
+
+
+------------------------------------------------------------
+2007-07-14 Improbable Research Events
+
+For details and additional events, see
+<http://improbable.com/improbable-research-shows/complete-schedule>
+
+IMPROBABLE AUSTRALIA TOUR    -- AUG 20-29, 2007
+
+IG NOBEL PRIZE CEREMONY    -- OCT 4, 2007
+
+IG INFORMAL LECTURES    -- OCT 6, 2007
+
+FESTIVAL DELLA SCIENZA, GENOA, ITALY -- OCT 2007
+
+NOKIA SIEMENS NETWORKS - GET INSIDE EVENT
+    LONDON, UK   -- NOV 23, 2007
+
+DFG ANNUAL ASSEMBLY, BERLIN, GERMANY -- JUL 1, 2008
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+2007-07-15 How to Subscribe to AIR (*)
+
+The Annals of Improbable Research is a paper magazine. (It's not
+just the little bits of overflow material you've been reading in
+this newsletter). Subscribe at <http://improbable.com/subscribe/>
+or send in this form:
+................................................................
+Name:
+Address:
+Address:
+City and State:
+Zip or postal code:
+Country
+Phone:  FAX:   E-mail:
+.........................................................
+SUBSCRIPTIONS (6 issues per year):
+USA   1 yr/$35  2 yrs/$63
+Canada/Mexico 1 yr/$42 US 2 yrs/$72 US
+Overseas  1 yr/$53 US 2 yrs/$97 US
+.........................................................
+BACK ISSUES are available, too:
+<http://www.improbable.com/airchives/paperair/stale.htm>
+.........................................................
+Send payment (US bank check, or international money order, or
+Visa, Mastercard or Discover info) to:
+Annals of Improbable Research (AIR)
+PO Box 380853, Cambridge, MA 02238 USA
+617-491-4437 FAX:617-661-0927 <air AT improbable.com>
+
+
+-----------------------------------------------------
+2007-07-16 Our Address (*)
+
+Annals of Improbable Research (AIR)
+PO Box 380853, Cambridge, MA 02238 USA
+617-491-4437 FAX:617-661-0927
+
+EDITORIAL: marca AT chem2.harvard.edu
+SUBSCRIPTIONS: air AT improbable.com
+WEB SITE: <http://www.improbable.com>
+
+
+-----------------------------------------------------
+2007-07-17 Please Forward/Post This Issue! (*)
+
+Please distribute copies of mini-AIR (or excerpts!) wherever
+appropriate. The only limitations are: A) Please indicate that
+the material comes from mini-AIR. B) You may NOT distribute mini-
+AIR for commercial purposes.
+
+------------- mini-AIRheads -------------
+EDITOR: Marc Abrahams
+MINI-PROOFREADER AND PICKER OF NITS (before we introduce the last
+few at the last moment): Wendy Mattson
+COMMUTATIVE EDITOR: Stanley Eigen
+ASSOCIATIVE EDITOR: Mark Dionne
+PSYCHOLOGY EDITOR: Robin Abrahams
+CO-CONSPIRATORS: Alice Shirrell Kaswell, Gary Dryfoos, Ernest
+Ersatz, S. Drew
+MAITRE DE COMPUTATION: Jerry Lotto
+AUTHORITY FIGURES: Nobel Laureates Dudley Herschbach, Sheldon
+Glashow, William Lipscomb, Richard Roberts
+
+(c) copyright 2007, Annals of Improbable Research
+
+
+-----------------------------------------------------
+2007-07-18 How to Receive mini-AIR, etc. (*)
+
+What you are reading right now is mini-AIR. Mini-AIR is a (free!)
+tiny monthly *supplement* to the bi-monthly print magazine.
+   ----------------------------
+To subscribe or unsubscribe, please visit
+<http://chem.harvard.edu/mailman/listinfo/mini-air>
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+
+
+_______________________________________________
+Mini-air mailing list
+Mini-air@air.harvard.edu
+http://chem.harvard.edu/mailman/listinfo/mini-air
+

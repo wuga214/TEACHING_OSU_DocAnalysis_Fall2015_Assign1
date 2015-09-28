@@ -1,0 +1,460 @@
+Received: from anumail9.anu.edu.au ([130.56.64.135])
+ by messaging2.anu.edu.au (Sun Java System Messaging Server 6.2-8.04 (built Feb
+ 28 2007)) with ESMTP id <0JMP002EWXRECL30@messaging2.anu.edu.au> for
+ u4161360@anumail.anu.edu.au; Tue, 14 Aug 2007 01:30:50 +1000 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [128.103.96.254])
+ by anumail9.anu.edu.au (8.13.8/8.13.8) with ESMTP id l7DFUgol026143	for
+ <paul.thomas@anu.edu.au>; Tue, 14 Aug 2007 01:30:48 +1000
+Received: from chem.harvard.edu (chem.harvard.edu [127.0.0.1])
+ by chem.harvard.edu (Postfix) with ESMTP id A356E113D7D; Mon,
+ 13 Aug 2007 11:14:08 -0400 (EDT)
+Received: from alnrmhc13.comcast.net (alnrmhc13.comcast.net [206.18.177.53])
+ by chem.harvard.edu (Postfix) with ESMTP id 35C3B113C59	for
+ <mini-air@air.harvard.edu>; Mon, 13 Aug 2007 11:13:15 -0400 (EDT)
+Received: from [192.168.1.100]
+ (c-24-61-40-221.hsd1.ma.comcast.net[24.61.40.221])	by comcast.net (alnrmhc13)
+ with SMTP	id <20070813151314b1300eeb43e>; Mon, 13 Aug 2007 15:13:14 +0000
+Date: Mon, 13 Aug 2007 11:13:13 -0400
+From: Marc Abrahams <marca@chem2.harvard.edu>
+Subject: [Mini-air] mini-AIR Aug 2007 - Cold Feet, Smell a Rat
+Sender: mini-air-bounces@chem.harvard.edu
+To: mini-air@chem.harvard.edu
+Errors-to: mini-air-bounces@chem.harvard.edu
+Message-id: <01A22707-A9CF-44D2-A2F3-0C244ED047E3@chem2.harvard.edu>
+MIME-version: 1.0 (Apple Message framework v752.3)
+X-Mailer: Apple Mail (2.752.3)
+Content-type: text/plain;
+  charset=iso-8859-1
+Content-transfer-encoding: quoted-printable
+Precedence: list
+X-BeenThere: mini-air@air.harvard.edu
+Delivered-to: mini-air@air.harvard.edu
+X-Original-To: mini-air@air.harvard.edu
+X-PMX-Version: 5.3.3.310218, Antispam-Engine: 2.5.2.311128,
+ Antispam-Data: 2007.8.13.80023 external
+X-Mailman-Version: 2.1.8
+List-Post: <mailto:mini-air@air.harvard.edu>
+List-Subscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+ <mailto:mini-air-request@air.harvard.edu?subject=subscribe>
+List-Unsubscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+ <mailto:mini-air-request@air.harvard.edu?subject=unsubscribe>
+List-Archive: <http://chem.harvard.edu/pipermail/mini-air>
+List-Help: <mailto:mini-air-request@air.harvard.edu?subject=help>
+List-Id: The mini-Annals of Improbable Research <mini-air.air.harvard.edu>
+X-Perlmx-Spam: Gauge=X, Probability=10%, Report='LINES_OF_YELLING_3 0.671,
+ __BEST_PORN_N1 0, __C230066_P2 0, __CP_MEDIA_2_BODY 0, __CP_MEDIA_BODY 0,
+ __CP_NAME_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0,
+ __HAS_MSGID 0, __HAS_X_MAILER 0, __LINES_OF_YELLING 0, __MIME_TEXT_ONLY 0,
+ __MIME_VERSION 0, __SANE_MSGID 0'
+X-Length: 16991
+Status: R
+X-Status: N
+X-Keywords:                 
+X-UID: 3
+X-KMail-EncryptionState:  
+X-KMail-SignatureState:  
+X-KMail-MDN-Sent:  
+
+PLEASE FORWARD/POST AS APPROPRIATE
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+The mini-Annals of Improbable Research ("mini-AIR")
+Issue number 2007-08
+August 2007
+ISSN 1076-500X
+Key words: improbable research, science humor, Ig Nobel, AIR, the
+----------------------------------------------------------
+A free newsletter of tidbits too tiny to fit in
+Annals of Improbable Research (AIR)
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+
+-----------------------------
+2007-08-01 TABLE OF CONTENTS
+
+2007-08-02 Imminent Events
+2007-08-03 What's New in the Magazine
+2007-08-04 Cold Feet
+2007-08-05 Ig Tickets & Delegations
+2007-08-06 Star Trek: Ultimate Purpose
+2007-08-07 Self-Compatible Daffodil Poets
+2007-08-08 Android Hermetic Melancholia Competition
+2007-08-09 Newest Noted Researchers
+2007-08-10 RESEARCH SPOTLIGHT: Aye, Smell! A Rat
+2007-08-11 BLOGLIGHTS: Lifshitz-Slyozov-Wagner
+2007-08-12 MAY WE RECOMMEND: Cylinder, Balm, Balm, Balm
+2007-08-13 Improbable Research Events
+2007-08-14 How to Subscribe to AIR (*)
+2007-08-15 Our Address (*)
+2007-08-16 Please Forward/Post This Issue! (*)
+2007-08-17 How to Receive mini-AIR, etc. (*)
+
+      Items marked (*) are reprinted in every issue.
+
+      mini-AIR is
+      a free monthly *e-supplement* to the print magazine
+      Annals of Improbable Research
+
+
+----------------------------------------------------------
+2007-08-02 Imminent Events
+
+      AUSTRALIA TOUR:
+      The Improbable Australia tour, Aug 20-29, will include
+      events in Hobart, Launceston, Smithton and Sydney.
+      Details (or, for the events in Sydney, might be) at
+      <http://tinyurl.com/k87xs>
+
+
+----------------------------------------------------------
+2007-08-03 What's New in the Magazine
+
+The July/August issue (vol. 13, no. 4) of the Annals of
+Improbable Research is the special What's in Your Head issue.
+Highlights include:
+
+<> "Where in Your Head?," by Alice Shirrell Kaswell.
+
+<> "Phrenology Favorites," by Stephen Drew.
+
+<> "The Neural Correlate of Ignorance," by Kai M. Schreiber.
+
+The table of contents is at <http://tinyurl.com/2jfbad>
+
+To subscribe (6 paper issues per year) go to
+<http://improbable.com/subscribe>
+or see info at bottom of this newsletter.
+
+
+----------------------------------------------------------
+2007-08-04 Cold Feet
+
+We have amassed a small collection of provocative research about
+cold feet. Here are highlights, without comment or edification.
+
+COLD FEET: DUCKS
+"Heat Loss from Ducks' Feet Immersed in Cold Water," Delbert L.
+Kilgore, Jr., and Knut Schmidt-Nielsen, The Condor, vol. 77, no.
+4, Winter 1975, pp. 475-8.
+
+COLD FEET: BASKETBALLERS
+"Surface Temperature, Body Temperature, and Heart Rate as
+Affected by Immersing the Feet of Conditioned Basketball Players
+in Cold Water Bath," F. L. Jacobsen, Thesis (M.S.), South Dakota
+State University, 1968.
+
+COLD FEET: OYSTERS
+"Do Oysters Get Cold Feet in Sweden? A Preliminary Report on
+Winter Tolerance of Ostrea Edulis Linn=E9, from the Swedish West
+Coast," E.M. R=F6dstr=F6m, in N. De Pauw, et al., editors,
+Aquaculture: A Biotechnology in Progress, 1989, pp. 361.
+
+COLD FEET: ADVENTURES IN DENTISTRY
+"The Journey Back, Part Three. Cold Feet and Warm Sand vs. the
+Next Big Step," P. Kohlsaat, Northwest Dentistry, vol. 80, part
+2, 2001, pp. 21-8.
+
+
+----------------------------------------------------------
+2007-08-05 Ig Tickets & Delegations
+
+TICKETS for the Ig Nobel Prize Ceremony are now on sale:, from
+the Harvard Box Office <http://www.boxoffice.harvard.edu/>
+
+DELEGATIONS: If you'd like to bring an official audience
+delegation (five or more people), first get tickets, then please
+register with G.H.P. Louise Sacco. See details at
+<http://tinyurl.com/2cvjnf>.
+
+The ceremony will be on Thursday night, October 4. This year's
+theme: CHICKEN. Details, and a downloadable poster, are at
+<http://tinyurl.com/2cvjnf>.
+
+
+----------------------------------------------------------
+2007-08-06 Star Trek: Ultimate Purpose
+
+Star Trek has fulfilled its ultimate purpose -- a tool to teach
+people about Direct Marketing.
+
+So one infers from reading a dispatch by Matt Bailey. Bailey
+describes himself as "a speaker and trainer for the Direct
+Marketing Association, the American Advertising Federation, and
+the Search Engine Strategies Conferences." He writes (at
+<http://tinyurl.com/2flwq6>):
+
+           ***
+The fun is in finding effective and memorable methods to help
+people understand the concepts. One of my favorites is an
+analysis of the Red-Shirt Phenomenon in Star Trek. What? You
+don't know about the Red Shirt Phenomenon? Well, as any die-hard
+Trekkie knows, if you are wearing a red shirt and beam to the
+planet with Captain Kirk, you're gonna die. That's the common
+thinking, but I decided to put this to the test. ... Unless we
+dug into Kirk's personal life, we may never have spotted the
+contrast of Kirk's attraction to alien females as it related to
+saving red-shirt crewmen's lives.
+           ***
+
+(Thanks to investigator Ron Josephson for bringing this to our
+attention.)
+
+
+----------------------------------------------------------
+2007-08-07 Self-Compatible Daffodil Poets
+
+The judges have chosen a winner for last month's Self-Compatible
+Daffodil Limerick Competition, which asked for a limerick to
+honor the following study:
+
+The winner is INVESTIGATOR HERKY GOTTFRIED, who wrote:
+
+When boy parts and girl parts of plants
+Grow closely together by chance,
+     "They'll all be inbred,"
+     It is usually said,
+But this shows it's just happenstance.
+
+A runner-up mention goes to INVESTIGATOR TONY HARKER:
+
+Spare a thought for the humble narcissus
+That knows to inbreed's inauspicious.
+    By keeping apart
+    The bits at its heart
+It won't be both Mr. and Mrs.
+
+And here is the latest from Limerick Laureate MARTIN EIGER:
+
+When daffodils contemplate mates,
+They ignore certain physical traits.
+    The plants seek a means
+    For spreading their genes --
+Just like people when going on dates.
+
+
+----------------------------------------------------------
+2007-08-08 Android Hermetic Melancholia Competition
+
+Hermetic melancholia is the subject of this month's limerick
+competition. To enter, compose an original limerick that
+illuminates the nature of this report:
+
+      "Hermetic Melancholia and the Suffering of Androids,"
+      Eric G. Wilson, Esoterica, vol. 8, 2006, pp. 83-111.
+      The author explains:
+      "Ever since Victoria Nelson published her book on the
+      spiritual scope of puppets, many of us have been
+      re-thinking our relationship to creatures generally
+      ignored or even excoriated by esoteric thinkers."
+
+The article is online at
+<http://www.esoteric.msu.edu/VolumeVIII/EsotericaVIII.pdf>
+
+RULES: Please make sure your rhymes actually do, and that your
+poem is in classic, trips-off-the-tongue limerick form.
+
+PRIZE: The winning poet will receive a (if we manage to send it
+to the correct address) a free, possibly melancholic issue of the
+Annals of Improbable Research. Send entries (one entry per
+entrant) to:
+
+      ANDROID HERMETIC MELANCHOLIA COMPETITION
+      c/o <marca AT chem2.harvard.edu>
+
+
+----------------------------------------------------------
+2007-08-09 Newest Noted Researchers
+
+New members of The Luxuriant Flowing Hair Club for Scientists
+(LFHCfS):
+
+      Eric Bakovi_
+      David Serre (returning after mysterious absence)
+      Michael Hellwig
+      Jennifer Aitken
+
+See them and the other members at:
+<http://improbable.com/category/lfhcfs-hair-club/>
+
+
+----------------------------------------------------------
+2007-08-10 RESEARCH SPOTLIGHT: Aye, Smell! A Rat
+
+Each month we select for your special attention a research report
+that seems particularly worth a close read. This month's pick:
+
+"Rats Assess Degree of Relatedness from Human Odors," E. M.
+Ables, L. M. Kay, and J. M. Mateo, Physiology and Behavior, vol.
+90, no. 5, April 23, 2007, pp. 726-32. (Thanks to Wim Crusio for
+bringing this to our attention.) The authors explain:
+
+"Rats were first habituated to a referent human odor and were
+then presented with two test odors obtained from individuals
+related in different degrees to the referent. Investigation times
+for each odor were compared.... For six of ten odor donor
+families, rats investigated the odor of the less closely related
+individual significantly longer than that of the more closely
+related individual, and investigation durations were in the
+expected direction for all families."
+
+
+----------------------------------------------------------
+2007-08-11 BLOGLIGHTS: Lifshitz-Slyozov-Wagner
+
+Here are some recent topics in our blog:
+
+<> The Lifshitz-Slyozov-Wagner theory of coarsening
+<> Kids' food face indications
+<> Lean images
+<> Horror online
+<> MATH LESSON: Assumptive steps
+
+and some from the newspaper column in The Guardian:
+
+<> Right there in your head, so they say
+<> Sounding gay
+
+      ... and others
+
+      Read the blog
+      every day at <http://www.improbable.com>
+
+
+-----------------------------------------------------------
+2007-08-12 MAY WE RECOMMEND: Cylinder, Balm, Balm, Balm
+
+A NEW SPECIES IN STORE
+"New Species of Cylinder," P. Semple, Anaesthesia, vol. 62, no.
+4, 2007, p. 428. (Thanks to Adrian Smith for bringing this to our
+attention.)
+
+EARLY PROFIT INITIATIVE
+"Implementing Pay-For-Performance in the Neonatal Intensive
+Care," Jochen Profit, et al, Pediatrics, vol. 119, no. 5, 2007,
+pp. 975-82.  (Thanks to Keith Nockels for bringing this to our
+attention.)
+
+A CORNUCOPIA OF BALM
+"The Safety and Efficacy of a Mixture of Honey, Olive Oil, and
+Beeswax for the Management of Hemorrhoids and Anal Fissure: A
+Pilot Study," Noori S. Al-Waili, Khelod S. Saloom, Thia N. Al-
+Waili, and Ali N. Al-Waili, Scientific World Journal, vol. 6,
+2006, pp. 1998-2005.  (Thanks to Dany Adams for bringing this to
+our attention.)
+
+
+------------------------------------------------------------
+2007-08-13 Improbable Research Events
+
+For details and additional events, see
+<http://improbable.com/improbable-research-shows/complete-schedule>
+
+IMPROBABLE AUSTRALIA TOUR           -- AUG 20-29, 2007
+
+IG NOBEL PRIZE CEREMONY                  -- OCT 4, 2007
+
+IG INFORMAL LECTURES                -- OCT 6, 2007
+
+FESTIVAL DELLA SCIENZA, GENOA, ITALY     -- OCT 2007
+
+NOKIA SIEMENS NETWORKS - GET INSIDE EVENT
+                LONDON, UK           -- NOV 23, 2007
+
+IMPERIAL COLLEGE, LONDON            -- NOV 26, 2007
+
+AAAS ANNUAL MEETING, BOSTON              -- FEB, 2008
+
+IG NOBEL UK TOUR                    -- MAR, 2008
+
+DFG ANNUAL ASSEMBLY, BERLIN, GERMANY     -- JUL 1, 2008
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+2007-08-14 How to Subscribe to AIR (*)
+
+The Annals of Improbable Research is a paper magazine. (It's not
+just the little bits of overflow material you've been reading in
+this newsletter). Subscribe at <http://improbable.com/subscribe/>
+or send in this form:
+................................................................
+Name:
+Address:
+Address:
+City and State:
+Zip or postal code:
+Country
+Phone:         FAX:           E-mail:
+.........................................................
+SUBSCRIPTIONS (6 issues per year):
+USA            1 yr/$35       2 yrs/$63
+Canada/Mexico  1 yr/$42 US    2 yrs/$72 US
+Overseas       1 yr/$53 US    2 yrs/$97 US
+.........................................................
+BACK ISSUES are available, too:
+<http://www.improbable.com/airchives/paperair/stale.htm>
+.........................................................
+Send payment (US bank check, or international money order, or
+Visa, Mastercard or Discover info) to:
+      Annals of Improbable Research (AIR)
+      PO Box 380853, Cambridge, MA 02238 USA
+      617-491-4437 FAX:617-661-0927 <air AT improbable.com>
+
+
+-----------------------------------------------------
+2007-08-15 Our Address (*)
+
+Annals of Improbable Research (AIR)
+PO Box 380853, Cambridge, MA 02238 USA
+617-491-4437 FAX:617-661-0927
+
+EDITORIAL: marca AT chem2.harvard.edu
+SUBSCRIPTIONS: air AT improbable.com
+WEB SITE: <http://www.improbable.com>
+
+
+-----------------------------------------------------
+2007-08-16 Please Forward/Post This Issue! (*)
+
+Please distribute copies of mini-AIR (or excerpts!) wherever
+appropriate. The only limitations are: A) Please indicate that
+the material comes from mini-AIR. B) You may NOT distribute mini-
+AIR for commercial purposes.
+
+      ------------- mini-AIRheads -------------
+EDITOR: Marc Abrahams
+MINI-PROOFREADER AND PICKER OF NITS (before we introduce the last
+few at the last moment): Wendy Mattson
+COMMUTATIVE EDITOR: Stanley Eigen
+ASSOCIATIVE EDITOR: Mark Dionne
+PSYCHOLOGY EDITOR: Robin Abrahams
+CO-CONSPIRATORS: Alice Shirrell Kaswell, Gary Dryfoos, Ernest
+Ersatz, S. Drew
+MAITRE DE COMPUTATION: Jerry Lotto
+AUTHORITY FIGURES: Nobel Laureates Dudley Herschbach, Sheldon
+Glashow, William Lipscomb, Richard Roberts
+
+(c) copyright 2007, Annals of Improbable Research
+
+
+-----------------------------------------------------
+2007-08-17 How to Receive mini-AIR, etc. (*)
+
+What you are reading right now is mini-AIR. Mini-AIR is a (free!)
+tiny monthly *supplement* to the bi-monthly print magazine.
+           ----------------------------
+To subscribe or unsubscribe, please visit
+<http://chem.harvard.edu/mailman/listinfo/mini-air>
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+
+
+_______________________________________________
+Mini-air mailing list
+Mini-air@air.harvard.edu
+http://chem.harvard.edu/mailman/listinfo/mini-air
+

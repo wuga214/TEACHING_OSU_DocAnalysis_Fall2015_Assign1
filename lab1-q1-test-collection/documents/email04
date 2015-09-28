@@ -1,0 +1,478 @@
+Received: from exvic-htca02.nexus.csiro.au (138.194.81.127) by
+ EXNSW-HTCA01.nexus.csiro.au (130.155.117.126) with Microsoft SMTP Server
+ (TLS) id 8.1.436.0; Wed, 30 Jun 2010 05:59:21 +1000
+Received: from act-MTAout2.csiro.au (150.229.7.38) by
+ exvic-htca02.nexus.csiro.au (138.194.81.127) with Microsoft SMTP Server (TLS)
+ id 8.1.436.0; Wed, 30 Jun 2010 05:59:21 +1000
+Received: from anumail8.anu.edu.au ([130.56.64.134])  by
+ act-ironport-ldap.csiro.au with ESMTP/TLS/DHE-RSA-AES256-SHA; 30 Jun 2010
+ 05:59:20 +1000
+Received: from mailin2.anu.edu.au (mailin2.anu.edu.au [130.56.64.229])	by
+ anumail8.anu.edu.au (8.14.3/8.14.3) with ESMTP id o5TJxJrs011186	for
+ <paul.thomas@anu.edu.au>; Wed, 30 Jun 2010 05:59:20 +1000 (EST)
+Received: from mailin2.anu.edu.au (localhost.localdomain [127.0.0.1])	by
+ localhost (Postfix) with SMTP id CE1627E8004	for <paul.thomas@anu.edu.au>;
+ Wed, 30 Jun 2010 05:59:19 +1000 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [128.103.96.254])	by
+ mailin2.anu.edu.au (Postfix) with ESMTP id 51ADD7E8002	for
+ <paul.thomas@anu.edu.au>; Wed, 30 Jun 2010 05:59:18 +1000 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [127.0.0.1])	by
+ chem.harvard.edu (Postfix) with ESMTP id 1FF0F2F52D;	Tue, 29 Jun 2010
+ 15:48:31 -0400 (EDT)
+Received: from qmta10.westchester.pa.mail.comcast.net
+	(qmta10.westchester.pa.mail.comcast.net [76.96.62.17])	by chem.harvard.edu
+ (Postfix) with ESMTP id EA1BD113E04	for <mini-air@air.harvard.edu>; Tue, 29
+ Jun 2010 15:47:23 -0400 (EDT)
+Received: from omta03.westchester.pa.mail.comcast.net ([76.96.62.27])	by
+ qmta10.westchester.pa.mail.comcast.net with comcast	id
+ bmwL1e0020bG4ec5AvnQE3; Tue, 29 Jun 2010 19:47:24 +0000
+Received: from [192.168.1.101] ([76.24.16.62])	by
+ omta03.westchester.pa.mail.comcast.net with comcast	id
+ bvnP1e00U1LLZwU3PvnQZT; Tue, 29 Jun 2010 19:47:24 +0000
+From: Marc Abrahams <marca@improbable.com>
+To: "mini-air@air.harvard.edu" <mini-air@air.harvard.edu>
+Sender: "mini-air-bounces@air.harvard.edu" <mini-air-bounces@air.harvard.edu>
+Date: Wed, 30 Jun 2010 05:47:22 +1000
+Subject: [Mini-air] June mini-AIR: cosmic mothballs, World Cup sociology
+Thread-Topic: [Mini-air] June mini-AIR: cosmic mothballs, World Cup sociology
+Thread-Index: AcsXxZEgvXubs3lnT9K/1XADdNZ/bA==
+Message-ID: <E56C4B2D-6A1C-40BD-9DA5-A1B8E0F222F9@improbable.com>
+List-Help: <mailto:mini-air-request@air.harvard.edu?subject=help>
+List-Subscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=subscribe>
+List-Unsubscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=unsubscribe>
+Accept-Language: en-NZ, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: exvic-htca02.nexus.csiro.au
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-TNEF-Correlator:
+x-ironport-av: E=Sophos;i="4.53,506,1272808800";    d="scan'208";a="58654181"
+x-sbrs: 4.5
+x-ironport-anti-spam-filtered: true
+x-ironport-anti-spam-result:
+ AkMCAGLtKUyCOECGkWdsb2JhbACZeWkCAoRnFQEBAQEJCwoHEQUdsCCQUIJTBCBqgUMEhAqIMwGEXQ
+received-spf: None identity=mailfrom; client-ip=130.56.64.134;
+  receiver=act-ironport-ldap.csiro.au;
+  envelope-from="mini-air-bounces@air.harvard.edu";
+  x-sender="mini-air-bounces@air.harvard.edu";  x-conformance=sidf_compatible
+authentication-results: act-ironport-ldap.csiro.au; dkim=neutral (message
+ not signed) header.i=none
+delivered-to: mini-air@air.harvard.edu
+x-pmx-version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data:
+ 2010.6.29.194514 external
+list-archive: <http://chem.harvard.edu/pipermail/mini-air>
+list-id: The mini-Annals of Improbable Research <mini-air.air.harvard.edu>
+list-post: <mailto:mini-air@air.harvard.edu>
+errors-to: mini-air-bounces@air.harvard.edu
+x-mailman-version: 2.1.8
+x-beenthere: mini-air@air.harvard.edu
+x-original-to: mini-air@air.harvard.edu
+x-perlmx-spam: Gauge=X, Probability=10%, Report=' TO_IN_SUBJECT 0.5,
+ KNOWN_FREEWEB_URI 0.05, BODY_SIZE_10000_PLUS 0, TO_NO_NAME 0,
+ __CP_MEDIA_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0,
+ __FRAUD_BADTHINGS 0, __FRAUD_CONTACT_SEX 0, __HAS_LIST_HEADER 0,
+ __HAS_LIST_HELP 0, __HAS_LIST_SUBSCRIBE 0, __HAS_LIST_UNSUBSCRIBE 0,
+ __HAS_MSGID 0, __HAS_X_MAILER 0, __KNOWN_FREEWEB_URI2 0, __LINES_OF_YELLING
+ 0, __MIME_TEXT_ONLY 0, __MIME_VERSION 0, __MIME_VERSION_APPLEMAIL 0,
+ __MSGID_APPLEMAIL 0, __SANE_MSGID 0, __TO_MALFORMED_2 0, __URI_NO_MAILTO 0,
+ __URI_NS , __USER_AGENT_APPLEMAIL 0, __X_MAILER_APPLEMAIL 0'
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Length: 32276
+X-UID: 40634
+Status: R
+X-Status: N
+X-KMail-EncryptionState:  
+X-KMail-SignatureState:  
+X-KMail-MDN-Sent:  
+
+PLEASE FORWARD/POST AS APPROPRIATE
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+The mini-Annals of Improbable Research ("mini-AIR")
+June 2010, issue number 2010-06. ISSN 1076-500X.
+----------------------------------------------------------
+Monthly mini update/alert from the Annals of Improbable Research
+        This issue is at
+        <http://www.improbable.com/airchives/miniair/2010/mini2010-06.htm>
+        Archive at <http://improbable.com/airchives/miniair/>
+Twitter: ImprobResearch
+Key words: improbable research, science humor, Ig Nobel, AIR, the
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+
+2010-06-01 TABLE OF CONTENTS
+
+2010-06-02 The Magazine: Orgy & Handwashing Issue
+2010-06-02 World Cup's Mental Depths
+2010-06-03 Planetary Medical Stars (2)
+2010-06-04 Ig Nobel Tickets Will Go on Sale Aug 1
+2010-06-05 RESEARCH SPOTLIGHT: Cosmic Mothballs
+2010-06-06 Dirty Word Usage Poet
+2010-06-07 Active Nonsense-Mediated Competition
+2010-06-08 Davian Behavior: A New Report
+2010-06-09 Beyond Davian: Limerick-Inspired Technical Terms?
+2010-06-10 MORE IMPROBABLE: Pronouncing Uranus, Living Dead Rally
+2010-06-11 MAY WE RECOMMEND: Phallus impudicus and Shoemaker
+2010-06-12 Improbable Research Events
+2010-06-13 -- How to Subscribe to the Magazine (*)
+2010-06-14 -- Our Address (*)
+2010-06-15 -- Please Forward/Post This Issue! (*)
+2010-06-16 -- How to Receive mini-AIR, etc. (*)
+
+        Items marked (*) are reprinted in every issue.
+
+        mini-AIR is
+        but a wee monthly *supplement*
+        to the bi-monthly magazine Annals of Improbable Research
+
+
+----------------------------------------------------------
+2010-06-02 The Magazine: Orgy & Handwashing Issue
+
+The special Orgy & Handwashing issue (vol 16, no 3) of the
+magazine is now online, at
+<http://improbable.com/airchives/paperair/volume16/v16i3/v16i3.html>
+
+Highlights include:
+
+"How to Cater a Roman Orgy", by Corky White
+"Hand Sanitizing-Another Look", by John Trinkaus
+"Handwashing Research Review", by Alice Shirell Kaswell
+
+Read many back issues (including the recent Ig Nobel special
+issue) online, and/or subscribe to the fully tangible paper
+version, at: <http://www.improbable.com/magazine/>.
+
+
+----------------------------------------------------------
+2010-06-02 World Cup's Mental Depths
+
+The current World Cup tournament, like its predecessors, may
+never be fully understood. A study about the 1990 tournament
+demonstrates how a state of deep confusion can arise and persist:
+
+"Scotland's Tartan Army in Italy: The Case for the
+Carnivalesque," Richard Giulianotti, The Sociological Review,
+vol. 39, no. 3, August 1991, pp. 503-27.
+<http://www3.interscience.wiley.com/journal/119347933/abstract>
+
+"This short paper seeks to explain the activities of Scottish
+fans in Genoa and Turin, during the 1990 World Cup, by drawing on
+some key concepts offered by contemporary writers in the field of
+post-modernism and post-structuralism. These writers include
+Foucault, Derrida, Barthes and Baudrillard. All emphasize a re-
+empowerment of agency, evading more conventional forms of
+domination: Foucault within the domain of enabling discourse,
+Derrida on the open interpretation of the sign's apparent
+meaning, Barthes on the 'nature' of jouissance and the body
+principle, and Baudrillard on the public toying with their media
+representation...."
+
+
+----------------------------------------------------------
+2010-06-03 Planetary Medical Stars (2)
+
+Astronomers-of-a-sort sent some additional stars for the all-star
+team of physicians with planetary family names (for the original
+team, see last month's mini-AIR).
+
+Enid Rose Neptune, MD, of Johns Hopkins <http://bit.ly/bD2DBX>
+(Thanks to investigator Max Hailperin for bringing Dr. N to our
+attention.)
+
+Michael G. Mercury <http://bit.ly/bD2DBX>
+(Thanks to investigator Norbert Hirschorn for bringing Dr. M to
+our attention, and demonstrating that he is, at least according
+to some documentation, an MD.)
+
+
+----------------------------------------------------------
+2010-06-04 Ig Nobel Tickets Will Go on Sale Aug 1
+
+Tickets for the 20th First Annual Ig Nobel Prize Ceremony will go
+on sale August 1. We expect they will sell out quickly this year
+- so consider yourself warned.
+
+Ceremony info: <http://improbable.com/ig/2010/>
+
+
+----------------------------------------------------------
+2010-06-05 RESEARCH SPOTLIGHT: Cosmic Mothballs
+
+This month's specially selected study is:
+
+"Simple Linear Polycyclic Aromatic Hydrocarbon Molecules and the
+Infrared Emission Features - Mothballs in the Orion Ridge?"
+Duley, W. W.; Jones, A. P., Astrophysical Journal, Part 2 -
+Letters (ISSN 0004-637X), vol. 351, March 10, 1990, p. L49-L52.
+<http://adsabs.harvard.edu/abs/1990ApJ...351L..49D>
+The authors report:
+
+"It is shown that the IR emission spectrum in objects as the
+Orion ridge is compatible with the presence of two- to five-ring
+linear PAH species in amorphous carbons (specifically, the
+derivatives of naphthalene, anthracene, tetracene, and perhaps
+pentacene). An origin for these molecules in carbon dust is
+indicated and is consistent with the structure of laboratory
+hydrogenated amorphous carbons."
+
+
+----------------------------------------------------------
+2010-06-06 Dirty Word Usage Poet
+
+The judges have chosen a winner in the Dirty Word Usage Limerick
+Competition, which asked for a limerick to honor the study "Sex
+Roles and Dirty Word Usage: A Review of the Literature and a
+Reply to Haas," Timothy B. Jay, Psychological Bulletin, vol.  88,
+no. 3, November 1980, pp. 614-21.  <http://bit.ly/9BqtWU>
+
+The winner is INVESTIGATOR John Jermey who wrote:
+
+I wrote a love letter to Brenda;
+I phrased it in accents so tender.
+   But now I'm in jail
+   And they've just refused bail,
+'Cos profanity varies with gender.
+
+Here's the offering from LIMERICK LAUREATE MARTIN EIGER:
+
+Which sex uses dirty words more?
+Women? Men? Both the same? What's the score?
+   She says same. He says men.
+   Who is right? Then again,
+Were it men, he'd have called her a whore.
+
+
+----------------------------------------------------------
+2010-06-07 Active Nonsense-Mediated Competition
+
+Now-old new insights into nonsense inspire this month's limerick
+competition. To enter, compose an original limerick that
+illuminates the nature of this report:
+
+"New Insights into the Formation of Active Nonsense-Mediated Decay
+Complexes," Guramrit Singh and Jens Lykke-Andersen, Trends in
+Biochemical Sciences, vol. 28, no. 9, September 2003, pp. 464-6.
+<http://dx.doi.org/10.1016/S0968-0004(03)00176-2> The authors are at
+the University of Colorado at Boulder.
+
+RULES: Please make sure that: (1) your rhymes actually do; and
+(2) your poem is in classic, trills-off-the-tongue limerick form.
+
+PRIZE: The winning poet will receive (if we manage to send it to the
+correct address) a free, perhaps no, hinsensiclgh-res PDF issue of the
+Annals of Improbable Research. Send entries (one entry per entrant) to:
+
+        ACTIVE NONSENSE-MEDIATED LIMERICK COMPETITION
+        c/o <marca AT improbable.com>
+
+
+----------------------------------------------------------
+2010-06-08 Davian Behavior: A New Report
+
+Davian behavior creeps yet again into the scientific literature:
+
+"The Corpse Bride: a case of Davian Behaviour in the Green Ameiva
+(Ameiva ameiva) in southeastern Brazil," Henrique Caldeira Costa,
+Emanuel Teixeira da Silva, Pollyanna Silva Campos, Marina Paula
+da Cunha Oliveira, Andr=E9 Valle Nunes and Patr=EDcia da Silva
+Santosm, Herpetology Notes, volume 3: 079-083 (2010). The
+authors, at several institutions in Brazil, report:
+
+"Herein, we report necrophilia (Davian behaviour) in the lizard
+Ameiva ameiva in Brazilian Atlantic Forest Domain. A male A.
+ameiva was found during a sunny day courting and trying to
+copulate with a road-killed female. The presence of developed
+ovarian follicles confirmed that the female was in breeding
+condition. The female probably died while making a chemical trail
+to attract reproductive males. Apparently the male's behaviour
+was influenced by the high temperature of the female's body that
+was warmed up by the heat of the sun. Although Davian behaviour
+is not expected to occur frequently, a high number of dead
+reproductive females in Brazilian roads could result in a high
+frequency of necrophilia in A. ameiva."
+
+The full report, including photos, at <http://bit.ly/c5fdHV>
+
+
+----------------------------------------------------------
+2010-06-09 Beyond Davian: Limerick-Inspired Technical Terms?
+
+The curious term "Davian", which is now generally used in the
+biological literature, originated in a limerick. Wikipedia gives
+some of its history:
+<http://en.wikipedia.org/wiki/Davian_behavior>
+
+Question:
+Are there other, widely accepted, scientific terms that
+originated in limericks? If you know of one, please send us
+details.
+
+BACKGROUND NOTE: Kees Moeliker, author of the first
+scientifically recorded report of homosexual necrophilia in the
+mallard duck <http://bit.ly/9NNN12>, became, maybe inevitably,
+the central collecting point for reports on animal Davian
+behavior.
+
+
+----------------------------------------------------------
+2010-06-10 MORE IMPROBABLE: Pronouncing Uranus, Living Dead Rally
+
+Things you may or may not have missed:
+
+BLOG <http://improbable.com/>
+<> Scientists Debate How to Pronounce "Uranus" (video)
+<> India's living dead will rally on June 30
+<> Ovulating Women Ogle Forgettable Men
+<> Orthogonal judged interesting
+And many more...
+
+NEWSPAPER <http://improbable.com/category/newspaper-column>
+<> Parker's Tremendously Typical Timelines
+<> Europe's walking washing machines
+<> Effect of mobile phones on rabbit sex
+<> How Movies Created the Financial Crisis
+
+Newest Members of the Luxuriant Flowing Hair Club for Scientists
+(LFHCfS), etc:
+<http://improbable.com/category/lfhcfs-hair-club/>
+
+twitter: ImprobResearch
+
+
+-----------------------------------------------------------
+2010-06-11 MAY WE RECOMMEND: Phallus impudicus and Shoemaker
+
+VEGETATIVE AND FRUCTIFYING GROWTH IN PHALLUS IMPUDICUS
+"Vegetative and Fructifying Growth in Phallus impudicus," John
+Grainger, Transactions of the British Mycological Society, vol.
+45, no. 1, March 1962, pp. 147-155.
+<http://dx.doi.org/10.1016/S0007-1536(62)80043-6>
+
+SHOEMAKER'S GRASP ON HAND GRIPS
+"Sex Differences in Forebrain and Cardiovagal Responses at the
+Onset of Handgrip Strength & Dominant Behavior Isometric Handgrip
+Exercise: A Retrospective fMRI study," Savio Wong, Derek
+Kimmerly, Nicholas Mass=E9, Ravi Menon, David Cechetto and J. Kevin
+Shoemaker, Journal of Applied Physiology, vol. 103, 2007, pp.
+1402-11.
+<http://jap.physiology.org/cgi/content/full/103/4/1402>
+
+
+------------------------------------------------------------
+2010-06-12 Improbable Research Events
+
+For details and additional events, see
+<http://improbable.com/improbable-research-shows/complete-schedule>
+
+Ig Nobel Prize ceremony                         - Sep 30, 2010
+
+Ig Informal Lectures                            - Oct 2, 2010
+
+Genoa Science Festival                          - Oct, 2010
+
+Agronomy, Crops, and Soil Science Societies International Annual
+Meetings, Long Beach, CA                        - Nov 3, 2010
+
+AAAS, Washington, DC                            - Feb 2011
+
+UK Tour                                         - Mar 2011
+
+Scandinavia Tour                                        - Apr 2011
+
+Cairo, Egypt                                    - Jun 2011
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+2010-06-13 -- How to Subscribe to the Magazine (*)
+
+The Annals of Improbable Research is a 6-issues-per-year
+magazine. (It's bigger and better than the little bits of
+overflow material you've been reading in this newsletter).
+
+To subscribe to the paper-and-ink version, go to
+<http://improbable.com/subscribe/> or send in this form:
+..........................................................
+Name:
+Address:
+Address:
+City and State:
+Zip or postal code:
+Country
+Phone:          FAX:                    E-mail:
+.........................................................
+SUBSCRIPTIONS (6 issues per year):
+USA                     1 yr/$37                2 yrs/$69
+Canada/Mexico   1 yr/$46 US     2 yrs/$86 US
+Overseas                1 yr/$59 US     2 yrs/$109 US
+.........................................................
+Send payment (US bank check, or international money order, or
+Visa, Mastercard or Discover info) to:
+        Annals of Improbable Research (AIR)
+        PO Box 380853, Cambridge, MA 02238 USA
+        617-491-4437 FAX:617-661-0927 <air AT improbable.com>
+
+
+-----------------------------------------------------
+2010-06-14 -- Our Address (*)
+
+Annals of Improbable Research (AIR)
+PO Box 380853, Cambridge, MA 02238 USA
+617-491-4437 FAX:617-661-0927
+
+
+EDITORIAL: marca AT chem2.harvard.edu
+SUBSCRIPTIONS: subscriptions AT improbable.com
+Web Site: <http://www.improbable.com>
+Blog: www.improbable.com
+Twitter: ImprobResearch
+
+
+-----------------------------------------------------
+2010-06-15 -- Please Forward/Post This Issue! (*)
+
+Please distribute copies of mini-AIR (or excerpts!) wherever
+appropriate. The only limitations are: A) Please indicate that
+the material comes from mini-AIR. B) You may NOT distribute mini-
+AIR for commercial purposes.
+
+        ------------- mini-AIRheads -------------
+EDITOR: Marc Abrahams
+MINI-PROOFREADER AND PICKER OF NITS (before we introduce the last
+few at the last moment): Wendy Mattson
+CO-CONSPIRATORS: Kees Moeliker, Alice Shirrell Kaswell, Gary
+Dryfoos, Ernest Ersatz, S. Drew
+MAITRE DE COMPUTATION: Jerry Lotto
+AUTHORITY FIGURES: Nobel Laureates Dudley Herschbach, Sheldon
+Glashow, William Lipscomb, Richard Roberts
+
+(c) copyright 2010, Annals of Improbable Research
+
+
+-----------------------------------------------------
+2010-06-16 -- How to Receive mini-AIR, etc. (*)
+
+What you are reading right now is mini-AIR. Mini-AIR is a (free!)
+tiny monthly *supplement* to the bi-monthly print magazine.
+                ----------------------------
+To subscribe or unsubscribe, please visit
+<http://chem.harvard.edu/mailman/listinfo/mini-air>
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+
+
+_______________________________________________
+Mini-air mailing list
+Mini-air@air.harvard.edu
+http://chem.harvard.edu/mailman/listinfo/mini-air

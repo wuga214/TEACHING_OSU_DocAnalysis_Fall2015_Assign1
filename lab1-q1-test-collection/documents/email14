@@ -1,0 +1,456 @@
+Received: from act-MTAout6.csiro.au (150.229.7.43) by
+ EXNSW-HTCA02.nexus.csiro.au (130.155.117.127) with Microsoft SMTP Server
+ (TLS) id 8.1.311.2; Tue, 9 Dec 2008 02:14:16 +1100
+Received: from anumail9.anu.edu.au ([130.56.64.135])  by
+ act-ironport-ldap.csiro.au with ESMTP/TLS/DHE-RSA-AES256-SHA; 09 Dec 2008
+ 02:14:12 +1100
+Received: from mailin1.anu.edu.au (mailin1.anu.edu.au [130.56.64.228])	by
+ anumail9.anu.edu.au (8.14.3/8.14.3) with ESMTP id mB8FECYu009067	for
+ <paul.thomas@anu.edu.au>; Tue, 9 Dec 2008 02:14:12 +1100 (EST)
+Received: from mailin1.anu.edu.au (localhost.localdomain [127.0.0.1])	by
+ localhost (Postfix) with SMTP id A7E6117E8002	for <paul.thomas@anu.edu.au>;
+ Tue,  9 Dec 2008 02:14:12 +1100 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [128.103.96.254])	by
+ mailin1.anu.edu.au (Postfix) with ESMTP id 5100217E8004	for
+ <paul.thomas@anu.edu.au>; Tue,  9 Dec 2008 02:14:07 +1100 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [127.0.0.1])	by
+ chem.harvard.edu (Postfix) with ESMTP id 28BC0113F94;	Mon,  8 Dec 2008
+ 10:03:04 -0500 (EST)
+Received: from mail-qy0-f21.google.com (mail-qy0-f21.google.com
+	[209.85.221.21])	by chem.harvard.edu (Postfix) with ESMTP id AD7B5113CB7	for
+ <mini-air@air.harvard.edu>; Mon,  8 Dec 2008 10:01:32 -0500 (EST)
+Received: by qyk14 with SMTP id 14so1270658qyk.11	for
+ <mini-air@air.harvard.edu>; Mon, 08 Dec 2008 07:01:32 -0800 (PST)
+Received: by 10.215.67.7 with SMTP id u7mr2309328qak.383.1228748492061;	Mon,
+ 08 Dec 2008 07:01:32 -0800 (PST)
+Received: from ?192.168.1.101? (c-66-31-45-12.hsd1.ma.comcast.net
+	[66.31.45.12])	by mx.google.com with ESMTPS id
+ a68sm16850447rnc.17.2008.12.08.07.01.29	(version=TLSv1/SSLv3 cipher=RC4-MD5);
+	Mon, 08 Dec 2008 07:01:30 -0800 (PST)
+From: Marc Abrahams <marca@chem2.harvard.edu>
+To: "mini-air@chem.harvard.edu" <mini-air@chem.harvard.edu>
+Sender: "mini-air-bounces@chem.harvard.edu"
+	<mini-air-bounces@chem.harvard.edu>
+Date: Tue, 9 Dec 2008 02:01:27 +1100
+Subject: [Mini-air] mini-AIR: Stochastic Mystery Association? ... and a
+	nauseating walk around a pole
+Thread-Topic: [Mini-air] mini-AIR: Stochastic Mystery Association? ... and a
+	nauseating walk around a pole
+Thread-Index: AclZR6ZKPPejfJHnQu28rdVeLrMsqw==
+Message-ID: <37288507-295C-4CC0-A1FF-2C90E3E876B2@chem2.harvard.edu>
+List-Help: <mailto:mini-air-request@air.harvard.edu?subject=help>
+List-Subscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=subscribe>
+List-Unsubscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=unsubscribe>
+Accept-Language: en-NZ, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: EXNSW-HTCA02.nexus.csiro.au
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-TNEF-Correlator:
+x-ironport-av: E=Sophos;i="4.33,735,1220191200";    d="scan'208";a="15946523"
+x-sbrs: 4.5
+x-ironport-anti-spam-filtered: true
+x-ironport-anti-spam-result:
+ AtcCAA/IPEmAZ2D+e2dsb2JhbACTFj4BARYiBbENAQmEc4Q8gXcKPEiDag
+received-spf: None identity=helo; client-ip=130.56.64.135;
+  receiver=act-ironport-ldap.csiro.au;
+  envelope-from="mini-air-bounces@chem.harvard.edu";
+  x-sender="postmaster@anumail9.anu.edu.au";  x-conformance=sidf_compatible
+authentication-results: act-ironport-ldap.csiro.au; dkim=neutral (message
+ not signed) header.i=none
+delivered-to: mini-air@air.harvard.edu
+x-pmx-version: 5.5.0.359631, Antispam-Engine: 2.6.1.350677, Antispam-Data:
+ 2008.12.8.145824 external
+list-archive: <http://chem.harvard.edu/pipermail/mini-air>
+list-id: The mini-Annals of Improbable Research <mini-air.air.harvard.edu>
+list-post: <mailto:mini-air@air.harvard.edu>
+errors-to: mini-air-bounces@chem.harvard.edu
+x-mailman-version: 2.1.8
+x-beenthere: mini-air@air.harvard.edu
+x-original-to: mini-air@air.harvard.edu
+x-perlmx-spam: Gauge=IIIIIII, Probability=8%, Report='__CP_MEDIA_2_BODY 0,
+ __CP_MEDIA_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0,
+ __HAS_BLIZZARD_RCVD 0, __HAS_LIST_HEADER 0, __HAS_LIST_HELP 0,
+ __HAS_LIST_SUBSCRIBE 0, __HAS_LIST_UNSUBSCRIBE 0, __HAS_MSGID 0,
+ __HAS_X_MAILER 0, __LINES_OF_YELLING 0, __MIME_TEXT_ONLY 0, __MIME_VERSION
+ 0, __SANE_MSGID 0, __SXL_FREEWEB_TIMEOUT , __SXL_SIG_TIMEOUT ,
+ __SXL_URI_TIMEOUT '
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Length: 30488
+X-UID: 14883
+Status: R
+X-Status: N
+X-KMail-EncryptionState:  
+X-KMail-SignatureState:  
+X-KMail-MDN-Sent:  
+
+PLEASE FORWARD/POST AS APPROPRIATE
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+The mini-Annals of Improbable Research ("mini-AIR")
+December 2008, Issue number 2008-12. ISSN 1076-500X.
+----------------------------------------------------------
+A free newsletter of tidbits too tiny to fit in
+Annals of Improbable Research (AIR)
+      This issue at
+      <http://www.improbable.com/airchives/miniair/2008/mini2008-12.htm>
+      Archive at <http://improbable.com/airchives/miniair/>
+Key words: improbable research, science humor, Ig Nobel, AIR, the
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+
+-----------------------------
+2008-12-01 TABLE OF CONTENTS
+
+2008-12-02 Imminent Events
+2008-12-03 What's New in the Magazine: The Ig Issue
+2008-12-04 A Random Mystery: Is There a Stochastic Association?
+2008-12-05 Echoes from the Salute to Smets
+2008-12-06 Most-Absurd-Drug-Names - Selection #5
+2008-12-07 That-Which-Lurketh-Between
+2008-12-08 Orange Proton Spin Relaxation Time Competition
+2008-12-09 RESEARCH SPOTLIGHT: Nauseating Walk Around a Pole
+2008-12-10 OTHER RECENT IMPROBABILITIES: Date, Nut, 2012, Dormice
+2008-12-11 MAY WE RECOMMEND: Coins at Sea, Six Guesses
+2008-12-12 Improbable Research Events
+2008-12-13 -- How to Subscribe to AIR (*)
+2008-12-14 -- Our Address (*)
+2008-12-15 -- Please Forward/Post This Issue! (*)
+2008-12-16 -- How to Receive mini-AIR, etc. (*)
+
+      Items marked (*) are reprinted in every issue.
+
+      mini-AIR is
+      a free monthly *e-supplement* to the print magazine
+      Annals of Improbable Research
+
+
+----------------------------------------------------------
+2008-12-03 What's New in the Magazine: The Ig Issue
+
+The Nov/Dec 2008 issue (vol. 14, no. 6) is the special Ig Nobel
+issue of the Annals of Improbable Research. It will emerge soon
+from the printer, speeding straight to subscribers' doorsteps.
+(And of course a subscription - to pleasing paper or to hi-res
+PFDs - makes a perfect holiday or non-holiday gift.)
+
+The Ig issue will also be available free online. Many back issues
+are online, too, at <http://www.improbable.com/magazine/>
+
+
+----------------------------------------------------------
+2008-12-04 A Random Mystery: Is There a Stochastic Association?
+
+Help us solve a stochastic mystery. (The word "stochastic" of
+course means "having to do with randomness.")
+
+We stumbled across two book reviews attributed to the "Journal of
+the American Stochastic Association." But we have not yet
+succeeded in finding any further trace of that journal - or of
+the American Stochastic Association.
+
+A review <http://tinyurl.com/58gohh> of J. Michael Steel's book
+Stochastic Calculus and Financial Applications raves:
+      "This is one of the most interesting and easiest reads
+      in the discipline; a gem of a book."
+
+A review <http://tinyurl.com/5gb8ye> of Robert S. Liptser et
+al.'s two-volume book Statistics of Random Processes raves:
+      "These two classic volumes are very important resources
+      for both probabilists and statisticians."
+
+But...
+Is or was there a Journal of the American Stochastic Association?
+Is or was there an American Stochastic Association?
+
+If you have definite knowledge of the existence or nonexistence
+of either entity, please send it (the evidence) here.
+
+
+----------------------------------------------------------
+2008-12-05 Echoes from the Salute to Smets
+
+Three very excited scientists, each from a different city in
+France, emailed us about the identity of Professor Philippe Smets
+of the Universit=E9 Libre de Bruxelles, celebrated here last month
+as the author of studies on the necessity of the pignistic
+transformation and the generalized pignistic transformation.
+
+According to each of these three vibrant individuals, "Professor
+Philippe Smets" is leading a double or perhaps even triple life -
+- having been born with the name "Jean-Philippe Smet" and then
+attaining fame as a singer, under the name "Johnny Hallyday," and
+only subsequent to that becoming a professor. A photo and other
+information about the musical incarnation (including his
+involvement with a clothier called "Smetshop") is
+<http://tinyurl.com/6g8kcp>.
+
+A photo and other info about the pignistical incarnation is at
+<http://tinyurl.com/5ut8hu>.
+
+Our preliminary investigation suggests that Smets and Smet may be
+two distinct persons, only one of whom is currently alive. But we
+will not give up hope until and unless forced to.
+
+
+----------------------------------------------------------
+2008-12-06 Most-Absurd-Drug-Names - Selection #5
+
+Still further submissions - the last batch we'll present for a
+while, as these names are numbing - for the Most-Absurd-Drug-Name
+Compendium:
+
+Certolizumab pegol
+http://tinyurl.com/5vpalr
+Submitted by investigator Odie Geiger
+
+Cisplatin
+http://tinyurl.com/55jreh
+Submitted by investigator Nicola Goodman
+
+Drotrecogin alfa and eptacog alfa
+http://tinyurl.com/6zqcts and http://tinyurl.com/6qbafj
+Submitted by investigator Dougald Monroe
+
+
+----------------------------------------------------------
+2008-12-07 That-Which-Lurketh-Between
+
+The judges have chosen a winner in the That-Which-Lurketh-Between
+Limerick Competition, which asked for a limerick to honor the
+study "Toewebs as a Source of Gram-Negative Bacilli," W.C. Noble,
+et al., Journal of Hospital Infection, vol. 8, November 1986, pp.
+248-56.  <http://tinyurl.com/6a4pdy>.
+
+The winner is INVESTIGATOR KNOWN AS "CUTTLEFISH", whose slightly
+ungrammatical creation reads:
+
+      The violet Gram-staining shows
+         Pathogenic bacteria grows
+         (If you work where it's wet,
+      Then you knew this, I'd bet)
+      In the webbing connecting your toes!
+
+And who offers a second helping:
+
+      Since bacteria thrive where it's wettish,
+      Be safe, when you get heavy-pettish:
+      If you're dating a miner
+      You will find it benigner
+      To pass, on that toe-sucking fetish.
+
+Here's the offering from LIMERICK LAUREATE MARTIN EIGER:
+
+It's the well-informed reader who knows
+What interdactylously grows.
+    Can it harm us or kill us,
+    This dreaded bacillus,
+That's down there, right now, in your toes?
+
+(Eiger adds: "The English language appears to lack a pretentious
+adverb that refers to the spaces between toes. I propose a humble
+remedy for this tragic oversight.")
+
+
+----------------------------------------------------------
+2008-12-08 Orange Proton Spin Relaxation Time Competition
+
+Orange proton spin relaxation time is the subject of this month's
+limerick competition. To enter, compose an original limerick that
+illuminates the nature of this report:
+
+      "Proton Spin-Spin Relaxation Time of Peel and Flesh
+      of Navel Orange Varieties Exposed to Freezing Temperature,"
+      Prem N Gambhir, Young J Choi, David C Slaughter,
+      James F Thompson and Michael J McCarthy, Journal of the
+      Science of Food and Agriculture, vol. 85, 2005, pp. 2482-6.
+      (Thanks to Alison Brown for bringing this
+      to our attention.) <http://tinyurl.com/18r>
+
+RULES: Please make sure your rhymes actually do, and that your
+poem is in classic, trips-off-the-tongue limerick form.
+
+PRIZE: The winning poet will receive (if we manage to send it to
+the correct address) a free, possibly relaxed high-res PDF issue
+of the Annals of Improbable Research. Send entries (one entry per
+entrant) to:
+
+      ORANGE PROTON SPIN LIMERICK COMPETITION
+      c/o <marca AT chem2.harvard.edu>
+
+
+----------------------------------------------------------
+2008-12-09 RESEARCH SPOTLIGHT: Nauseating Walk Around a Pole
+
+This month's specially selected study explores the bravery of
+volunteers. It's:
+
+"Susceptibility to Motion Sickness Induced by Optokinetic
+Rotation and Self-Rotation by Walking Around a Vertical Pole," S.
+Hu and Y.J. Luo, Perceptual and Motor Skills, vol. 93, no. 1,
+August 2001, pp. 289-96. The authors, are at Humboldt State
+University, Arcata, CA, summarize their experiment thusly:
+
+"31 subjects viewed an optokinetic rotating drum for 12 min. in
+one session and self-rotated by walking quickly around a vertical
+pole with eyes closed while alternately flexing and extending the
+neck in another session.... The subjects developed symptoms of
+nausea, sweating, dizziness, headache, drowsiness, and changes in
+salivation in both drum rotation and self-rotation sessions.
+However, the subjects reported higher ratings of nausea in the
+session of optokinetic rotation than in the session of self-
+rotation around a vertical pole."
+
+
+----------------------------------------------------------
+2008-12-10 OTHER RECENT IMPROBABILITIES: Date, Nut, 2012, Dormice
+
+Improbable TV collections:
+      <http://improbable.com/tv/>
+<> Date with Professor L., and a close look at the eternal
+quarrel about the nut.
+
+Blog items:
+      <http://improbable.com/>
+<> Ig Nobel winner's balls and brains
+<> A happy/unhappy new pair of studies
+<> Who will win the 2012 U.S. presidential election
+<> Adventures of a new museum director
+
+Newspaper columns:
+      <http://tinyurl.com/6o348d>
+<> On the trail of evil and wickedness
+<> Gu=E9guen's big bust experiments
+<> Dishing up dormice delight
+
+New Luxuriant Flowing Hair Club for Scientists Members:
+      <http://tinyurl.com/25lmfb>
+
+
+-----------------------------------------------------------
+2008-12-11 MAY WE RECOMMEND: Coins at Sea, Six Guesses
+
+CURRENCY FLOW
+"Origin, Evolution and Circulation of Foreign Coins in the Indian
+Ocean: Proceeding of the Numismatic Workshop 'Origin and
+Evolution of Coins' and the International Seminar, Colombo, 8-10
+September 1994," Osmund Bopearachchi and D. P. M. Weerakkody,
+eds. Manohar Publishers & Distributors Ltd., New Delhi, 1998.
+(Thanks to Richard Bleiler for bringing this to our attention.)
+
+GUESSED QUEST
+"Six Hypotheses in Search of a Theorem," Harry Buhrman, Lance
+Fortnow, and Leen Torenvliet, Proceedings of the 12th IEEE
+Conference on Computational Complexity, 1997, pp. 2-12. (Thanks
+to David Molnar and Jan Johannsen for bringing this to our
+attention.)
+
+
+------------------------------------------------------------
+2008-12-12 Improbable Research Events
+
+For details and additional events, see
+<http://improbable.com/improbable-research-shows/complete-schedule>
+
+AAAS Meeting, Chicago                    - Feb 13, 2009
+
+Ig Nobel Tour of the UK                  - Mar 6-15, 2009
+
+SciFest Africa, Grahamstown, South Africa     - Mar 25-26 2009
+
+CSE, Pittsburgh, PA                 - May 4, 2009
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+2008-12-13 -- How to Subscribe to AIR (*)
+
+The Annals of Improbable Research is a 6-issues-per-year
+magazine. (It's bigger and better than the little bits of
+overflow material you've been reading in this newsletter). The
+online version is at <http://www.improbable.com/magazine/>.
+
+To subscribe to the paper-and-ink version, go to
+<http://improbable.com/subscribe/> or send in this form:
+..........................................................
+Name:
+Address:
+Address:
+City and State:
+Zip or postal code:
+Country
+Phone:         FAX:           E-mail:
+.........................................................
+SUBSCRIPTIONS (6 issues per year):
+USA            1 yr/$35       2 yrs/$63
+Canada/Mexico  1 yr/$42 US    2 yrs/$72 US
+Overseas       1 yr/$53 US    2 yrs/$97 US
+.........................................................
+Send payment (US bank check, or international money order, or
+Visa, Mastercard or Discover info) to:
+      Annals of Improbable Research (AIR)
+      PO Box 380853, Cambridge, MA 02238 USA
+      617-491-4437 FAX:617-661-0927 <air AT improbable.com>
+
+
+-----------------------------------------------------
+2008-12-14 -- Our Address (*)
+
+Annals of Improbable Research (AIR)
+PO Box 380853, Cambridge, MA 02238 USA
+617-491-4437 FAX:617-661-0927
+
+EDITORIAL: marca AT chem2.harvard.edu
+SUBSCRIPTIONS: subscriptions AT improbable.com
+WEB SITE: <http://www.improbable.com>
+
+
+-----------------------------------------------------
+2008-12-15 -- Please Forward/Post This Issue! (*)
+
+Please distribute copies of mini-AIR (or excerpts!) wherever
+appropriate. The only limitations are: A) Please indicate that
+the material comes from mini-AIR. B) You may NOT distribute mini-
+AIR for commercial purposes.
+
+      ------------- mini-AIRheads -------------
+EDITOR: Marc Abrahams
+MINI-PROOFREADER AND PICKER OF NITS (before we introduce the last
+few at the last moment): Wendy Mattson
+COMMUTATIVE EDITOR: Stanley Eigen
+ASSOCIATIVE EDITOR: Mark Dionne
+PSYCHOLOGY EDITOR: Robin Abrahams
+CO-CONSPIRATORS: Alice Shirrell Kaswell, Gary Dryfoos, Ernest
+Ersatz, S. Drew
+MAITRE DE COMPUTATION: Jerry Lotto
+AUTHORITY FIGURES: Nobel Laureates Dudley Herschbach, Sheldon
+Glashow, William Lipscomb, Richard Roberts
+
+(c) copyright 2008, Annals of Improbable Research
+
+
+-----------------------------------------------------
+2008-12-16 -- How to Receive mini-AIR, etc. (*)
+
+What you are reading right now is mini-AIR. Mini-AIR is a (free!)
+tiny monthly *supplement* to the bi-monthly print magazine.
+           ----------------------------
+To subscribe or unsubscribe, please visit
+<http://chem.harvard.edu/mailman/listinfo/mini-air>
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+
+_______________________________________________
+Mini-air mailing list
+Mini-air@air.harvard.edu
+http://chem.harvard.edu/mailman/listinfo/mini-air

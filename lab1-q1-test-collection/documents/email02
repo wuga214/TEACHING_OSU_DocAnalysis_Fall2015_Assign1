@@ -1,0 +1,513 @@
+Received: from exgw1-cbr.nexus.csiro.au ([152.83.3.66]) by EXACTN1-CBR.nexus.csiro.au with Microsoft SMTPSVC(5.0.2195.6713);
+	 Fri, 18 Apr 2008 23:24:14 +1000
+Received: from act-MTAout6.csiro.au ([150.229.7.43]) by exgw1-cbr.nexus.csiro.au with Microsoft SMTPSVC(5.0.2195.6713);
+	 Fri, 18 Apr 2008 23:24:14 +1000
+X-SBRS: 6.3
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtMDABo9CEiAZ2D+bmdsb2JhbACRY5oWPw
+X-IronPort-AV: E=Sophos;i="4.25,677,1199624400"; 
+   d="scan'208";a="191215222"
+Received: from anumail6.anu.edu.au ([130.56.64.140])
+  by act-ironport-ldap.csiro.au with ESMTP/TLS/DHE-RSA-AES256-SHA; 18 Apr 2008 23:24:14 +1000
+Received: from chem.harvard.edu (chem.harvard.edu [128.103.96.254])
+	by anumail6.anu.edu.au (8.13.8/8.13.8) with ESMTP id m3IDO6B8020975
+	for <paul.thomas@anu.edu.au>; Fri, 18 Apr 2008 23:24:11 +1000 (EST)
+	(envelope-from mini-air-bounces@chem.harvard.edu)
+Received: from chem.harvard.edu (chem.harvard.edu [127.0.0.1])
+	by chem.harvard.edu (Postfix) with ESMTP id 6F78E113F97;
+	Fri, 18 Apr 2008 09:07:16 -0400 (EDT)
+X-Original-To: mini-air@air.harvard.edu
+Delivered-To: mini-air@air.harvard.edu
+Received: from QMTA02.emeryville.ca.mail.comcast.net
+	(qmta02.emeryville.ca.mail.comcast.net [76.96.30.24])
+	by chem.harvard.edu (Postfix) with ESMTP id 9B0D1113D2D
+	for <mini-air@air.harvard.edu>; Fri, 18 Apr 2008 09:06:19 -0400 (EDT)
+Received: from OMTA07.emeryville.ca.mail.comcast.net ([76.96.30.59])
+	by QMTA02.emeryville.ca.mail.comcast.net with comcast
+	id F0LA1Z0071GXsucA209M00; Fri, 18 Apr 2008 13:04:43 +0000
+Received: from [192.168.1.100] ([76.19.64.99])
+	by OMTA07.emeryville.ca.mail.comcast.net with comcast
+	id F16B1Z00B28Uzto8T00000; Fri, 18 Apr 2008 13:06:13 +0000
+X-Authority-Analysis: v=1.0 c=1 a=0dSSCedAPYgA:10 a=P5jqPY5q80UA:10
+	a=jIfanU7UAAAA:8 a=CjxXgO3LAAAA:8 a=6D-Hy7tQAAAA:8 a=OPzIfofIAAAA:8
+	a=UVq9kkz1AAAA:8 a=vyo-Ye8WAAAA:8 a=uWpNjx2UBVi2Eln7TlgA:9
+	a=Jre56OS1aD8LbeU8zggA:7 a=wBhMT9-iv29N96ea_5Q-fcWN69EA:4
+	a=QhG1sEnpFG8A:10
+	a=viksUPKxHHcA:10 a=_q8Q0QWmO9cA:10 a=ptXlZgw1ZlIA:10 a=GPg30UNevoAA:10
+	a=Le0zlXOLzSIA:10 a=x5XM52EWLrgA:10 a=0hygJ-gJBKgA:10 a=mbQ1mHQZ8V0A:10
+	a=dclxZDl7ickA:10 a=FWdE53RHWygA:10
+Message-Id: <5956A908-FFD2-4FC1-BF6F-28EBA2F0AC9E@chem2.harvard.edu>
+From: Marc Abrahams <marca@chem2.harvard.edu>
+To: mini-air@chem.harvard.edu
+Mime-Version: 1.0 (Apple Message framework v919.2)
+Date: Fri, 18 Apr 2008 09:06:11 -0400
+X-Mailer: Apple Mail (2.919.2)
+Subject: [Mini-air] April mini-AIR - Kluges, the life cycle,
+	music response in mental
+X-BeenThere: mini-air@air.harvard.edu
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: The mini-Annals of Improbable Research <mini-air.air.harvard.edu>
+List-Unsubscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=unsubscribe>
+List-Archive: <http://chem.harvard.edu/pipermail/mini-air>
+List-Post: <mailto:mini-air@air.harvard.edu>
+List-Help: <mailto:mini-air-request@air.harvard.edu?subject=help>
+List-Subscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=subscribe>
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Sender: mini-air-bounces@chem.harvard.edu
+Errors-To: mini-air-bounces@chem.harvard.edu
+X-PMX-Version: 5.4.1.325704, Antispam-Engine: 2.6.0.325393, Antispam-Data: 2008.4.18.60358 external
+X-PerlMx-Spam: Gauge=X, Probability=10%, Report='LINES_OF_YELLING_3 0.671, BODY_SIZE_10000_PLUS 0, ECARD_KNOWN_DOMAINS 0, __CP_NAME_BODY 0, __CP_NOT_1 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_419_BADTHINGS 0, __HAS_LIST_HEADER 0, __HAS_LIST_HELP 0, __HAS_LIST_SUBSCRIBE 0, __HAS_LIST_UNSUBSCRIBE 0, __HAS_MSGID 0, __HAS_X_MAILER 0, __LINES_OF_YELLING 0, __MIME_TEXT_ONLY 0, __MIME_VERSION 0, __SANE_MSGID 0'
+Return-Path: mini-air-bounces@chem.harvard.edu
+X-OriginalArrivalTime: 18 Apr 2008 13:24:14.0673 (UTC) FILETIME=[7F1A8410:01C8A157]
+X-Length: 20224
+X-UID: 6709
+Status: R
+X-Status: N
+X-KMail-EncryptionState:  
+X-KMail-SignatureState:  
+X-KMail-MDN-Sent:  
+
+PLEASE FORWARD/POST AS APPROPRIATE
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+The mini-Annals of Improbable Research ("mini-AIR")
+April 2008, Issue number 2008-04. ISSN 1076-500X.
+----------------------------------------------------------
+A free newsletter of tidbits too tiny to fit in
+Annals of Improbable Research (AIR)
+      This issue at
+      <http://www.improbable.com/airchives/miniair/2008/mini2008-04.htm>
+      Archive at <http://www.improbable.com/magazine/>
+Key words: improbable research, science humor, Ig Nobel, AIR, the
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+
+-----------------------------
+2008-04-01 TABLE OF CONTENTS
+
+2008-04-02 Imminent Events
+2008-04-03 What's New in the Magazine
+2008-04-04 Sentence-of-Death: Kluge's Masterpiece
+2008-04-05 Great Research Kluges
+2008-04-06 Journals for Your Life Cycle
+2008-04-07 Plea for Incompetence
+2008-04-08 Pithy Thought of the Month
+2008-04-09 Why Bedouin Robes Are Not Gray, Perhaps
+2008-04-10 Shuffling/Hitching/Scooting/Sliding Poet
+2008-04-11 Peat-Bog Man's Intestines Competition
+2008-04-12 RESEARCH SPOTLIGHT: Music Response in a Mental Asylum
+2008-04-13 BLOGLIGHTS: Promiscuous Streets, Clowns, Colors
+2008-04-14 MAY WE RECOMMEND: Sexual Addiction and Overdenture
+2008-04-15 Improbable Research Events
+2008-04-16 -- How to Subscribe to AIR (*)
+2008-04-17 -- Our Address (*)
+2008-04-18 -- Please Forward/Post This Issue! (*)
+2008-04-19 -- How to Receive mini-AIR, etc. (*)
+
+      Items marked (*) are reprinted in every issue.
+
+      mini-AIR is
+      a free monthly *e-supplement* to the print magazine
+      Annals of Improbable Research
+
+----------------------------------------------------------
+2008-04-02 Imminent Events
+
+      CAMBRIDGE, MA  Mon, Apr 21, 7 pm. Free.
+      Skeptics in the Pub, at Asgard, 350 Mass Ave.
+      http://upcoming.yahoo.com/event/470373
+
+      PHILADELPHIA   Wed, Apr 23, noon. Free.
+      Chemical Heritage Foundation - Brown Bag Lecture
+      315 Chestnut Street, 6th Floor Conference Room
+
+
+----------------------------------------------------------
+2008-04-03 What's New in the Magazine
+
+The entire magazine -- the Annals of Improbable Research -- is
+now online for free for all. Open access, open access, we repeat.
+
+The March/April 2008 issue (vol. 14, no. 2) is a special Writing
+Research issue. Highlights include:
+
+<> "How to Write 85,000 (or maybe 200,000) Books"
+<> "How to Write an Interdisciplinary Research Paper: Planning
+for Retirement by Solving Time Travel Paradoxes Using Open Book
+Management in Nearby Disk Galaxies," Eric Schulman, Eric
+Schulman, Eric Schulman, and Eric Schulman
+<> "Hard Looks at Doctors' Handwriting"
+
+It and many back issues are online at
+<http://www.improbable.com/magazine/>
+
+----------------------------------------------------------
+2008-04-04 Sentence-of-Death: Kluge's Masterpiece
+
+The Sentence-of-Death project grinds on. Investigator Blanton
+Daves writes to remind us that it has been ten years since we
+presented E. Kluge's classic sentence-of-death.
+
+In tribute, we present it again. Investigator David Rind alerted
+us to the study "Health Information, Privacy, Confidentiality and
+Ethics," E.H. Kluge, International Journal of Bio-Medical
+Computing, vol. 35, supplement 1, 1994, pp. 23-7. The study's
+author, Eike-Henner Kluge, at the University of Victoria, Canada,
+begins his abstract with this sentence-of-death:
+
+"Electronic patient records are becoming tologically reified
+entities that play the role of epistemic patient analogues in
+information space."
+
+
+----------------------------------------------------------
+2008-04-05 Great Research Kluges
+
+Here are pointers to some exploits by other great Kluges of the first
+type:
+
+"The mere fact that so distinguished a scholar as Professor Kluge could
+edit a practically unaltered version of a Chaucer Grammar and
+Prosody..." <http://tinyurl.com/3nq6kz>
+
+"Professor Kluge has confidence in cladograms..."
+<http://tinyurl.com/45wn3t>
+
+<Professor Kluge has served as editor of the German literature journal
+Monatshefte..." <http://tinyurl.com/45z3mc>
+
+<Professor Kluge has written a beautifully written and insightful look
+at the educational process at a small liberal arts college...>
+<http://tinyurl.com/3v8cuc>
+
+"Professor Kluge will visit MSL on Tuesday, 2 September, to discuss a
+possible collaboration in the future accelerator project..."
+<http://tinyurl.com/4om2vd>
+
+"Professor Kluge prescribes a quantity of Epsom salts..."
+<http://tinyurl.com/4bsx6f>
+
+Kluge is of course not only a noble name, but also a noble, and perhaps
+unrelated, word. One of the word's definitions, put (or perhaps
+repeated?) into words by celebrity hacker Eric Raymond
+<http://tinyurl.com/6gqclf>, is:
+
+     "A clever programming trick
+     intended to solve a particular nasty case
+     in an expedient, if not clear, manner.
+     Often used to repair bugs."
+
+
+----------------------------------------------------------
+2008-04-06 Journals for Your Life Cycle
+
+Reto Schneider, author of the book Das Buch der Verr=FCckten
+Experimente, compiled a list of journals that follow you through
+life:
+
+=ABThe Birth Gazette=BB
+=ABGifted Child Quarterly=BB
+=ABJournal of Child Psychotherapy=BB
+=ABChild and Adolescent Psychopharmacology News=BB
+=ABJournal of Adolescence=BB
+=ABJournal of Drug Education=BB
+=ABJournal of Marriage and Family=BB
+=ABJournal of Happiness Studies=BB
+=ABJournal of Marital and Family Therapy=BB
+=ABHeadache Quarterly=BB
+=ABJournal of Worry Research=BB
+=ABJournal of Divorce & Remarriage=BB
+=ABHealthy Weight Journal=BB
+=ABAgeing International=BB
+=ABContemporary Gerontology=BB
+=ABJournal of Alzheimer's Disease=BB
+=ABArchives of Suicide Research=BB
+=ABJournal of Near-Death Studies=BB
+=ABDeath Studies=BB
+
+More of Schneider's work is at
+<http://www.verrueckte-experimente.de/>
+
+
+----------------------------------------------------------
+2008-04-07 Plea for Incompetence
+
+You may have missed our plea for incompetence - specifically for
+social scientists to reap and study the rare bounty that's
+available right now. The entire tract is at
+<http://improbable.com/2008/03/23/social-scientists-alert-gather-that-data/ =
+
+ >.
+
+
+----------------------------------------------------------
+2008-04-08 Pithy Thought of the Month
+
+"That we are smarter than algae is a given. Whether we are wiser
+remains an open question."
+
+-Robert Frenay, in the book Pulse, page 440.
+
+
+----------------------------------------------------------
+2008-04-09 Why Bedouin Robes Are Not Gray, Perhaps
+
+Investigator Mike Adams writes, about the report "Why Do Bedouins
+Wear Black Robes":
+
+      ***
+Many years ago I heard Knut Schmidt-Nielsen, famous for his work
+on adaptations to desert conditions, talk about this. He said
+that he finally asked the Bedouin why they used black wool. Their
+answer was 'all of our goats are black'. So, if the story is
+true, they didn't see the decision as one of choice.
+      ***
+
+Note: He was referring to:
+<http://improbable.com/2006/08/17/guardian-column-27/>
+
+
+----------------------------------------------------------
+2008-04-10 Shuffling/Hitching/Scooting/Sliding Poet
+
+The judges have chosen a winner for last month's
+Shuffling/Hitching/Scooting/Sliding Limerick Competition, which
+asked for a limerick to honor the study "Shuffling, Hitching,
+Scooting or Sliding: Some Observations in 30 Otherwise Normal
+Children," R. Robson, Developmental Medicine and Child Neurology,
+vol. 12, 1970, pp. 608-17.
+
+The winner and her limerick are:
+
+INVESTIGATOR ALANNA COCTOKIN:
+Their normal behavior aside,
+They scoot and they shuffle or slide.
+    Whenever they swerved,
+    Doc Robson observed
+Who moved, and with what kind of stride.
+
+AND HERE IS THE ASSESSMENT FROM LIMERICK LAUREATE MARTIN EIGER:
+The kids in this short publication
+Are normal, save one aberration.
+    They shuffle and hitch,
+    Scoot and slide, all of which
+Subjects them to some observation.
+
+
+----------------------------------------------------------
+2008-04-11 Peat-Bog Man's Intestines Competition
+
+Peat-Bog Man's intestines are the subject of this month's
+limerick competition. To enter, compose an original limerick that
+illuminates the nature of this report:
+
+                * * *
+
+"The Intestines of a More Than 2000 Years Old Peat-Bog Man:
+Microscopy, Magnetic Resonance Imaging and 14C-dating," Hans
+St=F8dkilde-J=F8rgensena, Niels Otto Jacobsenb, Esbern Warnckec and
+Jan Heinemeierd, Journal of Archaeological Science, vol. 35, no.
+3, March 2008, pp. 530-4.
+<http://dx.doi.org/10.1016/j.jas.2007.05.010>
+(Thanks to Tom Gill for bringing this to our attention.) The
+authors, at Aarhus University, report:
+
+"The intestines of Grauballe Man, who is a 2400-old late Iron Age
+body found in a raised bog in the central part of Jutland,
+Denmark, was examined by microscopy and magnetic resonance
+imaging. Plant roots found in the tissue were radiocarbon dated
+by AMS.... The low signal spots observed by MRI turned out to be
+formed by plant roots penetrating the tissue. AMS 14C-dating of
+these indicated that penetration appeared not more than 200 years
+after the body was laid in the bog."
+
+                * * *
+
+RULES: Please make sure your rhymes actually do, and that your
+poem is in classic, trips-off-the-tongue limerick form.
+
+PRIZE: The winning poet will receive (if we manage to send it to
+the correct address) a free, possibly peaty issue of the Annals
+of Improbable Research. Send entries (one entry per entrant) to:
+
+      PEAT-BOG MAN'S INTESTINE LIMERICK COMPETITION
+      c/o <marca AT chem2.harvard.edu>
+
+
+----------------------------------------------------------
+2008-04-12 RESEARCH SPOTLIGHT: Music Response in a Mental Asylum
+
+This month's specially selected study is:
+
+"A Comparison of the Effects of Hard Rock and Easy Listening on
+the Frequency of Observed Inappropriate Behaviors: Control of
+Environmental Antecedents in a Large Public Area," Clarke S.
+Harris, Richard J. Bradley and Sharon K. Titus, Journal of Music
+Therapy, vol. 29,  no. 1, Spring 1992, pp. 6-17. (Thanks to Jim
+Cowdery for bringing this to our attention.) The authors explain
+that their report:
+
+"Compares the inappropriate behavior of clients in an open
+courtyard at a state mental hospital when hard rock and rap music
+were played (21 days), followed by easy listening and country
+music (21 days).... More inappropriate behavior was observed when
+hard rock and rap music were played than when easy listening and
+country western music were played."
+
+
+----------------------------------------------------------
+2008-04-13 BLOGLIGHTS: Promiscuous Streets, Clowns, Colors
+
+Here are some recent topics in our blog:
+
+<> The promiscuous streets of Edinburgh
+<> Discarded underwear + paper production =3D literacy
+<> Judgment on clowns
+<> The truth behind the Bozo Van
+<> Calculator for the incalculatable
+
+and some from the newspaper column in The Guardian:
+
+<> The Colours of Indian Bureaucracy
+<> The promiscuous streets of Edinburgh
+<> Wassersuggiana (parts 1 and 2)
+
+      ... and others
+
+      Read the blog
+      every day at <http://www.improbable.com>
+
+
+-----------------------------------------------------------
+2008-04-14 MAY WE RECOMMEND: Sexual Addiction and Overdenture
+
+LOVE YOUR WORK
+"It's a Wonderful Profession: What the Journal Contributes,"
+David L. Delmonico, Sexual Addiction and Compulsivity, vol. 10,
+no. 4, October-December 2003, pp. 223-4.
+
+HUM ON SPARK-EROSION OVERDENTURE
+"Implants and the Maxillary Spark-Erosion Overdenture," S.K. Hum,
+Oral Health, vol. 84, no. 11, November 1994, pp. 9-12.
+
+
+------------------------------------------------------------
+2008-04-15 Improbable Research Events
+
+For details and additional events, see
+<http://improbable.com/improbable-research-shows/complete-schedule>
+
+SKEPTICS IN THE PUB, CAMBRIDGE, MA  -- APR 21, 2008
+
+CHEMICAL HERITAGE FOUNDATION, PHILADELPHIA    -APR 23, 2008
+
+AMERICAN SOCIETY FOR MASS SPECTROMETRY (ASMS) ANNUAL CONFERENCE,
+DENVER                         -- JUN 1, 2008
+
+CHELTENHAM SCIENCE FESTIVAL, UK     -- JUN 7, 2008
+
+ALPBACH TECHNOLOGY FORUM, AUSTRIA   -- AUG 21-23, 2008
+
+IG NOBEL PRIZE CEREMONY             -- OCT 2, 2008
+
+IG INFORMAL LECTURES           -- OCT 4, 2008
+
+AMERICAN PHYSICAL SOCIETY, DAYTON, OHIO  OCT 10, 2008
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+2008-04-16 -- How to Subscribe to AIR (*)
+
+The Annals of Improbable Research is a 6-issues-per-year
+magazine. (It's bigger and better than the little bits of
+overflow material you've been reading in this newsletter). The
+online version is at <http://www.improbable.com/magazine/>.
+
+To subscribe to the paper-and-ink version, go to
+<http://improbable.com/subscribe/> or send in this form:
+................................................................
+Name:
+Address:
+Address:
+City and State:
+Zip or postal code:
+Country
+Phone:         FAX:           E-mail:
+.........................................................
+SUBSCRIPTIONS (6 issues per year):
+USA            1 yr/$35       2 yrs/$63
+Canada/Mexico  1 yr/$42 US    2 yrs/$72 US
+Overseas       1 yr/$53 US    2 yrs/$97 US
+.........................................................
+BACK ISSUES are available, too:
+<http://www.improbable.com/airchives/paperair/stale.htm>
+.........................................................
+Send payment (US bank check, or international money order, or
+Visa, Mastercard or Discover info) to:
+      Annals of Improbable Research (AIR)
+      PO Box 380853, Cambridge, MA 02238 USA
+      617-491-4437 FAX:617-661-0927 <air AT improbable.com>
+
+
+-----------------------------------------------------
+2008-04-17 -- Our Address (*)
+
+Annals of Improbable Research (AIR)
+PO Box 380853, Cambridge, MA 02238 USA
+617-491-4437 FAX:617-661-0927
+
+EDITORIAL: marca AT chem2.harvard.edu
+SUBSCRIPTIONS: air AT improbable.com
+WEB SITE: <http://www.improbable.com>
+
+
+-----------------------------------------------------
+2008-04-18 -- Please Forward/Post This Issue! (*)
+
+Please distribute copies of mini-AIR (or excerpts!) wherever
+appropriate. The only limitations are: A) Please indicate that
+the material comes from mini-AIR. B) You may NOT distribute mini-
+AIR for commercial purposes.
+
+      ------------- mini-AIRheads -------------
+EDITOR: Marc Abrahams
+MINI-PROOFREADER AND PICKER OF NITS (before we introduce the last
+few at the last moment): Wendy Mattson
+COMMUTATIVE EDITOR: Stanley Eigen
+ASSOCIATIVE EDITOR: Mark Dionne
+PSYCHOLOGY EDITOR: Robin Abrahams
+CO-CONSPIRATORS: Alice Shirrell Kaswell, Gary Dryfoos, Ernest
+Ersatz, S. Drew
+MAITRE DE COMPUTATION: Jerry Lotto
+AUTHORITY FIGURES: Nobel Laureates Dudley Herschbach, Sheldon
+Glashow, William Lipscomb, Richard Roberts
+
+(c) copyright 2008, Annals of Improbable Research
+
+
+-----------------------------------------------------
+2008-04-19 -- How to Receive mini-AIR, etc. (*)
+
+What you are reading right now is mini-AIR. Mini-AIR is a (free!)
+tiny monthly *supplement* to the bi-monthly print magazine.
+           ----------------------------
+To subscribe or unsubscribe, please visit
+<http://chem.harvard.edu/mailman/listinfo/mini-air>
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+
+
+_______________________________________________
+Mini-air mailing list
+Mini-air@air.harvard.edu
+http://chem.harvard.edu/mailman/listinfo/mini-air

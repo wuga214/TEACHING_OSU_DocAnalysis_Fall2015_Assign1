@@ -1,0 +1,493 @@
+Received: from exvic-htca02.nexus.csiro.au (138.194.81.127) by
+ EXNSW-HTCA01.nexus.csiro.au (130.155.117.126) with Microsoft SMTP Server
+ (TLS) id 8.1.291.1; Mon, 24 Nov 2008 13:49:19 +1100
+Received: from exnswn2-syd.nexus.csiro.au (130.155.3.32) by
+ exvic-htca02.nexus.csiro.au (138.194.81.127) with Microsoft SMTP Server id
+ 8.1.291.1; Mon, 24 Nov 2008 13:49:18 +1100
+Received: from excore2.nexus.csiro.au ([144.110.67.56]) by
+ exnswn2-syd.nexus.csiro.au with Microsoft SMTPSVC(5.0.2195.6713);	 Mon, 24
+ Nov 2008 13:49:17 +1100
+Received: from exgw1-mel.nexus.csiro.au ([138.194.3.56]) by
+ excore2.nexus.csiro.au with Microsoft SMTPSVC(5.0.2195.6713);	 Mon, 24 Nov
+ 2008 13:19:17 +1030
+Received: from act-MTAout6.csiro.au ([150.229.7.43]) by
+ exgw1-mel.nexus.csiro.au with Microsoft SMTPSVC(5.0.2195.6713);	 Mon, 24 Nov
+ 2008 13:49:17 +1100
+Received: from anumail9.anu.edu.au ([130.56.64.135])  by
+ act-ironport-ldap.csiro.au with ESMTP/TLS/DHE-RSA-AES256-SHA; 24 Nov 2008
+ 13:49:17 +1100
+Received: from mailin1.anu.edu.au (mailin1.anu.edu.au [130.56.64.228])	by
+ anumail9.anu.edu.au (8.14.3/8.14.3) with ESMTP id mAO2nGsm001442	for
+ <paul.thomas@anu.edu.au>; Mon, 24 Nov 2008 13:49:16 +1100 (EST)
+Received: from mailin1.anu.edu.au (localhost.localdomain [127.0.0.1])	by
+ localhost (Postfix) with SMTP id 2AC421B4059C	for <paul.thomas@anu.edu.au>;
+ Mon, 24 Nov 2008 13:49:17 +1100 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [128.103.96.254])	by
+ mailin1.anu.edu.au (Postfix) with ESMTP id 84A0C1B4059B	for
+ <paul.thomas@anu.edu.au>; Mon, 24 Nov 2008 13:49:13 +1100 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [127.0.0.1])	by
+ chem.harvard.edu (Postfix) with ESMTP id 47FAD113F80;	Sun, 23 Nov 2008
+ 21:38:40 -0500 (EST)
+Received: from yw-out-2324.google.com (yw-out-2324.google.com [74.125.46.28])
+	by chem.harvard.edu (Postfix) with ESMTP id 2C0D5113CB7	for
+ <mini-air@air.harvard.edu>; Sun, 23 Nov 2008 21:37:34 -0500 (EST)
+Received: by yw-out-2324.google.com with SMTP id 5so733197ywb.11	for
+ <mini-air@air.harvard.edu>; Sun, 23 Nov 2008 18:37:33 -0800 (PST)
+Received: by 10.100.144.11 with SMTP id r11mr1326727and.24.1227494253605;	Sun,
+ 23 Nov 2008 18:37:33 -0800 (PST)
+Received: from ?192.168.1.101? (c-66-31-45-12.hsd1.ma.comcast.net
+	[66.31.45.12])	by mx.google.com with ESMTPS id
+ d29sm3034878and.1.2008.11.23.18.37.30	(version=TLSv1/SSLv3 cipher=RC4-MD5);
+	Sun, 23 Nov 2008 18:37:31 -0800 (PST)
+From: Marc Abrahams <marca@chem2.harvard.edu>
+To: "mini-air@chem.harvard.edu" <mini-air@chem.harvard.edu>
+Sender: "mini-air-bounces@chem.harvard.edu"
+	<mini-air-bounces@chem.harvard.edu>
+Date: Mon, 24 Nov 2008 13:37:29 +1100
+Subject: [Mini-air] Nov mini-AIR: Random question; Salute to Smets;	Heck and
+ van Loon
+Thread-Topic: [Mini-air] Nov mini-AIR: Random question; Salute to Smets;
+	Heck and van Loon
+Thread-Index: AclN3z/Fj346pMZGTMClH8uDk/55/Q==
+Message-ID: <5C07244A-9E36-41A9-9D0E-FFCD0BCAD6FE@chem2.harvard.edu>
+List-Help: <mailto:mini-air-request@air.harvard.edu?subject=help>
+List-Subscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=subscribe>
+List-Unsubscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=unsubscribe>
+Accept-Language: en-NZ, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 0b
+X-MS-Exchange-Organization-AuthSource: exvic-htca02.nexus.csiro.au
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-TNEF-Correlator:
+x-originalarrivaltime: 24 Nov 2008 02:49:17.0394 (UTC)
+ FILETIME=[3E3C1320:01C94DDF]
+x-ironport-av: E=Sophos;i="4.33,655,1220191200";    d="scan'208";a="14572177"
+x-sbrs: 4.5
+x-ironport-anti-spam-filtered: true
+x-ironport-anti-spam-result:
+ AikBACelKUmCOECHkWdsb2JhbACTHz4BAQEBCQsKBxGwTQEJEIQmhHCBcgo9Q4NB
+received-spf: None identity=helo; client-ip=130.56.64.135;
+  receiver=act-ironport-ldap.csiro.au;
+  envelope-from="mini-air-bounces@chem.harvard.edu";
+  x-sender="postmaster@anumail9.anu.edu.au";  x-conformance=sidf_compatible
+authentication-results: act-ironport-ldap.csiro.au; dkim=neutral (message
+ not signed) header.i=none
+delivered-to: mini-air@air.harvard.edu
+x-pmx-version: 5.5.0.356843, Antispam-Engine: 2.6.1.350677, Antispam-Data:
+ 2008.11.24.5811 external
+list-archive: <http://chem.harvard.edu/pipermail/mini-air>
+list-id: The mini-Annals of Improbable Research <mini-air.air.harvard.edu>
+list-post: <mailto:mini-air@air.harvard.edu>
+errors-to: mini-air-bounces@chem.harvard.edu
+x-mailman-version: 2.1.8
+x-beenthere: mini-air@air.harvard.edu
+x-original-to: mini-air@air.harvard.edu
+x-perlmx-spam: Gauge=X, Probability=10%, Report='LINES_OF_YELLING_3 0.671,
+ BODY_SIZE_10000_PLUS 0, ECARD_KNOWN_DOMAINS 0, __CP_MEDIA_2_BODY 0,
+ __CP_MEDIA_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0,
+ __FRAUD_419_LOC 0, __HAS_LIST_HEADER 0, __HAS_LIST_HELP 0,
+ __HAS_LIST_SUBSCRIBE 0, __HAS_LIST_UNSUBSCRIBE 0, __HAS_MSGID 0,
+ __HAS_X_MAILER 0, __LINES_OF_YELLING 0, __MIME_TEXT_ONLY 0, __MIME_VERSION
+ 0, __SANE_MSGID 0'
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Length: 29662
+X-UID: 14291
+Status: R
+X-Status: N
+X-KMail-EncryptionState:  
+X-KMail-SignatureState:  
+X-KMail-MDN-Sent:  
+
+PLEASE FORWARD/POST AS APPROPRIATE
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+The mini-Annals of Improbable Research ("mini-AIR")
+November 2008, Issue number 2008-11. ISSN 1076-500X.
+----------------------------------------------------------
+A free newsletter of tidbits too tiny to fit in
+Annals of Improbable Research (AIR)
+      This issue at
+      <http://www.improbable.com/airchives/miniair/2008/mini2008-11.htm>
+      Archive at <http://improbable.com/airchives/miniair/>
+Key words: improbable research, science humor, Ig Nobel, AIR, the
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+
+-----------------------------
+2008-11-01 TABLE OF CONTENTS
+
+2008-11-02 Imminent Events
+2008-11-03 What's New in the Magazine
+2008-11-04 Random Question
+2008-11-05 Salute to Smets
+2008-11-06 Most-Absurd-Drug-Names - Selection #4
+2008-11-07 Delicious-Guinea-Pigs Substitute
+2008-11-08 That-Which-Lurketh-Between Competition
+2008-11-09 RESEARCH SPOTLIGHT: No Rest for the Healthy
+2008-11-10 TV Disturbs Them
+2008-11-11 OTHER RECENT IMPROBABILITIES: Inertia, Blowholes, Punk
+2008-11-12 MAY WE RECOMMEND: Hell and van Loon
+2008-11-13 Improbable Research Events
+2008-11-14 -- How to Subscribe to AIR (*)
+2008-11-15 -- Our Address (*)
+2008-11-16 -- Please Forward/Post This Issue! (*)
+2008-11-17 -- How to Receive mini-AIR, etc. (*)
+
+      Items marked (*) are reprinted in every issue.
+
+      mini-AIR is
+      a free monthly *e-supplement* to the print magazine
+      Annals of Improbable Research
+
+----------------------------------------------------------
+2008-11-02 Imminent Events
+
+      SCIENCE FRIDAY IG NOBEL BROADCAST        NOV 28
+      A specially edited recording of
+      the 2008 Ig Nobel Prize Ceremony.
+      Listen on the radio or on the net:
+      <http://www.sciencefriday.com/about/listen/>
+
+
+----------------------------------------------------------
+2008-11-03 What's New in the Magazine
+
+The November/December 2008 issue (vol. 14, no. 6) is the special
+Ig Nobel issue of the Annals of Improbable Research.
+It's at the printer now, and will emerge soon.
+
+Highlights include:
+
+<> Many, many photos of the winners and the ceremony.
+<> The complete acceptance speeches.
+<> Libretto of the mini-opera "Redundancy, Again", and photos of
+the premiere performance.
+<> And much more.
+
+Many back issues are online at
+<http://www.improbable.com/magazine/>
+
+
+----------------------------------------------------------
+2008-11-04 Random Question
+
+Question A:  What is your favorite random number?
+
+Please write the number on a piece of paper.
+
+Fold the paper lengthwise.
+Now fold it again.
+Now fold it again.
+Now fold it again.
+
+Put the paper your pocket.
+
+Obtain a second piece of paper.
+On it, write the answer to this question:
+What is wrong with Question A?
+
+Put the second paper your pocket, but do not fold it.
+
+Please await further instructions.
+
+
+----------------------------------------------------------
+2008-11-05 Salute to Smets
+
+If you believe in something, but you're not sure how (let alone
+how much) to count on your belief, Philippe Smets, of the
+Universit=E9 Libre de Bruxelles, is your man.
+
+Professor Smets wrote "Quantifying Beliefs by Belief Functions:
+An Axiomatic Justification," P. Smets, Proceedings of the 13th
+International Joint Conference on Artificial Intelligence,
+IJCAI'93, 1993, pp. 598-603.
+
+And Professor Smets coined the word "pignistic," which has
+allowed a generation of party-goers (especially party-goers who
+go to parties planned to promote the propagation of the phrase
+"pignistic probabilities") the pleasure of proposing that other
+people proclaim these phrases:
+
+"THE NECESSITY OF THE PIGNISTIC TRANSFORMATION"
+"THE GENERALIZED PIGNISTIC TRANSFORMATION"
+
+The phrases come from these two studies:
+
+      "Decision Making in the TBM: The Necessity of
+      the Pignistic Transformation," Philippe Smets,
+      International Journal of Approximate Reasoning,
+      vol. 38, no. 2, February 2005,pp. 133-47.
+
+      "The Generalized Pignistic Transformation," Jean Dezert,
+       Florentin Smarandache and Milan Daniel, Proceedings of
+      the Seventh International Conference on Information Fusion,
+      International Society for Information Fusion,
+      Stockholm, Sweden, 2004, pp. 384-91.
+
+Peruse these and other papers at <http://tinyurl.com/665phw>
+
+
+----------------------------------------------------------
+2008-11-06 Most-Absurd-Drug-Names - Selection #4
+
+Still further submissions for the Most-Absurd-Drug-Name
+Compendium:
+
+Propain
+http://www.propainmigraine.com/index.html
+Submitted by investigator Frank Wales
+
+Dextropropoxifeno
+http://www.chemindustry.com/chemicals/781106.html
+Submitted by investigator DrC. Adolfo L. M=E9ndez Berhondo
+
+More next month, maybe.
+
+
+----------------------------------------------------------
+2008-11-07 Delicious-Guinea-Pigs Substitute
+
+The judges, themselves sated on Guinea pig, declare that there is
+no winner for last month's Delicious Guinea Pigs Limerick
+Competition, which asked for a limerick to honor the study
+"Delicious Guinea Pigs: Seasonality Studies and the Use of Fat in
+the Pre-Columbian Andean Diet," Silvana A. Rosenfeld, Quaternary
+International, vol. 180, no. 1, March 2008, pp. 127-34.
+<http://tinyurl.com/4ohdgr>.
+
+But... the judges do declare an honorary winner - INVESTIGATOR
+CHIP VERES, who writes:
+
+"I tried unsuccessfully to read the article 'Delicious guinea
+pigs: Seasonality studies and the use of fat in the pre-Columbian
+Andean diet'. And I reply:
+
+      Guinea Pigs are nifty
+      But not very thrifty
+      To read I must pay
+      Thirty-one fifty"
+
+But here's an offering from LIMERICK LAUREATE MARTIN EIGER:
+
+This paper explains to us why it
+Is safe to skip carbs in your diet.
+    Do not eat a rat,
+    Cat or bat for your fat,
+But a guinea pig. Go ahead, try it!
+
+
+----------------------------------------------------------
+2008-11-08 That-Which-Lurketh-Between Competition
+
+Toe web bacilli are the subject of this month's limerick
+competition. To enter, compose an original limerick that
+illuminates the nature of this report:
+
+      "Toewebs as a Source of Gram-Negative Bacilli,"
+      W.C. Noble, et al., Journal of Hospital Infection, vol. 8,
+      November 1986, pp. 248-56.  <http://tinyurl.com/6a4pdy>
+
+RULES: Please make sure your rhymes actually do, and that your
+poem is in classic, trips-off-the-tongue limerick form.
+
+PRIZE: The winning poet will receive (if we manage to send it to
+the correct address) a free, possibly delicious issue of the
+Annals of Improbable Research. Send entries (one entry per
+entrant) to:
+
+      THAT-WHICH-LURKETH-BETWEEN LIMERICK COMPETITION
+      c/o <marca AT chem2.harvard.edu>
+
+
+----------------------------------------------------------
+2008-11-09 RESEARCH SPOTLIGHT: No Rest for the Healthy
+
+This month's specially selected study is:
+
+"The Well-Made Bed: An Unappreciated Public Health Risk," Robert
+Patterson and Christopher Stewart-Patterson, Canadian Medical
+Association Journal, vol. 165, no. 12,  December 11, 2001, pp.
+1591-2. (Thanks to Francis Turner for bringing this to our
+attention.) <http://www.cmaj.ca/cgi/reprint/165/12/1591.pdf>
+Dr. Patterson is a general surgeon at Uintah Basin Medical
+Center, Roosevelt, Utah. Dr. Stewart-Patterson is a general
+practitioner in North Vancouver, British Columbia, Canada.
+
+
+----------------------------------------------------------
+2008-11-10 TV Disturbs Them
+
+Although our new TV series is getting good reviews, the
+dissenters can be most fun to read. The copies on New Scientist's
+YouTube channel, especially, have drawn some dismissive comments
+(though the viewers there overall rated the videos four-to-five
+stars out of five):
+
+      <http://tinyurl.com/6687dj>:
+
+           "yo, that was so random"
+
+           "worst video created"
+
+The newest video features snippets of The Great Inertial Debate
+that was held in London. See it at
+<http://www.youtube.com/watch?v=3DhEJ-VKa9KYs>.
+
+See all 12 of episodes (that we're release so far) at
+<http://improbable.com/tv/>.
+
+
+----------------------------------------------------------
+2008-11-11 OTHER RECENT IMPROBABILITIES: Inertia, Blowholes, Punk
+
+Improbable TV collections:
+      <http://improbable.com/tv/>
+<> "Inertia Debates"
+<> "Burnt food, slipping socks"
+<> "Subliminal, subliminal, shrew no chew"
+
+Blog items:
+      <http://improbable.com/>
+<> Is Obama the Antichrist?
+<> Statistician Prince and the mistress-money survey
+<> Sounds from, if not like, teeth
+<> "Helicopters Collect Whale Snot from Blowholes"
+
+Newspaper columns:
+      <http://tinyurl.com/6o348d>
+<> When punks grow old
+<> How Woody the living hammer hit the spot
+<> (L)Ode Upon a Creaking Chair
+
+New Luxuriant Flowing Hair Club for Scientists Members:
+      <http://tinyurl.com/25lmfb>
+
+
+-----------------------------------------------------------
+2008-11-12 MAY WE RECOMMEND: Hell and van Loon
+
+HELL ON THE HECK REACTION
+"Palladium/Magnesium-Lanthanum Mixed Oxide Catalyst in the Heck
+Reaction," Agnieszka Cwik, Zolt=E1n Hell, and Fran=E7ois Figueras,
+Advanced Synthesis and Catalysis, vol. 348, nos. 4-5, 2006, pp.
+523-30.
+
+VAN LOON: HOW HIGH THE BIRD
+"A Comparative Analysis of the Influence of Weather on the Flight
+Altitudes of Birds," Judy Shamoun-Baranes, Emiel van Loon, Hans
+van Gasteren, Jelmer van Belle, Willem Bouten and Luit Buurma,
+Bulletin of the American Meteorological Society, vol. 877, 2006,
+pp. 47-61. (Thanks to Tom Gill for bringing this to our
+attention.)
+
+
+------------------------------------------------------------
+2008-11-13 Improbable Research Events
+
+For details and additional events, see
+<http://improbable.com/improbable-research-shows/complete-schedule>
+
+"Science Friday" Ig Nobel radio special       - Nov 28, 2008
+
+AAAS Meeting, Chicago                         - Feb 13, 2009
+
+Ig Nobel Tour of the UK                  - Mar 6-15, 2009
+
+SciFest Africa, Grahamstown, South Africa     - Mar 25-26 2009
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+2008-11-14 -- How to Subscribe to AIR (*)
+
+The Annals of Improbable Research is a 6-issues-per-year
+magazine. (It's bigger and better than the little bits of
+overflow material you've been reading in this newsletter). The
+online version is at <http://www.improbable.com/magazine/>.
+
+To subscribe to the paper-and-ink version, go to
+<http://improbable.com/subscribe/> or send in this form:
+..........................................................
+Name:
+Address:
+Address:
+City and State:
+Zip or postal code:
+Country
+Phone:         FAX:           E-mail:
+.........................................................
+SUBSCRIPTIONS (6 issues per year):
+USA            1 yr/$35       2 yrs/$63
+Canada/Mexico  1 yr/$42 US    2 yrs/$72 US
+Overseas       1 yr/$53 US    2 yrs/$97 US
+.........................................................
+Send payment (US bank check, or international money order, or
+Visa, Mastercard or Discover info) to:
+      Annals of Improbable Research (AIR)
+      PO Box 380853, Cambridge, MA 02238 USA
+      617-491-4437 FAX:617-661-0927 <air AT improbable.com>
+
+
+-----------------------------------------------------
+2008-11-15 -- Our Address (*)
+
+Annals of Improbable Research (AIR)
+PO Box 380853, Cambridge, MA 02238 USA
+617-491-4437 FAX:617-661-0927
+
+EDITORIAL: marca AT chem2.harvard.edu
+SUBSCRIPTIONS: subscriptions AT improbable.com
+WEB SITE: <http://www.improbable.com>
+
+
+-----------------------------------------------------
+2008-11-16 -- Please Forward/Post This Issue! (*)
+
+Please distribute copies of mini-AIR (or excerpts!) wherever
+appropriate. The only limitations are: A) Please indicate that
+the material comes from mini-AIR. B) You may NOT distribute mini-
+AIR for commercial purposes.
+
+      ------------- mini-AIRheads -------------
+EDITOR: Marc Abrahams
+MINI-PROOFREADER AND PICKER OF NITS (before we introduce the last
+few at the last moment): Wendy Mattson
+COMMUTATIVE EDITOR: Stanley Eigen
+ASSOCIATIVE EDITOR: Mark Dionne
+PSYCHOLOGY EDITOR: Robin Abrahams
+CO-CONSPIRATORS: Alice Shirrell Kaswell, Gary Dryfoos, Ernest
+Ersatz, S. Drew
+MAITRE DE COMPUTATION: Jerry Lotto
+AUTHORITY FIGURES: Nobel Laureates Dudley Herschbach, Sheldon
+Glashow, William Lipscomb, Richard Roberts
+
+(c) copyright 2008, Annals of Improbable Research
+
+
+-----------------------------------------------------
+2008-11-17 -- How to Receive mini-AIR, etc. (*)
+
+What you are reading right now is mini-AIR. Mini-AIR is a (free!)
+tiny monthly *supplement* to the bi-monthly print magazine.
+           ----------------------------
+To subscribe or unsubscribe, please visit
+<http://chem.harvard.edu/mailman/listinfo/mini-air>
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+
+_______________________________________________
+Mini-air mailing list
+Mini-air@air.harvard.edu
+http://chem.harvard.edu/mailman/listinfo/mini-air

@@ -1,0 +1,521 @@
+Received: from exvic-htca02.nexus.csiro.au (138.194.81.127) by
+ EXNSW-HTCA02.nexus.csiro.au (130.155.117.127) with Microsoft SMTP Server
+ (TLS) id 8.1.291.1; Fri, 26 Sep 2008 17:54:21 +1000
+Received: from exnswn2-syd.nexus.csiro.au (130.155.3.32) by
+ exvic-htca02.nexus.csiro.au (138.194.81.127) with Microsoft SMTP Server id
+ 8.1.291.1; Fri, 26 Sep 2008 17:54:20 +1000
+Received: from EXNSW2-GRF.nexus.csiro.au ([152.83.62.10]) by
+ exnswn2-syd.nexus.csiro.au with Microsoft SMTPSVC(5.0.2195.6713);	 Fri, 26
+ Sep 2008 17:54:19 +1000
+Received: from exgw1-cbr.nexus.csiro.au ([152.83.3.66]) by
+ EXNSW2-GRF.nexus.csiro.au with Microsoft SMTPSVC(5.0.2195.6713);	 Fri, 26 Sep
+ 2008 17:54:19 +1000
+Received: from vic-MTAout6.csiro.au ([150.229.64.43]) by
+ exgw1-cbr.nexus.csiro.au with Microsoft SMTPSVC(5.0.2195.6713);	 Fri, 26 Sep
+ 2008 17:54:18 +1000
+Received: from anumail8.anu.edu.au ([130.56.64.134])  by
+ vic-ironport-ldap.csiro.au with ESMTP/TLS/DHE-RSA-AES256-SHA; 26 Sep 2008
+ 17:54:18 +1000
+Received: from mailin4.anu.edu.au (mailin4.anu.edu.au [130.56.64.231])	by
+ anumail8.anu.edu.au (8.14.3/8.14.3) with ESMTP id m8Q7sIkQ000479	for
+ <paul.thomas@anu.edu.au>; Fri, 26 Sep 2008 17:54:18 +1000 (EST)
+Received: from mailin4.anu.edu.au (localhost.localdomain [127.0.0.1])	by
+ localhost (Postfix) with SMTP id DD2194B05FC	for <paul.thomas@anu.edu.au>;
+ Fri, 26 Sep 2008 17:54:17 +1000 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [128.103.96.254])	by
+ mailin4.anu.edu.au (Postfix) with ESMTP id D45994B062C	for
+ <paul.thomas@anu.edu.au>; Fri, 26 Sep 2008 17:54:15 +1000 (EST)
+Received: from chem.harvard.edu (chem.harvard.edu [127.0.0.1])	by
+ chem.harvard.edu (Postfix) with ESMTP id D27CE113F79;	Fri, 26 Sep 2008
+ 03:43:14 -0400 (EDT)
+Received: from QMTA06.emeryville.ca.mail.comcast.net
+	(qmta06.emeryville.ca.mail.comcast.net [76.96.30.56])	by chem.harvard.edu
+ (Postfix) with ESMTP id 73D43113CB4	for <mini-air@air.harvard.edu>; Fri, 26
+ Sep 2008 03:40:29 -0400 (EDT)
+Received: from OMTA12.emeryville.ca.mail.comcast.net ([76.96.30.44])	by
+ QMTA06.emeryville.ca.mail.comcast.net with comcast	id KKbh1a00H0x6nqcA6KgUBH;
+ Fri, 26 Sep 2008 07:40:28 +0000
+Received: from [192.168.1.100] ([24.61.12.151])	by
+ OMTA12.emeryville.ca.mail.comcast.net with comcast	id KKgS1a0043FYDo88YKgT71;
+ Fri, 26 Sep 2008 07:40:28 +0000
+From: Marc Abrahams <marca@chem2.harvard.edu>
+To: "mini-air@chem.harvard.edu" <mini-air@chem.harvard.edu>
+Sender: "mini-air-bounces@chem.harvard.edu"
+	<mini-air-bounces@chem.harvard.edu>
+Date: Fri, 26 Sep 2008 17:40:26 +1000
+Subject: [Mini-air] Sept mini-AIR - Basiliximab, Ig, and A. Slob
+Thread-Topic: [Mini-air] Sept mini-AIR - Basiliximab, Ig, and A. Slob
+Thread-Index: AckfrRYZ+H97MyNIS62aFc+tAqsL9w==
+Message-ID: <60893472-81F7-4F20-82D7-E9B631D56C9E@chem2.harvard.edu>
+List-Help: <mailto:mini-air-request@air.harvard.edu?subject=help>
+List-Subscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=subscribe>
+List-Unsubscribe: <http://chem.harvard.edu/mailman/listinfo/mini-air>,
+	<mailto:mini-air-request@air.harvard.edu?subject=unsubscribe>
+Accept-Language: en-NZ, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 0b
+X-MS-Exchange-Organization-AuthSource: exvic-htca02.nexus.csiro.au
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-TNEF-Correlator:
+x-originalarrivaltime: 26 Sep 2008 07:54:18.0402 (UTC)
+ FILETIME=[141D0820:01C91FAD]
+x-ironport-av: E=Sophos;i="4.33,311,1220191200";    d="scan'208";a="345779"
+x-sbrs: 5.3
+x-ironport-anti-spam-filtered: true
+x-ironport-anti-spam-result:
+ AqUDAIAx3EiAZ2D+gWdsb2JhbACSDIERAQEWIqBzDwEJhk08XQo8QYMd
+received-spf: None identity=helo; client-ip=130.56.64.134;
+  receiver=vic-ironport-ldap.csiro.au;
+  envelope-from="mini-air-bounces@chem.harvard.edu";
+  x-sender="postmaster@anumail8.anu.edu.au";  x-conformance=sidf_compatible
+authentication-results: vic-ironport-ldap.csiro.au; dkim=neutral (message
+ not signed) header.i=none
+delivered-to: mini-air@air.harvard.edu
+x-pmx-version: 5.4.6.353000, Antispam-Engine: 2.6.1.350677, Antispam-Data:
+ 2008.9.26.74024 external
+list-archive: <http://chem.harvard.edu/pipermail/mini-air>
+list-id: The mini-Annals of Improbable Research <mini-air.air.harvard.edu>
+list-post: <mailto:mini-air@air.harvard.edu>
+errors-to: mini-air-bounces@chem.harvard.edu
+x-mailman-version: 2.1.8
+x-beenthere: mini-air@air.harvard.edu
+x-original-to: mini-air@air.harvard.edu
+x-authority-analysis: v=1.0 c=1 a=PDzY3Ob090kA:10 a=5jAgC5LHghEA:10
+	a=jIfanU7UAAAA:8 a=-fSimywQAAAA:8 a=PiV9aA0DAAAA:20 a=3gfV_M51AAAA:8
+	a=xi-rER8mAAAA:8 a=Cub5DXfbAAAA:8 a=E4yHAq_uAAAA:20 a=mgqkTVU5AAAA:20
+	a=UVq9kkz1AAAA:8 a=KqoqWSQSAAAA:20 a=abnqueldAAAA:20 a=joeujeI2AAAA:20
+	a=vyo-Ye8WAAAA:8 a=M-MnqAgB_2QNBaovHnQA:9 a=a6AUVx9AwYxOaN0KUtwA:7
+	a=1Jkdr9JWlgbJ7y00BtrJda5qLBMA:4 a=IlI3vfzBU4sA:10 a=viksUPKxHHcA:10
+	a=_q8Q0QWmO9cA:10 a=Os_1ekjrs5wA:10 a=pZkwh22m1QIA:10 a=xH64pEd4HbAA:10
+	a=N6QbuOTHMGAA:10 a=zCnhmRoCnKwA:10 a=D5xIfVRsbS4A:10 a=QhG1sEnpFG8A:10
+	a=UVG-bnHfs-AA:10 a=FWdE53RHWygA:10
+x-perlmx-spam: Gauge=X, Probability=10%, Report='LINES_OF_YELLING_3 0.671,
+ BODY_SIZE_10000_PLUS 0, IP_HTTP_ADDR 0, __CP_NAME_BODY 0, __CP_URI_IN_BODY
+ 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_419_BADTHINGS 0,
+ __FRAUD_419_CONTACT_AGE 0, __FRAUD_419_CONTACT_SEX 0, __HAS_LIST_HEADER 0,
+ __HAS_LIST_HELP 0, __HAS_LIST_SUBSCRIBE 0, __HAS_LIST_UNSUBSCRIBE 0,
+ __HAS_MSGID 0, __HAS_X_MAILER 0, __LINES_OF_YELLING 0, __MEDS_PLAIN_PHARMACY
+ 0, __MIME_TEXT_ONLY 0, __MIME_VERSION 0, __SANE_MSGID 0'
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Length: 32460
+X-UID: 12155
+Status: R
+X-Status: N
+X-KMail-EncryptionState:  
+X-KMail-SignatureState:  
+X-KMail-MDN-Sent:  
+
+PLEASE FORWARD/POST AS APPROPRIATE
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+The mini-Annals of Improbable Research ("mini-AIR")
+September 2008, Issue number 2008-09. ISSN 1076-500X.
+----------------------------------------------------------
+A free newsletter of tidbits too tiny to fit in
+Annals of Improbable Research (AIR)
+      This issue at
+      <http://www.improbable.com/airchives/miniair/2008/mini2008-09.htm>
+      Archive at <http://improbable.com/airchives/miniair/>
+Key words: improbable research, science humor, Ig Nobel, AIR, the
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+
+-----------------------------
+2008-09-01 TABLE OF CONTENTS
+
+2008-09-02 Imminent Events
+2008-09-03 What's New in the Magazine
+2008-09-04 Most-Absurd-Drug-Name Compendium - Selection #1
+2008-09-05 Ig Nobel Ceremony approaches
+2008-09-06 More about the Ig
+2008-09-07 And a bit more
+2008-09-08 More Sex From A. Slob
+2008-09-08 More Sex From A. Slob
+2008-09-09 Regge Pole Poet
+2008-09-10 Tongue Scraper Side-Effect Limerick Competition
+2008-09-11 RESEARCH SPOTLIGHT: Speed of Sound in Frozen Orange
+Juice
+2008-09-12 OTHER RECENT IMPROBABILITIES: Based, Mirandized
+2008-09-13 MAY WE RECOMMEND: Math Weird, Face Mask Facing
+2008-09-14 Improbable Research Events
+2008-09-15 -- How to Subscribe to AIR (*)
+2008-09-16 -- Our Address (*)
+2008-09-17 -- Please Forward/Post This Issue! (*)
+2008-09-18 -- How to Receive mini-AIR, etc. (*)
+
+      Items marked (*) are reprinted in every issue.
+
+      mini-AIR is
+      a free monthly *e-supplement* to the print magazine
+      Annals of Improbable Research
+
+----------------------------------------------------------
+2008-09-02 Imminent Events
+
+      Ig Nobel Prize Ceremony & webcast       OCT 2
+      Ig Informal Lectures                OCT 4
+
+      Dayton, OH                          OCT 10
+      Genoa Science Festival                   OCT 24
+
+      Details below
+
+
+----------------------------------------------------------
+2008-09-03 What's New in the Magazine
+
+The September/October 2008 issue (vol. 14, no. 5) is the special
+Dots and Spots issue of the Annals of Improbable Research.
+Highlights include:
+
+<> "Dots and Spots Research Review"
+
+<> "The Inventive Inventions of Dotts"
+
+<> "Spots Where the Spotted Were Spotted"
+
+The issue will emerge from the printers any day now, and will
+appear both in paper and online.
+Many back issues are online, too, at
+<http://www.improbable.com/magazine/>
+
+
+----------------------------------------------------------
+2008-09-04 Most-Absurd-Drug-Name Compendium - Selection #1
+
+Further submissions for the Most-Absurd-Drug-Name Compendium:
+
+Basiliximab
+<http://www.mayoclinic.com/health/drug-information/DR600211>
+Submitted by investigator Jolinda Smith
+
+Vatalanib
+<http://tinyurl.com/63dxyn>
+Submitted by investigator Kurt Fried
+
+Eltrombopag
+<http://content.nejm.org/cgi/content/short/357/22/2237>
+Submitted by investigator Kurt Fried
+
+
+COUNTER-PRODUCTIVELY NAMED DRUG:
+
+Acitac
+<http://www.nepalibazar.com/pharma/industries/gd.htm>
+Submitted by investigator Elizabeth Palmberg, who says:
+"I actually knew someone who was working for the consulting company
+that named this drug, and he protested the idea, pointing out that, if
+you say it out loud, it sounds like someone's derriere is being
+attacked."
+
+More next month.
+
+
+----------------------------------------------------------
+2008-09-05 Ig Nobel Ceremony approaches
+
+On October 2, the ten 2008 Ig Nobel Prize winners - each having
+done something that first makes people LAUGH, then makes them
+THINK - will be revealed. Coming from four continents, the
+winners will step forth at the Ig Nobel Prize Ceremony, collect
+their Prizes, give one-minute acceptance speeches, and assume
+their places (whatever those may be) in history.
+
+The live webcast will begin at 7:15 pm Boston time with a pre-
+ceremony mini-concert by Paul & Storm. There will also be a live
+cablecast at MIT, Gustavus Adolphus College, University of
+Wisconsin, New Jersey Institute of Technology, and elsewhere.
+
+INFO: <http://improbable.com/ig/2008/>.
+
+CEREMONY TICKETS:
+<http://140.247.118.196/tickets/details.cfm?EVENT_ID=3D7995>
+
+WEBCAST AND CABLECAST: <http://improbable.com/ig/2008/webcast/>
+
+
+----------------------------------------------------------
+2008-09-06 More about the Ig
+
+More of what's on tap at the ceremony:
+
+This year's 24/7 Lecturers (each explaining a subject first in 24
+seconds, then in seven words) and their topics:
+
+Benoit Mandelbrot: Fractals
+Anna Lysyanskaya: Cryptography
+Steven Pinker: The Human Mind
+Dany Adams: Biology
+William Lipscomb: Redundancy
+
+The ceremony will include the Win-a-Date-With-Benoit-Mandelbrot
+Contest, and the premiere, for the first time, of the mini-opera
+"Redundancy, Again."
+
+Also, several past winners are returning to take a bow.
+
+
+----------------------------------------------------------
+2008-09-07 And a bit more
+
+The Ig Informal Lectures will happen at MIT on Saturday, Oct. 4,
+at 1:00 pm. It's free, but seating is limited.
+Details: <http://improbable.com/ig/2008/#informal-lectures>
+
+
+----------------------------------------------------------
+2008-09-08 More Sex From A. Slob
+
+Investigator P.J. Finn complains that we have neglected the once-
+popular feature called "Sex From A. Slob." Dr. Slob, investigator
+Finn reminds us, is based at Erasmus University, Rotterdam.
+
+To lessen investigator Finn's unhappiness, the series resumes:
+
+SEX FROM  A. SLOB (1)
+"Sexual Arousability and the Menstrual Cycle," A. Koos Slob, et
+al., Psychoneuroendocrinology. vol. 21, no. 6, August 1996, pp.
+545-58.  <http://tinyurl.com/3mvuqp>
+
+SEX FROM A. SLOB (2)
+"Age, Libido, and Male Sexual Function," A. Koos Slob, Prostate,
+vol. 10, 2000, pp. 9-13.  <http://tinyurl.com/4pwv58>
+
+
+----------------------------------------------------------
+2008-09-09 Regge Pole Poet
+
+The judges, their cheeks stuffed with crisp bread and tongue,
+have chosen a winner for last month's Regge Pole Limerick
+Competition, which asked for a limerick to honor the study "What
+Can One Do With Regge Poles?" D. Sokolovski, A.Z. Msezane, Z.
+Felfli, S.Yu. Ovchinnikov and J.H. Macek, Nuclear Instruments and
+Methods in Physics Research Section B: Beam Interactions with
+Materials and Atoms, vol. 261, nos. 1-2, August 2007, pp. 133-7.
+<http://dx.doi.org/10.1016/j.nimb.2007.04.057>
+
+The winner is INVESTIGATOR R. BURPEE BOHAKER. His limerick:
+
+With Regge poles, what can one do?
+Six scientists wish that they knew.
+    They looked at some studies
+    By fun fuddy-duddies,
+And wrote a nice five-page review.
+
+And here's an offering from LIMERICK LAUREATE MARTIN EIGER:
+
+Electrons and atoms collide.
+Pole analysis, thus, is applied.
+    What happens to matter?
+    Does it splatter or scatter?
+The authors provide, here, a guide.
+
+
+----------------------------------------------------------
+2008-09-10 Tongue Scraper Side-Effect Limerick Competition
+
+Tongue scraper side-effects are the subject of this month's
+limerick competition. (Thanks to investigator Kristine Danowski
+for bring it to our attention.) To enter, compose an original
+limerick that illuminates the nature of this report:
+
+                * * *
+
+"Endocarditis after Use of Tongue Scraper," A.M. Redmond, C.
+Meiklejohn, T.J. Kidd, R. Horvath, and C. Coulter, Emerging
+Infectious Diseases, vol. 13, no. 9, September 1, 2007, pp. 1440-
+1. The authors, at The Prince Charles Hospital, Chermside,
+Queensland, Australia and at Pathology Queensland, Herston,
+Queensland, Australia, report:
+
+"Tongue scraping is advocated as a therapy for managing halitosis
+and as a technique for preventing dental caries by reducing
+bacterial counts in the mouth.... We report the case of a woman
+in whom infective endocarditis followed the use of a tongue
+scraper."
+
+                * * *
+
+RULES: Please make sure your rhymes actually do, and that your
+poem is in classic, trips-off-the-tongue limerick form.
+
+PRIZE: The winning poet will receive (if we manage to send it to
+the correct address) a free, possibly scraped issue of the Annals
+of Improbable Research. Send entries (one entry per entrant) to:
+
+      TONGUE SCRAPER LIMERICK COMPETITION
+      c/o <marca AT chem2.harvard.edu>
+
+
+----------------------------------------------------------
+2008-09-11 RESEARCH SPOTLIGHT: Speed of Sound in Frozen Orange
+Juice
+
+This month's specially selected study is:
+
+"Ultrasonic Velocity Measurements in Frozen Model Food
+Solutions," Ibrahim G=FClseren and John N. Coupland, Journal of
+Food Engineering, vol. 79, no. 3, 2007, pp. 1071-18.
+<http://tinyurl.com/48xk72> (Thanks to Bob O'Hara for bringing
+this to our attention.) The authors, at Pennsylvania State
+University, report:
+
+"The speed of sound was measured in solutions of sucrose (0-70
+wt/vol%), glycerol (0-30 wt/vol%) and orange juice (0-40 solids
+wt/vol%) as a function of temperature (10 =B0C to -13 =B0C)."
+
+
+----------------------------------------------------------
+2008-09-12 OTHER RECENT IMPROBABILITIES: Based, Mirandized
+
+Improbable Research TV episodes:
+      <http://improbable.com/tv/>
+<> Incompetence, claw, claw
+<> Swallowing, storage
+
+Blog items:
+      <http://improbable.com/>
+<> Forensic Adventures: Birthday Boy
+<> Math Quiz: The Lt. Governor's base
+<> Super-ultra-advanced technology update: Telepathy
+<> Miss C's advice for new students
+<> Brains of London taxi drivers, again
+
+Newspaper columns:
+      <http://tinyurl.com/6o348d>
+<> Congestion and its comeuppance
+<> Modern Post Scholarship
+<> Being Carmen Miranda
+
+New Luxuriant Flowing Hair Club for Scientists Members:
+      <http://tinyurl.com/25lmfb>
+
+
+-----------------------------------------------------------
+2008-09-13 MAY WE RECOMMEND: Math Weird, Face Mask Facing
+
+MATH: CONTINUOUSLY WEIRD
+"Most Continuous Functions are Weird," J. Ceder and T.L. Pearson,
+Periodica Mathematica Hungarica, vol. 12   no. 4, 1981, pp. 255-
+60.
+
+FACE MASK FACING
+"If Wearing a Mask, Which Way Should You Face for a Sneeze?" J.K.
+Schultz, AORN Journal, vol. 31, no. 7, June 1980, pp. 1190-92.
+
+
+------------------------------------------------------------
+2008-09-14 Improbable Research Events
+
+For details and additional events, see
+<http://improbable.com/improbable-research-shows/complete-schedule>
+
+IG NOBEL PRIZE CEREMONY             -- OCT 2, 2008
+
+IG INFORMAL LECTURES           -- OCT 4, 2008
+
+AMERICAN PHYSICAL SOCIETY, DAYTON, OHIO  OCT 10, 2008
+
+GENOA SCIENCE FESTIVAL, ITALY       -- OCT 24, 2008
+
+CONGRESO NACIONAL DE DIVULGACION DE LA CIANCIA Y LA TECNICA
+NAYARIT, TEPIC, MEXICO    -- NOV 12, 2008
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+2008-09-15 -- How to Subscribe to AIR (*)
+
+The Annals of Improbable Research is a 6-issues-per-year
+magazine. (It's bigger and better than the little bits of
+overflow material you've been reading in this newsletter). The
+online version is at <http://www.improbable.com/magazine/>.
+
+To subscribe to the paper-and-ink version, go to
+<http://improbable.com/subscribe/> or send in this form:
+..........................................................
+Name:
+Address:
+Address:
+City and State:
+Zip or postal code:
+Country
+Phone:         FAX:           E-mail:
+.........................................................
+SUBSCRIPTIONS (6 issues per year):
+USA            1 yr/$35       2 yrs/$63
+Canada/Mexico  1 yr/$42 US    2 yrs/$72 US
+Overseas       1 yr/$53 US    2 yrs/$97 US
+.........................................................
+BACK ISSUES are available, too:
+<http://www.improbable.com/airchives/paperair/stale.htm>
+.........................................................
+Send payment (US bank check, or international money order, or
+Visa, Mastercard or Discover info) to:
+      Annals of Improbable Research (AIR)
+      PO Box 380853, Cambridge, MA 02238 USA
+      617-491-4437 FAX:617-661-0927 <air AT improbable.com>
+
+
+-----------------------------------------------------
+2008-09-16 -- Our Address (*)
+
+Annals of Improbable Research (AIR)
+PO Box 380853, Cambridge, MA 02238 USA
+617-491-4437 FAX:617-661-0927
+
+EDITORIAL: marca AT chem2.harvard.edu
+SUBSCRIPTIONS: subscriptions AT improbable.com
+WEB SITE: <http://www.improbable.com>
+
+
+-----------------------------------------------------
+2008-09-17 -- Please Forward/Post This Issue! (*)
+
+Please distribute copies of mini-AIR (or excerpts!) wherever
+appropriate. The only limitations are: A) Please indicate that
+the material comes from mini-AIR. B) You may NOT distribute mini-
+AIR for commercial purposes.
+
+      ------------- mini-AIRheads -------------
+EDITOR: Marc Abrahams
+MINI-PROOFREADER AND PICKER OF NITS (before we introduce the last
+few at the last moment): Wendy Mattson
+COMMUTATIVE EDITOR: Stanley Eigen
+ASSOCIATIVE EDITOR: Mark Dionne
+PSYCHOLOGY EDITOR: Robin Abrahams
+CO-CONSPIRATORS: Alice Shirrell Kaswell, Gary Dryfoos, Ernest
+Ersatz, S. Drew
+MAITRE DE COMPUTATION: Jerry Lotto
+AUTHORITY FIGURES: Nobel Laureates Dudley Herschbach, Sheldon
+Glashow, William Lipscomb, Richard Roberts
+
+(c) copyright 2008, Annals of Improbable Research
+
+
+-----------------------------------------------------
+2008-09-18 -- How to Receive mini-AIR, etc. (*)
+
+What you are reading right now is mini-AIR. Mini-AIR is a (free!)
+tiny monthly *supplement* to the bi-monthly print magazine.
+           ----------------------------
+To subscribe or unsubscribe, please visit
+<http://chem.harvard.edu/mailman/listinfo/mini-air>
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+
+
+_______________________________________________
+Mini-air mailing list
+Mini-air@air.harvard.edu
+http://chem.harvard.edu/mailman/listinfo/mini-air
