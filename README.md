@@ -15,3 +15,8 @@ Step by Step instruction
 6, Test the search engine on data collection "government" which you can download from github<br />
 7, modify _analyzer in FileIndexBuilder to improve search performance<br />
 8, You can also modify similarity function to further improve performance<br />
+
+
+More detail about trec_eval
+===
+http://curric.dlib.vt.edu/modDev/package_modules/MidtermModuleTeam5-TRECevalFinal.pdf
